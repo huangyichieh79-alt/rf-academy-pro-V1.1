@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 59,
+  "id": "day059",
+  "topic": "FCC",
+  "topic_zh_tw": "FCC 美國驗證",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten FCC terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "equipment authorization review",
+      "zh_tw": "設備授權審查",
+      "pronunciation": "en-US · equipment authorization review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The final review found that equipment authorization review was consistently documented.",
+      "example_zh_tw": "最終審查確認設備授權審查已有一致的文件紀錄。"
+    },
+    {
+      "english": "FCC identifier review",
+      "zh_tw": "FCC 識別碼審查",
+      "pronunciation": "en-US · F-C-C identifier review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for FCC identifier review.",
+      "example_zh_tw": "技術紀錄包含FCC 識別碼審查的客觀證據。"
+    },
+    {
+      "english": "grantee code review",
+      "zh_tw": "申請者代碼審查",
+      "pronunciation": "en-US · grantee code review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The customer requested a clear explanation of grantee code review.",
+      "example_zh_tw": "客戶要求清楚說明申請者代碼審查。"
+    },
+    {
+      "english": "certification procedure review",
+      "zh_tw": "驗證程序審查",
+      "pronunciation": "en-US · certification procedure review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for certification procedure review.",
+      "example_zh_tw": "程序定義了驗證程序審查的接受準則。"
+    },
+    {
+      "english": "supplier declaration review",
+      "zh_tw": "供應商聲明審查",
+      "pronunciation": "en-US · supplier declaration review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The test plan identifies how supplier declaration review will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄供應商聲明審查。"
+    },
+    {
+      "english": "intentional radiator review",
+      "zh_tw": "有意輻射器審查",
+      "pronunciation": "en-US · intentional radiator review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The project team discussed intentional radiator review during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了有意輻射器審查。"
+    },
+    {
+      "english": "unintentional radiator review",
+      "zh_tw": "非有意輻射器審查",
+      "pronunciation": "en-US · unintentional radiator review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The assessor reviewed the traceable evidence supporting unintentional radiator review.",
+      "example_zh_tw": "評鑑人員審查了支持非有意輻射器審查的可追溯證據。"
+    },
+    {
+      "english": "modular approval review",
+      "zh_tw": "模組認可審查",
+      "pronunciation": "en-US · modular approval review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about modular approval review from working hypotheses.",
+      "example_zh_tw": "調查將模組認可審查的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "permissive change review",
+      "zh_tw": "允許變更審查",
+      "pronunciation": "en-US · permissive change review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The engineer explained why permissive change review was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了允許變更審查與符合性判定的關聯。"
+    },
+    {
+      "english": "exposure evaluation review",
+      "zh_tw": "曝露評估審查",
+      "pronunciation": "en-US · exposure evaluation review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The technician verified exposure evaluation review before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了曝露評估審查。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "We isolated exposure evaluation review as the dominant factor.",
+      "zh_tw": "我們已確認曝露評估審查是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on equipment authorization review.",
+      "zh_tw": "客戶要求提供設備授權審查的精簡進度說明。"
+    },
+    {
+      "english": "The measured FCC identifier review remains within the specified limit.",
+      "zh_tw": "量測到的FCC 識別碼審查仍在規定限值內。"
+    },
+    {
+      "english": "Could you record grantee code review in the test log?",
+      "zh_tw": "可以請你把申請者代碼審查記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in certification procedure review.",
+      "zh_tw": "最新結果顯示驗證程序審查有所變化。"
+    }
+  ],
+  "dialogue": {
+    "context": "FCC pre-test review",
+    "context_zh_tw": "FCC 美國驗證測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified equipment authorization review and recorded the setup.",
+        "zh_tw": "我已確認設備授權審查並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for FCC identifier review?",
+        "zh_tw": "很好。有哪些證據支持對FCC 識別碼審查的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Wrong test setup — FCC investigation",
+    "title_zh_tw": "測試設定錯誤：FCC 美國驗證調查",
+    "problem": "A pre-compliance check on Day 059 shows a repeatable wrong test setup condition.",
+    "background": "The FCC configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The measurement distance is incorrect.",
+      "The required auxiliary mode was not activated."
+    ],
+    "check_steps": [
+      "Pause the test and compare setup against the method.",
+      "Photograph connections and verify instrument settings."
+    ],
+    "corrective_actions": [
+      "Rebuild the setup from the approved checklist.",
+      "Invalidate affected results and repeat the sequence."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the FCC design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Explain a failed test case",
+    "question": "Explain a failed test case and its outcome. Connect your answer to FCC.",
+    "hint_zh_tw": "清楚交代標準、失敗數據、根因、修正及複測結果。 並連結到「FCC 美國驗證」。",
+    "sample_answer": "The initial result exceeded the limit. I verified the setup, isolated the path, and tested one change at a time. The confirmed correction passed the repeated measurement with stable margin. In FCC, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「equipment authorization review」的正確繁體中文是什麼？",
+      "options": [
+        "設備授權審查",
+        "驗證程序審查",
+        "非有意輻射器審查",
+        "允許變更審查"
+      ],
+      "answer": "設備授權審查",
+      "explanation": "equipment authorization review 指的是「設備授權審查」。",
+      "term": "equipment authorization review"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「FCC 識別碼審查」的正確工程英文是什麼？",
+      "options": [
+        "FCC identifier review",
+        "supplier declaration review",
+        "modular approval review",
+        "exposure evaluation review"
+      ],
+      "answer": "FCC identifier review",
+      "explanation": "工程文件中可使用 FCC identifier review。",
+      "term": "FCC identifier review"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The customer requested a clear explanation of ________.",
+      "prompt_zh_tw": "客戶要求清楚說明申請者代碼審查。",
+      "answer": "grantee code review",
+      "accepted_answers": [
+        "grantee code review"
+      ],
+      "explanation": "完整句子的關鍵詞是 grantee code review。",
+      "term": "grantee code review"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "certification procedure review",
+      "options": [
+        "certification procedure review",
+        "unintentional radiator review",
+        "exposure evaluation review",
+        "FCC identifier review"
+      ],
+      "answer": "certification procedure review",
+      "explanation": "播放內容是 certification procedure review（驗證程序審查）。",
+      "term": "certification procedure review"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Explain a failed test case and its outcome. Connect your answer to FCC.",
+      "prompt_zh_tw": "清楚交代標準、失敗數據、根因、修正及複測結果。 並連結到「FCC 美國驗證」。",
+      "answer": "The initial result exceeded the limit. I verified the setup, isolated the path, and tested one change at a time. The confirmed correction passed the repeated measurement with stable margin. In FCC, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "supplier",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "supplier declaration review"
+    }
+  ]
+}

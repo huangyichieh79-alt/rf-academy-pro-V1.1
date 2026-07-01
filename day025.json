@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 25,
+  "id": "day025",
+  "topic": "CE",
+  "topic_zh_tw": "CE 歐盟符合性",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten CE terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "CE marking",
+      "zh_tw": "CE 標誌",
+      "pronunciation": "en-US · CE marking",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to CE marking.",
+      "example_zh_tw": "團隊評估了與CE 標誌相關的技術風險。"
+    },
+    {
+      "english": "European Union declaration",
+      "zh_tw": "歐盟符合性聲明",
+      "pronunciation": "en-US · European Union declaration",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The team reviewed European Union declaration before approving the Day 025 test configuration.",
+      "example_zh_tw": "團隊在核准第 025 天的測試配置前審查了歐盟符合性聲明。"
+    },
+    {
+      "english": "harmonised standard",
+      "zh_tw": "協調標準",
+      "pronunciation": "en-US · harmonised standard",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The reviewer checked harmonised standard against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認協調標準。"
+    },
+    {
+      "english": "notified body",
+      "zh_tw": "公告機構",
+      "pronunciation": "en-US · notified body",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with notified body.",
+      "example_zh_tw": "測試日誌記錄了與公告機構相關的條件。"
+    },
+    {
+      "english": "radio equipment directive",
+      "zh_tw": "無線電設備指令",
+      "pronunciation": "en-US · radio equipment directive",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "We confirmed radio equipment directive before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了無線電設備指令。"
+    },
+    {
+      "english": "electromagnetic compatibility directive",
+      "zh_tw": "電磁相容指令",
+      "pronunciation": "en-US · electromagnetic compatibility directive",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates electromagnetic compatibility directive under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估電磁相容指令。"
+    },
+    {
+      "english": "low voltage directive",
+      "zh_tw": "低電壓指令",
+      "pronunciation": "en-US · low voltage directive",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The report links low voltage directive to the applicable requirement and result.",
+      "example_zh_tw": "報告將低電壓指令連結到適用要求與結果。"
+    },
+    {
+      "english": "essential requirement",
+      "zh_tw": "基本要求",
+      "pronunciation": "en-US · essential requirement",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The engineer compared essential requirement with the approved baseline.",
+      "example_zh_tw": "工程師將基本要求與核准基準進行比較。"
+    },
+    {
+      "english": "technical documentation",
+      "zh_tw": "技術文件",
+      "pronunciation": "en-US · technical documentation",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The final review found that technical documentation was consistently documented.",
+      "example_zh_tw": "最終審查確認技術文件已有一致的文件紀錄。"
+    },
+    {
+      "english": "market surveillance",
+      "zh_tw": "市場監督",
+      "pronunciation": "en-US · market surveillance",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for market surveillance.",
+      "example_zh_tw": "技術紀錄包含市場監督的客觀證據。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Please verify electromagnetic compatibility directive before we start the test.",
+      "zh_tw": "開始測試前，請確認電磁相容指令。"
+    },
+    {
+      "english": "We need traceable evidence for low voltage directive.",
+      "zh_tw": "我們需要可追溯的低電壓指令證據。"
+    },
+    {
+      "english": "Let us compare essential requirement with the approved configuration.",
+      "zh_tw": "讓我們把基本要求與核准配置進行比對。"
+    },
+    {
+      "english": "I will explain how technical documentation affects compliance.",
+      "zh_tw": "我會說明技術文件如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in market surveillance.",
+      "zh_tw": "我們的審查未發現市場監督有異常。"
+    }
+  ],
+  "dialogue": {
+    "context": "CE pre-test review",
+    "context_zh_tw": "CE 歐盟符合性測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified CE marking and recorded the setup.",
+        "zh_tw": "我已確認CE 標誌並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for European Union declaration?",
+        "zh_tw": "很好。有哪些證據支持對歐盟符合性聲明的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Radiated emission fail — CE investigation",
+    "title_zh_tw": "輻射發射超標：CE 歐盟符合性調查",
+    "problem": "A pre-compliance check on Day 025 shows a repeatable radiated emission fail condition.",
+    "background": "The CE configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "An unintended cable current is acting as an antenna.",
+      "The enclosure seam has insufficient shielding."
+    ],
+    "check_steps": [
+      "Rotate the turntable and change antenna height to locate the maximum.",
+      "Use a current probe to identify the dominant cable path."
+    ],
+    "corrective_actions": [
+      "Add common-mode suppression at the cable interface.",
+      "Improve seam bonding and repeat the final measurement."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the CE design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Certification Process",
+    "question": "Explain a certification process you managed. Connect your answer to CE.",
+    "hint_zh_tw": "涵蓋適用法規、送樣、報告、文件與證書追蹤。 並連結到「CE 歐盟符合性」。",
+    "sample_answer": "I confirm market requirements, coordinate testing, review the technical file, and track findings through closure. I keep model and document revisions aligned throughout submission. In CE, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「CE marking」的正確繁體中文是什麼？",
+      "options": [
+        "CE 標誌",
+        "公告機構",
+        "低電壓指令",
+        "技術文件"
+      ],
+      "answer": "CE 標誌",
+      "explanation": "CE marking 指的是「CE 標誌」。",
+      "term": "CE marking"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「歐盟符合性聲明」的正確工程英文是什麼？",
+      "options": [
+        "European Union declaration",
+        "radio equipment directive",
+        "essential requirement",
+        "market surveillance"
+      ],
+      "answer": "European Union declaration",
+      "explanation": "工程文件中可使用 European Union declaration。",
+      "term": "European Union declaration"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The reviewer checked ________ against the controlled procedure.",
+      "prompt_zh_tw": "審查人員依受控程序確認協調標準。",
+      "answer": "harmonised standard",
+      "accepted_answers": [
+        "harmonised standard"
+      ],
+      "explanation": "完整句子的關鍵詞是 harmonised standard。",
+      "term": "harmonised standard"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "notified body",
+      "options": [
+        "notified body",
+        "low voltage directive",
+        "market surveillance",
+        "European Union declaration"
+      ],
+      "answer": "notified body",
+      "explanation": "播放內容是 notified body（公告機構）。",
+      "term": "notified body"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Explain a certification process you managed. Connect your answer to CE.",
+      "prompt_zh_tw": "涵蓋適用法規、送樣、報告、文件與證書追蹤。 並連結到「CE 歐盟符合性」。",
+      "answer": "I confirm market requirements, coordinate testing, review the technical file, and track findings through closure. I keep model and document revisions aligned throughout submission. In CE, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "radio",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "radio equipment directive"
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"scripts":{"build":"vite build","dev":"vite --host 0.0.0.0"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","lucide-react":"latest"},"devDependencies":{}}
+{
+  "name": "rf-academy-pro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "180-day RF, EMC, safety and certification English PWA",
+  "scripts": {
+    "generate": "node scripts/generate_lessons.js",
+    "validate": "node scripts/validate.js",
+    "start": "node scripts/serve.js"
+  }
+}

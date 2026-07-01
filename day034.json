@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 34,
+  "id": "day034",
+  "topic": "Lab Communication",
+  "topic_zh_tw": "實驗室溝通英文",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Lab Communication terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "sample check-in",
+      "zh_tw": "樣品收件",
+      "pronunciation": "en-US · sample check-in",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for sample check-in.",
+      "example_zh_tw": "技術紀錄包含樣品收件的客觀證據。"
+    },
+    {
+      "english": "equipment reservation",
+      "zh_tw": "設備預約",
+      "pronunciation": "en-US · equipment reservation",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of equipment reservation.",
+      "example_zh_tw": "客戶要求清楚說明設備預約。"
+    },
+    {
+      "english": "setup handover",
+      "zh_tw": "設定交接",
+      "pronunciation": "en-US · setup handover",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for setup handover.",
+      "example_zh_tw": "程序定義了設定交接的接受準則。"
+    },
+    {
+      "english": "shift log",
+      "zh_tw": "輪班紀錄",
+      "pronunciation": "en-US · shift log",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The test plan identifies how shift log will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄輪班紀錄。"
+    },
+    {
+      "english": "calibration status",
+      "zh_tw": "校正狀態",
+      "pronunciation": "en-US · calibration status",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The project team discussed calibration status during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了校正狀態。"
+    },
+    {
+      "english": "environmental condition",
+      "zh_tw": "環境條件",
+      "pronunciation": "en-US · environmental condition",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting environmental condition.",
+      "example_zh_tw": "評鑑人員審查了支持環境條件的可追溯證據。"
+    },
+    {
+      "english": "test interruption",
+      "zh_tw": "測試中斷",
+      "pronunciation": "en-US · test interruption",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about test interruption from working hypotheses.",
+      "example_zh_tw": "調查將測試中斷的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "witness testing",
+      "zh_tw": "見證測試",
+      "pronunciation": "en-US · witness testing",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The engineer explained why witness testing was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了見證測試與符合性判定的關聯。"
+    },
+    {
+      "english": "sample disposition",
+      "zh_tw": "樣品處置",
+      "pronunciation": "en-US · sample disposition",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The technician verified sample disposition before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了樣品處置。"
+    },
+    {
+      "english": "laboratory housekeeping",
+      "zh_tw": "實驗室整理",
+      "pronunciation": "en-US · laboratory housekeeping",
+      "category": "lab_equipment",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to laboratory housekeeping.",
+      "example_zh_tw": "團隊評估了與實驗室整理相關的技術風險。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "We isolated calibration status as the dominant factor.",
+      "zh_tw": "我們已確認校正狀態是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on environmental condition.",
+      "zh_tw": "客戶要求提供環境條件的精簡進度說明。"
+    },
+    {
+      "english": "The measured test interruption remains within the specified limit.",
+      "zh_tw": "量測到的測試中斷仍在規定限值內。"
+    },
+    {
+      "english": "Could you record witness testing in the test log?",
+      "zh_tw": "可以請你把見證測試記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in sample disposition.",
+      "zh_tw": "最新結果顯示樣品處置有所變化。"
+    }
+  ],
+  "dialogue": {
+    "context": "Lab Communication pre-test review",
+    "context_zh_tw": "實驗室溝通英文測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified sample check-in and recorded the setup.",
+        "zh_tw": "我已確認樣品收件並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for equipment reservation?",
+        "zh_tw": "很好。有哪些證據支持對設備預約的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Antenna gain mismatch — Lab Communication investigation",
+    "title_zh_tw": "天線增益不一致：實驗室溝通英文調查",
+    "problem": "A pre-compliance check on Day 034 shows a repeatable antenna gain mismatch condition.",
+    "background": "The Lab Communication configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The production antenna differs from the approved sample.",
+      "Cable loss was omitted from the gain calculation."
+    ],
+    "check_steps": [
+      "Confirm antenna part number and revision.",
+      "Recalculate gain using calibrated path loss."
+    ],
+    "corrective_actions": [
+      "Restore the approved antenna configuration.",
+      "Update the technical file when an authorized change applies."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Lab Communication design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Safety Test Experience",
+    "question": "How do you prepare for a product safety test? Connect your answer to Lab Communication.",
+    "hint_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「實驗室溝通英文」。",
+    "sample_answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In Lab Communication, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「sample check-in」的正確繁體中文是什麼？",
+      "options": [
+        "樣品收件",
+        "輪班紀錄",
+        "測試中斷",
+        "樣品處置"
+      ],
+      "answer": "樣品收件",
+      "explanation": "sample check-in 指的是「樣品收件」。",
+      "term": "sample check-in"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「設備預約」的正確工程英文是什麼？",
+      "options": [
+        "equipment reservation",
+        "calibration status",
+        "witness testing",
+        "laboratory housekeeping"
+      ],
+      "answer": "equipment reservation",
+      "explanation": "工程文件中可使用 equipment reservation。",
+      "term": "equipment reservation"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The procedure defines the acceptance criterion for ________.",
+      "prompt_zh_tw": "程序定義了設定交接的接受準則。",
+      "answer": "setup handover",
+      "accepted_answers": [
+        "setup handover"
+      ],
+      "explanation": "完整句子的關鍵詞是 setup handover。",
+      "term": "setup handover"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "shift log",
+      "options": [
+        "shift log",
+        "test interruption",
+        "laboratory housekeeping",
+        "equipment reservation"
+      ],
+      "answer": "shift log",
+      "explanation": "播放內容是 shift log（輪班紀錄）。",
+      "term": "shift log"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you prepare for a product safety test? Connect your answer to Lab Communication.",
+      "prompt_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「實驗室溝通英文」。",
+      "answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In Lab Communication, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "calibration",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "calibration status"
+    }
+  ]
+}

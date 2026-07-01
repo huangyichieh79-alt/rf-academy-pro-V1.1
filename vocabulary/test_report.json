@@ -1,0 +1,452 @@
+[
+  {
+    "english": "report identifier",
+    "zh_tw": "報告識別碼",
+    "pronunciation": "en-US · report identifier",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The technician verified report identifier before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了報告識別碼。"
+  },
+  {
+    "english": "test item description",
+    "zh_tw": "受測品描述",
+    "pronunciation": "en-US · test item description",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The team evaluated the technical risk related to test item description.",
+    "example_zh_tw": "團隊評估了與受測品描述相關的技術風險。"
+  },
+  {
+    "english": "measurement condition",
+    "zh_tw": "量測條件",
+    "pronunciation": "en-US · measurement condition",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The team reviewed measurement condition before approving the Day 032 test configuration.",
+    "example_zh_tw": "團隊在核准第 032 天的測試配置前審查了量測條件。"
+  },
+  {
+    "english": "test setup photograph",
+    "zh_tw": "測試配置照片",
+    "pronunciation": "en-US · test setup photograph",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The reviewer checked test setup photograph against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認測試配置照片。"
+  },
+  {
+    "english": "result summary",
+    "zh_tw": "結果摘要",
+    "pronunciation": "en-US · result summary",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The test log records the condition associated with result summary.",
+    "example_zh_tw": "測試日誌記錄了與結果摘要相關的條件。"
+  },
+  {
+    "english": "limit line",
+    "zh_tw": "限值線",
+    "pronunciation": "en-US · limit line",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "We confirmed limit line before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了限值線。"
+  },
+  {
+    "english": "deviation statement",
+    "zh_tw": "偏離聲明",
+    "pronunciation": "en-US · deviation statement",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The laboratory evaluates deviation statement under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估偏離聲明。"
+  },
+  {
+    "english": "authorized signatory",
+    "zh_tw": "授權簽署人",
+    "pronunciation": "en-US · authorized signatory",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The report links authorized signatory to the applicable requirement and result.",
+    "example_zh_tw": "報告將授權簽署人連結到適用要求與結果。"
+  },
+  {
+    "english": "revision history",
+    "zh_tw": "修訂紀錄",
+    "pronunciation": "en-US · revision history",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The engineer compared revision history with the approved baseline.",
+    "example_zh_tw": "工程師將修訂紀錄與核准基準進行比較。"
+  },
+  {
+    "english": "page numbering",
+    "zh_tw": "頁碼編排",
+    "pronunciation": "en-US · page numbering",
+    "category": "test_report",
+    "difficulty": "A2",
+    "example": "The final review found that page numbering was consistently documented.",
+    "example_zh_tw": "最終審查確認頁碼編排已有一致的文件紀錄。"
+  },
+  {
+    "english": "report identifier review",
+    "zh_tw": "報告識別碼審查",
+    "pronunciation": "en-US · report identifier review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The test plan identifies how report identifier review will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄報告識別碼審查。"
+  },
+  {
+    "english": "test item description review",
+    "zh_tw": "受測品描述審查",
+    "pronunciation": "en-US · test item description review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The project team discussed test item description review during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了受測品描述審查。"
+  },
+  {
+    "english": "measurement condition review",
+    "zh_tw": "量測條件審查",
+    "pronunciation": "en-US · measurement condition review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The assessor reviewed the traceable evidence supporting measurement condition review.",
+    "example_zh_tw": "評鑑人員審查了支持量測條件審查的可追溯證據。"
+  },
+  {
+    "english": "test setup photograph review",
+    "zh_tw": "測試配置照片審查",
+    "pronunciation": "en-US · test setup photograph review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The investigation separated observations about test setup photograph review from working hypotheses.",
+    "example_zh_tw": "調查將測試配置照片審查的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "result summary review",
+    "zh_tw": "結果摘要審查",
+    "pronunciation": "en-US · result summary review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The engineer explained why result summary review was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了結果摘要審查與符合性判定的關聯。"
+  },
+  {
+    "english": "limit line review",
+    "zh_tw": "限值線審查",
+    "pronunciation": "en-US · limit line review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The technician verified limit line review before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了限值線審查。"
+  },
+  {
+    "english": "deviation statement review",
+    "zh_tw": "偏離聲明審查",
+    "pronunciation": "en-US · deviation statement review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The team evaluated the technical risk related to deviation statement review.",
+    "example_zh_tw": "團隊評估了與偏離聲明審查相關的技術風險。"
+  },
+  {
+    "english": "authorized signatory review",
+    "zh_tw": "授權簽署人審查",
+    "pronunciation": "en-US · authorized signatory review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The team reviewed authorized signatory review before approving the Day 067 test configuration.",
+    "example_zh_tw": "團隊在核准第 067 天的測試配置前審查了授權簽署人審查。"
+  },
+  {
+    "english": "revision history review",
+    "zh_tw": "修訂紀錄審查",
+    "pronunciation": "en-US · revision history review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The reviewer checked revision history review against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認修訂紀錄審查。"
+  },
+  {
+    "english": "page numbering review",
+    "zh_tw": "頁碼編排審查",
+    "pronunciation": "en-US · page numbering review",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The test log records the condition associated with page numbering review.",
+    "example_zh_tw": "測試日誌記錄了與頁碼編排審查相關的條件。"
+  },
+  {
+    "english": "report identifier verification",
+    "zh_tw": "報告識別碼確認",
+    "pronunciation": "en-US · report identifier verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The engineer compared report identifier verification with the approved baseline.",
+    "example_zh_tw": "工程師將報告識別碼確認與核准基準進行比較。"
+  },
+  {
+    "english": "test item description verification",
+    "zh_tw": "受測品描述確認",
+    "pronunciation": "en-US · test item description verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The final review found that test item description verification was consistently documented.",
+    "example_zh_tw": "最終審查確認受測品描述確認已有一致的文件紀錄。"
+  },
+  {
+    "english": "measurement condition verification",
+    "zh_tw": "量測條件確認",
+    "pronunciation": "en-US · measurement condition verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The technical record includes objective evidence for measurement condition verification.",
+    "example_zh_tw": "技術紀錄包含量測條件確認的客觀證據。"
+  },
+  {
+    "english": "test setup photograph verification",
+    "zh_tw": "測試配置照片確認",
+    "pronunciation": "en-US · test setup photograph verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The customer requested a clear explanation of test setup photograph verification.",
+    "example_zh_tw": "客戶要求清楚說明測試配置照片確認。"
+  },
+  {
+    "english": "result summary verification",
+    "zh_tw": "結果摘要確認",
+    "pronunciation": "en-US · result summary verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The procedure defines the acceptance criterion for result summary verification.",
+    "example_zh_tw": "程序定義了結果摘要確認的接受準則。"
+  },
+  {
+    "english": "limit line verification",
+    "zh_tw": "限值線確認",
+    "pronunciation": "en-US · limit line verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The test plan identifies how limit line verification will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄限值線確認。"
+  },
+  {
+    "english": "deviation statement verification",
+    "zh_tw": "偏離聲明確認",
+    "pronunciation": "en-US · deviation statement verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The project team discussed deviation statement verification during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了偏離聲明確認。"
+  },
+  {
+    "english": "authorized signatory verification",
+    "zh_tw": "授權簽署人確認",
+    "pronunciation": "en-US · authorized signatory verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The assessor reviewed the traceable evidence supporting authorized signatory verification.",
+    "example_zh_tw": "評鑑人員審查了支持授權簽署人確認的可追溯證據。"
+  },
+  {
+    "english": "revision history verification",
+    "zh_tw": "修訂紀錄確認",
+    "pronunciation": "en-US · revision history verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The investigation separated observations about revision history verification from working hypotheses.",
+    "example_zh_tw": "調查將修訂紀錄確認的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "page numbering verification",
+    "zh_tw": "頁碼編排確認",
+    "pronunciation": "en-US · page numbering verification",
+    "category": "test_report",
+    "difficulty": "B1",
+    "example": "The engineer explained why page numbering verification was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了頁碼編排確認與符合性判定的關聯。"
+  },
+  {
+    "english": "report identifier issue analysis",
+    "zh_tw": "報告識別碼問題分析",
+    "pronunciation": "en-US · report identifier issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The reviewer checked report identifier issue analysis against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認報告識別碼問題分析。"
+  },
+  {
+    "english": "test item description issue analysis",
+    "zh_tw": "受測品描述問題分析",
+    "pronunciation": "en-US · test item description issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The test log records the condition associated with test item description issue analysis.",
+    "example_zh_tw": "測試日誌記錄了與受測品描述問題分析相關的條件。"
+  },
+  {
+    "english": "measurement condition issue analysis",
+    "zh_tw": "量測條件問題分析",
+    "pronunciation": "en-US · measurement condition issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "We confirmed measurement condition issue analysis before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了量測條件問題分析。"
+  },
+  {
+    "english": "test setup photograph issue analysis",
+    "zh_tw": "測試配置照片問題分析",
+    "pronunciation": "en-US · test setup photograph issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The laboratory evaluates test setup photograph issue analysis under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估測試配置照片問題分析。"
+  },
+  {
+    "english": "result summary issue analysis",
+    "zh_tw": "結果摘要問題分析",
+    "pronunciation": "en-US · result summary issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The report links result summary issue analysis to the applicable requirement and result.",
+    "example_zh_tw": "報告將結果摘要問題分析連結到適用要求與結果。"
+  },
+  {
+    "english": "limit line issue analysis",
+    "zh_tw": "限值線問題分析",
+    "pronunciation": "en-US · limit line issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The engineer compared limit line issue analysis with the approved baseline.",
+    "example_zh_tw": "工程師將限值線問題分析與核准基準進行比較。"
+  },
+  {
+    "english": "deviation statement issue analysis",
+    "zh_tw": "偏離聲明問題分析",
+    "pronunciation": "en-US · deviation statement issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The final review found that deviation statement issue analysis was consistently documented.",
+    "example_zh_tw": "最終審查確認偏離聲明問題分析已有一致的文件紀錄。"
+  },
+  {
+    "english": "authorized signatory issue analysis",
+    "zh_tw": "授權簽署人問題分析",
+    "pronunciation": "en-US · authorized signatory issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The technical record includes objective evidence for authorized signatory issue analysis.",
+    "example_zh_tw": "技術紀錄包含授權簽署人問題分析的客觀證據。"
+  },
+  {
+    "english": "revision history issue analysis",
+    "zh_tw": "修訂紀錄問題分析",
+    "pronunciation": "en-US · revision history issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The customer requested a clear explanation of revision history issue analysis.",
+    "example_zh_tw": "客戶要求清楚說明修訂紀錄問題分析。"
+  },
+  {
+    "english": "page numbering issue analysis",
+    "zh_tw": "頁碼編排問題分析",
+    "pronunciation": "en-US · page numbering issue analysis",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The procedure defines the acceptance criterion for page numbering issue analysis.",
+    "example_zh_tw": "程序定義了頁碼編排問題分析的接受準則。"
+  },
+  {
+    "english": "report identifier documentation",
+    "zh_tw": "報告識別碼文件化",
+    "pronunciation": "en-US · report identifier documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The investigation separated observations about report identifier documentation from working hypotheses.",
+    "example_zh_tw": "調查將報告識別碼文件化的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "test item description documentation",
+    "zh_tw": "受測品描述文件化",
+    "pronunciation": "en-US · test item description documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The engineer explained why test item description documentation was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了受測品描述文件化與符合性判定的關聯。"
+  },
+  {
+    "english": "measurement condition documentation",
+    "zh_tw": "量測條件文件化",
+    "pronunciation": "en-US · measurement condition documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The technician verified measurement condition documentation before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了量測條件文件化。"
+  },
+  {
+    "english": "test setup photograph documentation",
+    "zh_tw": "測試配置照片文件化",
+    "pronunciation": "en-US · test setup photograph documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The team evaluated the technical risk related to test setup photograph documentation.",
+    "example_zh_tw": "團隊評估了與測試配置照片文件化相關的技術風險。"
+  },
+  {
+    "english": "result summary documentation",
+    "zh_tw": "結果摘要文件化",
+    "pronunciation": "en-US · result summary documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The team reviewed result summary documentation before approving the Day 172 test configuration.",
+    "example_zh_tw": "團隊在核准第 172 天的測試配置前審查了結果摘要文件化。"
+  },
+  {
+    "english": "limit line documentation",
+    "zh_tw": "限值線文件化",
+    "pronunciation": "en-US · limit line documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The reviewer checked limit line documentation against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認限值線文件化。"
+  },
+  {
+    "english": "deviation statement documentation",
+    "zh_tw": "偏離聲明文件化",
+    "pronunciation": "en-US · deviation statement documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The test log records the condition associated with deviation statement documentation.",
+    "example_zh_tw": "測試日誌記錄了與偏離聲明文件化相關的條件。"
+  },
+  {
+    "english": "authorized signatory documentation",
+    "zh_tw": "授權簽署人文件化",
+    "pronunciation": "en-US · authorized signatory documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "We confirmed authorized signatory documentation before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了授權簽署人文件化。"
+  },
+  {
+    "english": "revision history documentation",
+    "zh_tw": "修訂紀錄文件化",
+    "pronunciation": "en-US · revision history documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The laboratory evaluates revision history documentation under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估修訂紀錄文件化。"
+  },
+  {
+    "english": "page numbering documentation",
+    "zh_tw": "頁碼編排文件化",
+    "pronunciation": "en-US · page numbering documentation",
+    "category": "test_report",
+    "difficulty": "B2",
+    "example": "The report links page numbering documentation to the applicable requirement and result.",
+    "example_zh_tw": "報告將頁碼編排文件化連結到適用要求與結果。"
+  }
+]

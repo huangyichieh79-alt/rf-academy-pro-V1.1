@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 15,
+  "id": "day015",
+  "topic": "EFT",
+  "topic_zh_tw": "電性快速暫態",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten EFT terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "electrical fast transient",
+      "zh_tw": "電性快速暫態",
+      "pronunciation": "en-US · electrical fast transient",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "We confirmed electrical fast transient before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了電性快速暫態。"
+    },
+    {
+      "english": "burst generator",
+      "zh_tw": "脈衝群產生器",
+      "pronunciation": "en-US · burst generator",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates burst generator under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估脈衝群產生器。"
+    },
+    {
+      "english": "coupling clamp",
+      "zh_tw": "耦合夾",
+      "pronunciation": "en-US · coupling clamp",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The report links coupling clamp to the applicable requirement and result.",
+      "example_zh_tw": "報告將耦合夾連結到適用要求與結果。"
+    },
+    {
+      "english": "burst duration",
+      "zh_tw": "脈衝群持續時間",
+      "pronunciation": "en-US · burst duration",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The engineer compared burst duration with the approved baseline.",
+      "example_zh_tw": "工程師將脈衝群持續時間與核准基準進行比較。"
+    },
+    {
+      "english": "burst period",
+      "zh_tw": "脈衝群週期",
+      "pronunciation": "en-US · burst period",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The final review found that burst period was consistently documented.",
+      "example_zh_tw": "最終審查確認脈衝群週期已有一致的文件紀錄。"
+    },
+    {
+      "english": "pulse repetition frequency",
+      "zh_tw": "脈衝重複頻率",
+      "pronunciation": "en-US · pulse repetition frequency",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for pulse repetition frequency.",
+      "example_zh_tw": "技術紀錄包含脈衝重複頻率的客觀證據。"
+    },
+    {
+      "english": "capacitive coupling",
+      "zh_tw": "電容耦合",
+      "pronunciation": "en-US · capacitive coupling",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of capacitive coupling.",
+      "example_zh_tw": "客戶要求清楚說明電容耦合。"
+    },
+    {
+      "english": "injection network",
+      "zh_tw": "注入網路",
+      "pronunciation": "en-US · injection network",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for injection network.",
+      "example_zh_tw": "程序定義了注入網路的接受準則。"
+    },
+    {
+      "english": "rise time",
+      "zh_tw": "上升時間",
+      "pronunciation": "en-US · rise time",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The test plan identifies how rise time will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄上升時間。"
+    },
+    {
+      "english": "source impedance",
+      "zh_tw": "源阻抗",
+      "pronunciation": "en-US · source impedance",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The project team discussed source impedance during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了源阻抗。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Please verify pulse repetition frequency before we start the test.",
+      "zh_tw": "開始測試前，請確認脈衝重複頻率。"
+    },
+    {
+      "english": "We need traceable evidence for capacitive coupling.",
+      "zh_tw": "我們需要可追溯的電容耦合證據。"
+    },
+    {
+      "english": "Let us compare injection network with the approved configuration.",
+      "zh_tw": "讓我們把注入網路與核准配置進行比對。"
+    },
+    {
+      "english": "I will explain how rise time affects compliance.",
+      "zh_tw": "我會說明上升時間如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in source impedance.",
+      "zh_tw": "我們的審查未發現源阻抗有異常。"
+    }
+  ],
+  "dialogue": {
+    "context": "EFT pre-test review",
+    "context_zh_tw": "電性快速暫態測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified electrical fast transient and recorded the setup.",
+        "zh_tw": "我已確認電性快速暫態並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for burst generator?",
+        "zh_tw": "很好。有哪些證據支持對脈衝群產生器的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "ESD fail — EFT investigation",
+    "title_zh_tw": "靜電放電測試失敗：電性快速暫態調查",
+    "problem": "A pre-compliance check on Day 015 shows a repeatable esd fail condition.",
+    "background": "The EFT configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The discharge current reaches a sensitive reset line.",
+      "Chassis bonding impedance is too high."
+    ],
+    "check_steps": [
+      "Reproduce the failing point and polarity.",
+      "Monitor reset, power, and clock lines during discharge."
+    ],
+    "corrective_actions": [
+      "Add a low-inductance chassis path.",
+      "Improve transient protection and firmware recovery."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the EFT design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Certification Process",
+    "question": "Explain a certification process you managed. Connect your answer to EFT.",
+    "hint_zh_tw": "涵蓋適用法規、送樣、報告、文件與證書追蹤。 並連結到「電性快速暫態」。",
+    "sample_answer": "I confirm market requirements, coordinate testing, review the technical file, and track findings through closure. I keep model and document revisions aligned throughout submission. In EFT, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「electrical fast transient」的正確繁體中文是什麼？",
+      "options": [
+        "電性快速暫態",
+        "脈衝群持續時間",
+        "電容耦合",
+        "上升時間"
+      ],
+      "answer": "電性快速暫態",
+      "explanation": "electrical fast transient 指的是「電性快速暫態」。",
+      "term": "electrical fast transient"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「脈衝群產生器」的正確工程英文是什麼？",
+      "options": [
+        "burst generator",
+        "burst period",
+        "injection network",
+        "source impedance"
+      ],
+      "answer": "burst generator",
+      "explanation": "工程文件中可使用 burst generator。",
+      "term": "burst generator"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The report links ________ to the applicable requirement and result.",
+      "prompt_zh_tw": "報告將耦合夾連結到適用要求與結果。",
+      "answer": "coupling clamp",
+      "accepted_answers": [
+        "coupling clamp"
+      ],
+      "explanation": "完整句子的關鍵詞是 coupling clamp。",
+      "term": "coupling clamp"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "burst duration",
+      "options": [
+        "burst duration",
+        "capacitive coupling",
+        "source impedance",
+        "burst generator"
+      ],
+      "answer": "burst duration",
+      "explanation": "播放內容是 burst duration（脈衝群持續時間）。",
+      "term": "burst duration"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Explain a certification process you managed. Connect your answer to EFT.",
+      "prompt_zh_tw": "涵蓋適用法規、送樣、報告、文件與證書追蹤。 並連結到「電性快速暫態」。",
+      "answer": "I confirm market requirements, coordinate testing, review the technical file, and track findings through closure. I keep model and document revisions aligned throughout submission. In EFT, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "burst",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "burst period"
+    }
+  ]
+}

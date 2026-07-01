@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 43,
+  "id": "day043",
+  "topic": "Cellular",
+  "topic_zh_tw": "行動通訊測試",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Cellular terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "resource block measurement",
+      "zh_tw": "資源區塊量測",
+      "pronunciation": "en-US · resource block measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The team evaluated the technical risk related to resource block measurement.",
+      "example_zh_tw": "團隊評估了與資源區塊量測相關的技術風險。"
+    },
+    {
+      "english": "uplink power control measurement",
+      "zh_tw": "上行功率控制量測",
+      "pronunciation": "en-US · uplink power control measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The team reviewed uplink power control measurement before approving the Day 043 test configuration.",
+      "example_zh_tw": "團隊在核准第 043 天的測試配置前審查了上行功率控制量測。"
+    },
+    {
+      "english": "downlink channel measurement",
+      "zh_tw": "下行通道量測",
+      "pronunciation": "en-US · downlink channel measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The reviewer checked downlink channel measurement against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認下行通道量測。"
+    },
+    {
+      "english": "adjacent channel leakage ratio measurement",
+      "zh_tw": "鄰頻洩漏比量測",
+      "pronunciation": "en-US · adjacent channel leakage ratio measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The test log records the condition associated with adjacent channel leakage ratio measurement.",
+      "example_zh_tw": "測試日誌記錄了與鄰頻洩漏比量測相關的條件。"
+    },
+    {
+      "english": "spectrum emission mask measurement",
+      "zh_tw": "頻譜發射遮罩量測",
+      "pronunciation": "en-US · spectrum emission mask measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "We confirmed spectrum emission mask measurement before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了頻譜發射遮罩量測。"
+    },
+    {
+      "english": "reference signal received power measurement",
+      "zh_tw": "參考訊號接收功率量測",
+      "pronunciation": "en-US · reference signal received power measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The laboratory evaluates reference signal received power measurement under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估參考訊號接收功率量測。"
+    },
+    {
+      "english": "total radiated power measurement",
+      "zh_tw": "總輻射功率量測",
+      "pronunciation": "en-US · total radiated power measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The report links total radiated power measurement to the applicable requirement and result.",
+      "example_zh_tw": "報告將總輻射功率量測連結到適用要求與結果。"
+    },
+    {
+      "english": "total isotropic sensitivity measurement",
+      "zh_tw": "總等向靈敏度量測",
+      "pronunciation": "en-US · total isotropic sensitivity measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The engineer compared total isotropic sensitivity measurement with the approved baseline.",
+      "example_zh_tw": "工程師將總等向靈敏度量測與核准基準進行比較。"
+    },
+    {
+      "english": "carrier aggregation measurement",
+      "zh_tw": "載波聚合量測",
+      "pronunciation": "en-US · carrier aggregation measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The final review found that carrier aggregation measurement was consistently documented.",
+      "example_zh_tw": "最終審查確認載波聚合量測已有一致的文件紀錄。"
+    },
+    {
+      "english": "network signaling measurement",
+      "zh_tw": "網路訊令量測",
+      "pronunciation": "en-US · network signaling measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for network signaling measurement.",
+      "example_zh_tw": "技術紀錄包含網路訊令量測的客觀證據。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat adjacent channel leakage ratio measurement under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行鄰頻洩漏比量測。"
+    },
+    {
+      "english": "The report clearly identifies the method used for spectrum emission mask measurement.",
+      "zh_tw": "報告已清楚標示頻譜發射遮罩量測所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to reference signal received power measurement.",
+      "zh_tw": "請納入與參考訊號接收功率量測相關的不確定度。"
+    },
+    {
+      "english": "Please verify total radiated power measurement before we start the test.",
+      "zh_tw": "開始測試前，請確認總輻射功率量測。"
+    },
+    {
+      "english": "We need traceable evidence for total isotropic sensitivity measurement.",
+      "zh_tw": "我們需要可追溯的總等向靈敏度量測證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "Cellular pre-test review",
+    "context_zh_tw": "行動通訊測試測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified resource block measurement and recorded the setup.",
+        "zh_tw": "我已確認資源區塊量測並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for uplink power control measurement?",
+        "zh_tw": "很好。有哪些證據支持對上行功率控制量測的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Leakage current fail — Cellular investigation",
+    "title_zh_tw": "漏電流測試失敗：行動通訊測試調查",
+    "problem": "A pre-compliance check on Day 043 shows a repeatable leakage current fail condition.",
+    "background": "The Cellular configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Y-capacitance is excessive for the product class.",
+      "A wiring error bypasses the intended insulation."
+    ],
+    "check_steps": [
+      "Verify the measuring network and supply polarity.",
+      "Measure each filter branch separately."
+    ],
+    "corrective_actions": [
+      "Rebalance filter capacitance within EMC and safety limits.",
+      "Correct wiring and repeat all required conditions."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Cellular design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "EMC Debug Experience",
+    "question": "Tell me about an EMC issue you debugged. Connect your answer to Cellular.",
+    "hint_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。 並連結到「行動通訊測試」。",
+    "sample_answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance. In Cellular, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「resource block measurement」的正確繁體中文是什麼？",
+      "options": [
+        "資源區塊量測",
+        "鄰頻洩漏比量測",
+        "總輻射功率量測",
+        "載波聚合量測"
+      ],
+      "answer": "資源區塊量測",
+      "explanation": "resource block measurement 指的是「資源區塊量測」。",
+      "term": "resource block measurement"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「上行功率控制量測」的正確工程英文是什麼？",
+      "options": [
+        "uplink power control measurement",
+        "spectrum emission mask measurement",
+        "total isotropic sensitivity measurement",
+        "network signaling measurement"
+      ],
+      "answer": "uplink power control measurement",
+      "explanation": "工程文件中可使用 uplink power control measurement。",
+      "term": "uplink power control measurement"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The reviewer checked ________ against the controlled procedure.",
+      "prompt_zh_tw": "審查人員依受控程序確認下行通道量測。",
+      "answer": "downlink channel measurement",
+      "accepted_answers": [
+        "downlink channel measurement"
+      ],
+      "explanation": "完整句子的關鍵詞是 downlink channel measurement。",
+      "term": "downlink channel measurement"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "adjacent channel leakage ratio measurement",
+      "options": [
+        "adjacent channel leakage ratio measurement",
+        "total radiated power measurement",
+        "network signaling measurement",
+        "uplink power control measurement"
+      ],
+      "answer": "adjacent channel leakage ratio measurement",
+      "explanation": "播放內容是 adjacent channel leakage ratio measurement（鄰頻洩漏比量測）。",
+      "term": "adjacent channel leakage ratio measurement"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Tell me about an EMC issue you debugged. Connect your answer to Cellular.",
+      "prompt_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。 並連結到「行動通訊測試」。",
+      "answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance. In Cellular, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "spectrum",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "spectrum emission mask measurement"
+    }
+  ]
+}

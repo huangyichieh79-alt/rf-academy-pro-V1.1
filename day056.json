@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 56,
+  "id": "day056",
+  "topic": "Creepage",
+  "topic_zh_tw": "沿面距離",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Creepage terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "creepage distance evaluation",
+      "zh_tw": "沿面距離評估",
+      "pronunciation": "en-US · creepage distance evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for creepage distance evaluation.",
+      "example_zh_tw": "程序定義了沿面距離評估的接受準則。"
+    },
+    {
+      "english": "pollution degree evaluation",
+      "zh_tw": "污染等級評估",
+      "pronunciation": "en-US · pollution degree evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The test plan identifies how pollution degree evaluation will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄污染等級評估。"
+    },
+    {
+      "english": "material group evaluation",
+      "zh_tw": "材料群組評估",
+      "pronunciation": "en-US · material group evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The project team discussed material group evaluation during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了材料群組評估。"
+    },
+    {
+      "english": "comparative tracking index evaluation",
+      "zh_tw": "相比漏電起痕指數評估",
+      "pronunciation": "en-US · comparative tracking index evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The assessor reviewed the traceable evidence supporting comparative tracking index evaluation.",
+      "example_zh_tw": "評鑑人員審查了支持相比漏電起痕指數評估的可追溯證據。"
+    },
+    {
+      "english": "working voltage evaluation",
+      "zh_tw": "工作電壓評估",
+      "pronunciation": "en-US · working voltage evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about working voltage evaluation from working hypotheses.",
+      "example_zh_tw": "調查將工作電壓評估的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "printed wiring board evaluation",
+      "zh_tw": "印刷電路板評估",
+      "pronunciation": "en-US · printed wiring board evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The engineer explained why printed wiring board evaluation was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了印刷電路板評估與符合性判定的關聯。"
+    },
+    {
+      "english": "cemented joint evaluation",
+      "zh_tw": "膠合接點評估",
+      "pronunciation": "en-US · cemented joint evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The technician verified cemented joint evaluation before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了膠合接點評估。"
+    },
+    {
+      "english": "groove width evaluation",
+      "zh_tw": "溝槽寬度評估",
+      "pronunciation": "en-US · groove width evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The team evaluated the technical risk related to groove width evaluation.",
+      "example_zh_tw": "團隊評估了與溝槽寬度評估相關的技術風險。"
+    },
+    {
+      "english": "insulating surface evaluation",
+      "zh_tw": "絕緣表面評估",
+      "pronunciation": "en-US · insulating surface evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The team reviewed insulating surface evaluation before approving the Day 056 test configuration.",
+      "example_zh_tw": "團隊在核准第 056 天的測試配置前審查了絕緣表面評估。"
+    },
+    {
+      "english": "micro-environment evaluation",
+      "zh_tw": "微環境評估",
+      "pronunciation": "en-US · micro-environment evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The reviewer checked micro-environment evaluation against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認微環境評估。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Could you record cemented joint evaluation in the test log?",
+      "zh_tw": "可以請你把膠合接點評估記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in groove width evaluation.",
+      "zh_tw": "最新結果顯示溝槽寬度評估有所變化。"
+    },
+    {
+      "english": "Please keep insulating surface evaluation unchanged during the comparison.",
+      "zh_tw": "進行比較時，請保持絕緣表面評估不變。"
+    },
+    {
+      "english": "The team will repeat micro-environment evaluation under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行微環境評估。"
+    },
+    {
+      "english": "The report clearly identifies the method used for creepage distance evaluation.",
+      "zh_tw": "報告已清楚標示沿面距離評估所使用的方法。"
+    }
+  ],
+  "dialogue": {
+    "context": "Creepage pre-test review",
+    "context_zh_tw": "沿面距離測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified creepage distance evaluation and recorded the setup.",
+        "zh_tw": "我已確認沿面距離評估並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for pollution degree evaluation?",
+        "zh_tw": "很好。有哪些證據支持對污染等級評估的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Ground bond fail — Creepage investigation",
+    "title_zh_tw": "接地導通測試失敗：沿面距離調查",
+    "problem": "A pre-compliance check on Day 056 shows a repeatable ground bond fail condition.",
+    "background": "The Creepage configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "A painted surface increases contact resistance.",
+      "The protective bonding conductor is undersized."
+    ],
+    "check_steps": [
+      "Use a four-wire check across each bond.",
+      "Inspect fastener torque and surface preparation."
+    ],
+    "corrective_actions": [
+      "Remove insulating coating at the bond point.",
+      "Use a compliant conductor and locking hardware."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Creepage design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Customer Communication",
+    "question": "How do you explain a failed test to a customer? Connect your answer to Creepage.",
+    "hint_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。 並連結到「沿面距離」。",
+    "sample_answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time. In Creepage, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「creepage distance evaluation」的正確繁體中文是什麼？",
+      "options": [
+        "沿面距離評估",
+        "相比漏電起痕指數評估",
+        "膠合接點評估",
+        "絕緣表面評估"
+      ],
+      "answer": "沿面距離評估",
+      "explanation": "creepage distance evaluation 指的是「沿面距離評估」。",
+      "term": "creepage distance evaluation"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「污染等級評估」的正確工程英文是什麼？",
+      "options": [
+        "pollution degree evaluation",
+        "working voltage evaluation",
+        "groove width evaluation",
+        "micro-environment evaluation"
+      ],
+      "answer": "pollution degree evaluation",
+      "explanation": "工程文件中可使用 pollution degree evaluation。",
+      "term": "pollution degree evaluation"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The project team discussed ________ during the pre-test meeting.",
+      "prompt_zh_tw": "專案團隊在測試前會議中討論了材料群組評估。",
+      "answer": "material group evaluation",
+      "accepted_answers": [
+        "material group evaluation"
+      ],
+      "explanation": "完整句子的關鍵詞是 material group evaluation。",
+      "term": "material group evaluation"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "comparative tracking index evaluation",
+      "options": [
+        "comparative tracking index evaluation",
+        "cemented joint evaluation",
+        "micro-environment evaluation",
+        "pollution degree evaluation"
+      ],
+      "answer": "comparative tracking index evaluation",
+      "explanation": "播放內容是 comparative tracking index evaluation（相比漏電起痕指數評估）。",
+      "term": "comparative tracking index evaluation"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you explain a failed test to a customer? Connect your answer to Creepage.",
+      "prompt_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。 並連結到「沿面距離」。",
+      "answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time. In Creepage, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "working",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "working voltage evaluation"
+    }
+  ]
+}

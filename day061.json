@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 61,
+  "id": "day061",
+  "topic": "NCC",
+  "topic_zh_tw": "NCC 台灣驗證",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten NCC terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "NCC type approval review",
+      "zh_tw": "NCC 型式認證審查",
+      "pronunciation": "en-US · N-C-C type approval review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The team evaluated the technical risk related to NCC type approval review.",
+      "example_zh_tw": "團隊評估了與NCC 型式認證審查相關的技術風險。"
+    },
+    {
+      "english": "controlled telecommunications device review",
+      "zh_tw": "管制電信射頻器材審查",
+      "pronunciation": "en-US · controlled telecommunications device review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The team reviewed controlled telecommunications device review before approving the Day 061 test configuration.",
+      "example_zh_tw": "團隊在核准第 061 天的測試配置前審查了管制電信射頻器材審查。"
+    },
+    {
+      "english": "approval label review",
+      "zh_tw": "審驗標籤審查",
+      "pronunciation": "en-US · approval label review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The reviewer checked approval label review against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認審驗標籤審查。"
+    },
+    {
+      "english": "local representative review",
+      "zh_tw": "本地代理人審查",
+      "pronunciation": "en-US · local representative review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The test log records the condition associated with local representative review.",
+      "example_zh_tw": "測試日誌記錄了與本地代理人審查相關的條件。"
+    },
+    {
+      "english": "test report submission review",
+      "zh_tw": "測試報告送審審查",
+      "pronunciation": "en-US · test report submission review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "We confirmed test report submission review before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了測試報告送審審查。"
+    },
+    {
+      "english": "radio frequency device review",
+      "zh_tw": "射頻器材審查",
+      "pronunciation": "en-US · radio frequency device review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The laboratory evaluates radio frequency device review under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估射頻器材審查。"
+    },
+    {
+      "english": "technical specification review",
+      "zh_tw": "技術規範審查",
+      "pronunciation": "en-US · technical specification review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The report links technical specification review to the applicable requirement and result.",
+      "example_zh_tw": "報告將技術規範審查連結到適用要求與結果。"
+    },
+    {
+      "english": "approval certificate review",
+      "zh_tw": "審驗證明審查",
+      "pronunciation": "en-US · approval certificate review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The engineer compared approval certificate review with the approved baseline.",
+      "example_zh_tw": "工程師將審驗證明審查與核准基準進行比較。"
+    },
+    {
+      "english": "import authorization review",
+      "zh_tw": "輸入許可審查",
+      "pronunciation": "en-US · import authorization review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The final review found that import authorization review was consistently documented.",
+      "example_zh_tw": "最終審查確認輸入許可審查已有一致的文件紀錄。"
+    },
+    {
+      "english": "compliance label review",
+      "zh_tw": "符合性標籤審查",
+      "pronunciation": "en-US · compliance label review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for compliance label review.",
+      "example_zh_tw": "技術紀錄包含符合性標籤審查的客觀證據。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Could you record controlled telecommunications device review in the test log?",
+      "zh_tw": "可以請你把管制電信射頻器材審查記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in approval label review.",
+      "zh_tw": "最新結果顯示審驗標籤審查有所變化。"
+    },
+    {
+      "english": "Please keep local representative review unchanged during the comparison.",
+      "zh_tw": "進行比較時，請保持本地代理人審查不變。"
+    },
+    {
+      "english": "The team will repeat test report submission review under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行測試報告送審審查。"
+    },
+    {
+      "english": "The report clearly identifies the method used for radio frequency device review.",
+      "zh_tw": "報告已清楚標示射頻器材審查所使用的方法。"
+    }
+  ],
+  "dialogue": {
+    "context": "NCC pre-test review",
+    "context_zh_tw": "NCC 台灣驗證測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified NCC type approval review and recorded the setup.",
+        "zh_tw": "我已確認NCC 型式認證審查並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for controlled telecommunications device review?",
+        "zh_tw": "很好。有哪些證據支持對管制電信射頻器材審查的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Radiated emission fail — NCC investigation",
+    "title_zh_tw": "輻射發射超標：NCC 台灣驗證調查",
+    "problem": "A pre-compliance check on Day 061 shows a repeatable radiated emission fail condition.",
+    "background": "The NCC configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "An unintended cable current is acting as an antenna.",
+      "The enclosure seam has insufficient shielding."
+    ],
+    "check_steps": [
+      "Rotate the turntable and change antenna height to locate the maximum.",
+      "Use a current probe to identify the dominant cable path."
+    ],
+    "corrective_actions": [
+      "Add common-mode suppression at the cable interface.",
+      "Improve seam bonding and repeat the final measurement."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the NCC design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Self Introduction",
+    "question": "Please introduce yourself as an RF compliance engineer. Connect your answer to NCC.",
+    "hint_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。 並連結到「NCC 台灣驗證」。",
+    "sample_answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams. In NCC, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「NCC type approval review」的正確繁體中文是什麼？",
+      "options": [
+        "NCC 型式認證審查",
+        "本地代理人審查",
+        "技術規範審查",
+        "輸入許可審查"
+      ],
+      "answer": "NCC 型式認證審查",
+      "explanation": "NCC type approval review 指的是「NCC 型式認證審查」。",
+      "term": "NCC type approval review"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「管制電信射頻器材審查」的正確工程英文是什麼？",
+      "options": [
+        "controlled telecommunications device review",
+        "test report submission review",
+        "approval certificate review",
+        "compliance label review"
+      ],
+      "answer": "controlled telecommunications device review",
+      "explanation": "工程文件中可使用 controlled telecommunications device review。",
+      "term": "controlled telecommunications device review"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The reviewer checked ________ against the controlled procedure.",
+      "prompt_zh_tw": "審查人員依受控程序確認審驗標籤審查。",
+      "answer": "approval label review",
+      "accepted_answers": [
+        "approval label review"
+      ],
+      "explanation": "完整句子的關鍵詞是 approval label review。",
+      "term": "approval label review"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "local representative review",
+      "options": [
+        "local representative review",
+        "technical specification review",
+        "compliance label review",
+        "controlled telecommunications device review"
+      ],
+      "answer": "local representative review",
+      "explanation": "播放內容是 local representative review（本地代理人審查）。",
+      "term": "local representative review"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Please introduce yourself as an RF compliance engineer. Connect your answer to NCC.",
+      "prompt_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。 並連結到「NCC 台灣驗證」。",
+      "answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams. In NCC, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "test",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "test report submission review"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 64,
+  "id": "day064",
+  "topic": "IEC",
+  "topic_zh_tw": "IEC 國際標準",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten IEC terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "International Electrotechnical Commission review",
+      "zh_tw": "國際電工委員會審查",
+      "pronunciation": "en-US · International Electrotechnical Commission review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about International Electrotechnical Commission review from working hypotheses.",
+      "example_zh_tw": "調查將國際電工委員會審查的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "international standard review",
+      "zh_tw": "國際標準審查",
+      "pronunciation": "en-US · international standard review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The engineer explained why international standard review was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了國際標準審查與符合性判定的關聯。"
+    },
+    {
+      "english": "normative reference review",
+      "zh_tw": "規範性引用文件審查",
+      "pronunciation": "en-US · normative reference review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The technician verified normative reference review before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了規範性引用文件審查。"
+    },
+    {
+      "english": "scope clause review",
+      "zh_tw": "適用範圍條款審查",
+      "pronunciation": "en-US · scope clause review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The team evaluated the technical risk related to scope clause review.",
+      "example_zh_tw": "團隊評估了與適用範圍條款審查相關的技術風險。"
+    },
+    {
+      "english": "test requirement review",
+      "zh_tw": "測試要求審查",
+      "pronunciation": "en-US · test requirement review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The team reviewed test requirement review before approving the Day 064 test configuration.",
+      "example_zh_tw": "團隊在核准第 064 天的測試配置前審查了測試要求審查。"
+    },
+    {
+      "english": "compliance statement review",
+      "zh_tw": "符合性陳述審查",
+      "pronunciation": "en-US · compliance statement review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The reviewer checked compliance statement review against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認符合性陳述審查。"
+    },
+    {
+      "english": "technical committee review",
+      "zh_tw": "技術委員會審查",
+      "pronunciation": "en-US · technical committee review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The test log records the condition associated with technical committee review.",
+      "example_zh_tw": "測試日誌記錄了與技術委員會審查相關的條件。"
+    },
+    {
+      "english": "committee draft review",
+      "zh_tw": "委員會草案審查",
+      "pronunciation": "en-US · committee draft review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "We confirmed committee draft review before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了委員會草案審查。"
+    },
+    {
+      "english": "edition transition review",
+      "zh_tw": "版本轉換審查",
+      "pronunciation": "en-US · edition transition review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The laboratory evaluates edition transition review under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估版本轉換審查。"
+    },
+    {
+      "english": "interpretation sheet review",
+      "zh_tw": "解釋文件審查",
+      "pronunciation": "en-US · interpretation sheet review",
+      "category": "certification",
+      "difficulty": "B1",
+      "example": "The report links interpretation sheet review to the applicable requirement and result.",
+      "example_zh_tw": "報告將解釋文件審查連結到適用要求與結果。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "We isolated test requirement review as the dominant factor.",
+      "zh_tw": "我們已確認測試要求審查是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on compliance statement review.",
+      "zh_tw": "客戶要求提供符合性陳述審查的精簡進度說明。"
+    },
+    {
+      "english": "The measured technical committee review remains within the specified limit.",
+      "zh_tw": "量測到的技術委員會審查仍在規定限值內。"
+    },
+    {
+      "english": "Could you record committee draft review in the test log?",
+      "zh_tw": "可以請你把委員會草案審查記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in edition transition review.",
+      "zh_tw": "最新結果顯示版本轉換審查有所變化。"
+    }
+  ],
+  "dialogue": {
+    "context": "IEC pre-test review",
+    "context_zh_tw": "IEC 國際標準測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified International Electrotechnical Commission review and recorded the setup.",
+        "zh_tw": "我已確認國際電工委員會審查並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for international standard review?",
+        "zh_tw": "很好。有哪些證據支持對國際標準審查的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "EFT fail — IEC investigation",
+    "title_zh_tw": "快速暫態脈衝群測試失敗：IEC 國際標準調查",
+    "problem": "A pre-compliance check on Day 064 shows a repeatable eft fail condition.",
+    "background": "The IEC configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Burst energy couples through the power input.",
+      "I/O filtering is located too far from the connector."
+    ],
+    "check_steps": [
+      "Confirm clamp position and coupling length.",
+      "Monitor supply rails and communication errors."
+    ],
+    "corrective_actions": [
+      "Move filtering to the entry point.",
+      "Improve decoupling and cable shielding termination."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the IEC design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Safety Test Experience",
+    "question": "How do you prepare for a product safety test? Connect your answer to IEC.",
+    "hint_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「IEC 國際標準」。",
+    "sample_answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In IEC, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「International Electrotechnical Commission review」的正確繁體中文是什麼？",
+      "options": [
+        "國際電工委員會審查",
+        "適用範圍條款審查",
+        "技術委員會審查",
+        "版本轉換審查"
+      ],
+      "answer": "國際電工委員會審查",
+      "explanation": "International Electrotechnical Commission review 指的是「國際電工委員會審查」。",
+      "term": "International Electrotechnical Commission review"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「國際標準審查」的正確工程英文是什麼？",
+      "options": [
+        "international standard review",
+        "test requirement review",
+        "committee draft review",
+        "interpretation sheet review"
+      ],
+      "answer": "international standard review",
+      "explanation": "工程文件中可使用 international standard review。",
+      "term": "international standard review"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The technician verified ________ before connecting the sample.",
+      "prompt_zh_tw": "技術員在連接樣品前確認了規範性引用文件審查。",
+      "answer": "normative reference review",
+      "accepted_answers": [
+        "normative reference review"
+      ],
+      "explanation": "完整句子的關鍵詞是 normative reference review。",
+      "term": "normative reference review"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "scope clause review",
+      "options": [
+        "scope clause review",
+        "technical committee review",
+        "interpretation sheet review",
+        "international standard review"
+      ],
+      "answer": "scope clause review",
+      "explanation": "播放內容是 scope clause review（適用範圍條款審查）。",
+      "term": "scope clause review"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you prepare for a product safety test? Connect your answer to IEC.",
+      "prompt_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「IEC 國際標準」。",
+      "answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In IEC, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "test",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "test requirement review"
+    }
+  ]
+}

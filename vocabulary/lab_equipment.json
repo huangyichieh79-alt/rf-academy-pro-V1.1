@@ -1,0 +1,452 @@
+[
+  {
+    "english": "sample check-in",
+    "zh_tw": "樣品收件",
+    "pronunciation": "en-US · sample check-in",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The technical record includes objective evidence for sample check-in.",
+    "example_zh_tw": "技術紀錄包含樣品收件的客觀證據。"
+  },
+  {
+    "english": "equipment reservation",
+    "zh_tw": "設備預約",
+    "pronunciation": "en-US · equipment reservation",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The customer requested a clear explanation of equipment reservation.",
+    "example_zh_tw": "客戶要求清楚說明設備預約。"
+  },
+  {
+    "english": "setup handover",
+    "zh_tw": "設定交接",
+    "pronunciation": "en-US · setup handover",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The procedure defines the acceptance criterion for setup handover.",
+    "example_zh_tw": "程序定義了設定交接的接受準則。"
+  },
+  {
+    "english": "shift log",
+    "zh_tw": "輪班紀錄",
+    "pronunciation": "en-US · shift log",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The test plan identifies how shift log will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄輪班紀錄。"
+  },
+  {
+    "english": "calibration status",
+    "zh_tw": "校正狀態",
+    "pronunciation": "en-US · calibration status",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The project team discussed calibration status during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了校正狀態。"
+  },
+  {
+    "english": "environmental condition",
+    "zh_tw": "環境條件",
+    "pronunciation": "en-US · environmental condition",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The assessor reviewed the traceable evidence supporting environmental condition.",
+    "example_zh_tw": "評鑑人員審查了支持環境條件的可追溯證據。"
+  },
+  {
+    "english": "test interruption",
+    "zh_tw": "測試中斷",
+    "pronunciation": "en-US · test interruption",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The investigation separated observations about test interruption from working hypotheses.",
+    "example_zh_tw": "調查將測試中斷的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "witness testing",
+    "zh_tw": "見證測試",
+    "pronunciation": "en-US · witness testing",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The engineer explained why witness testing was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了見證測試與符合性判定的關聯。"
+  },
+  {
+    "english": "sample disposition",
+    "zh_tw": "樣品處置",
+    "pronunciation": "en-US · sample disposition",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The technician verified sample disposition before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了樣品處置。"
+  },
+  {
+    "english": "laboratory housekeeping",
+    "zh_tw": "實驗室整理",
+    "pronunciation": "en-US · laboratory housekeeping",
+    "category": "lab_equipment",
+    "difficulty": "A2",
+    "example": "The team evaluated the technical risk related to laboratory housekeeping.",
+    "example_zh_tw": "團隊評估了與實驗室整理相關的技術風險。"
+  },
+  {
+    "english": "sample check-in procedure",
+    "zh_tw": "樣品收件程序",
+    "pronunciation": "en-US · sample check-in procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "We confirmed sample check-in procedure before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了樣品收件程序。"
+  },
+  {
+    "english": "equipment reservation procedure",
+    "zh_tw": "設備預約程序",
+    "pronunciation": "en-US · equipment reservation procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The laboratory evaluates equipment reservation procedure under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估設備預約程序。"
+  },
+  {
+    "english": "setup handover procedure",
+    "zh_tw": "設定交接程序",
+    "pronunciation": "en-US · setup handover procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The report links setup handover procedure to the applicable requirement and result.",
+    "example_zh_tw": "報告將設定交接程序連結到適用要求與結果。"
+  },
+  {
+    "english": "shift log procedure",
+    "zh_tw": "輪班紀錄程序",
+    "pronunciation": "en-US · shift log procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The engineer compared shift log procedure with the approved baseline.",
+    "example_zh_tw": "工程師將輪班紀錄程序與核准基準進行比較。"
+  },
+  {
+    "english": "calibration status procedure",
+    "zh_tw": "校正狀態程序",
+    "pronunciation": "en-US · calibration status procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The final review found that calibration status procedure was consistently documented.",
+    "example_zh_tw": "最終審查確認校正狀態程序已有一致的文件紀錄。"
+  },
+  {
+    "english": "environmental condition procedure",
+    "zh_tw": "環境條件程序",
+    "pronunciation": "en-US · environmental condition procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The technical record includes objective evidence for environmental condition procedure.",
+    "example_zh_tw": "技術紀錄包含環境條件程序的客觀證據。"
+  },
+  {
+    "english": "test interruption procedure",
+    "zh_tw": "測試中斷程序",
+    "pronunciation": "en-US · test interruption procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The customer requested a clear explanation of test interruption procedure.",
+    "example_zh_tw": "客戶要求清楚說明測試中斷程序。"
+  },
+  {
+    "english": "witness testing procedure",
+    "zh_tw": "見證測試程序",
+    "pronunciation": "en-US · witness testing procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The procedure defines the acceptance criterion for witness testing procedure.",
+    "example_zh_tw": "程序定義了見證測試程序的接受準則。"
+  },
+  {
+    "english": "sample disposition procedure",
+    "zh_tw": "樣品處置程序",
+    "pronunciation": "en-US · sample disposition procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The test plan identifies how sample disposition procedure will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄樣品處置程序。"
+  },
+  {
+    "english": "laboratory housekeeping procedure",
+    "zh_tw": "實驗室整理程序",
+    "pronunciation": "en-US · laboratory housekeeping procedure",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The project team discussed laboratory housekeeping procedure during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了實驗室整理程序。"
+  },
+  {
+    "english": "sample check-in verification",
+    "zh_tw": "樣品收件確認",
+    "pronunciation": "en-US · sample check-in verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The technician verified sample check-in verification before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了樣品收件確認。"
+  },
+  {
+    "english": "equipment reservation verification",
+    "zh_tw": "設備預約確認",
+    "pronunciation": "en-US · equipment reservation verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The team evaluated the technical risk related to equipment reservation verification.",
+    "example_zh_tw": "團隊評估了與設備預約確認相關的技術風險。"
+  },
+  {
+    "english": "setup handover verification",
+    "zh_tw": "設定交接確認",
+    "pronunciation": "en-US · setup handover verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The team reviewed setup handover verification before approving the Day 104 test configuration.",
+    "example_zh_tw": "團隊在核准第 104 天的測試配置前審查了設定交接確認。"
+  },
+  {
+    "english": "shift log verification",
+    "zh_tw": "輪班紀錄確認",
+    "pronunciation": "en-US · shift log verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The reviewer checked shift log verification against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認輪班紀錄確認。"
+  },
+  {
+    "english": "calibration status verification",
+    "zh_tw": "校正狀態確認",
+    "pronunciation": "en-US · calibration status verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The test log records the condition associated with calibration status verification.",
+    "example_zh_tw": "測試日誌記錄了與校正狀態確認相關的條件。"
+  },
+  {
+    "english": "environmental condition verification",
+    "zh_tw": "環境條件確認",
+    "pronunciation": "en-US · environmental condition verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "We confirmed environmental condition verification before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了環境條件確認。"
+  },
+  {
+    "english": "test interruption verification",
+    "zh_tw": "測試中斷確認",
+    "pronunciation": "en-US · test interruption verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The laboratory evaluates test interruption verification under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估測試中斷確認。"
+  },
+  {
+    "english": "witness testing verification",
+    "zh_tw": "見證測試確認",
+    "pronunciation": "en-US · witness testing verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The report links witness testing verification to the applicable requirement and result.",
+    "example_zh_tw": "報告將見證測試確認連結到適用要求與結果。"
+  },
+  {
+    "english": "sample disposition verification",
+    "zh_tw": "樣品處置確認",
+    "pronunciation": "en-US · sample disposition verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The engineer compared sample disposition verification with the approved baseline.",
+    "example_zh_tw": "工程師將樣品處置確認與核准基準進行比較。"
+  },
+  {
+    "english": "laboratory housekeeping verification",
+    "zh_tw": "實驗室整理確認",
+    "pronunciation": "en-US · laboratory housekeeping verification",
+    "category": "lab_equipment",
+    "difficulty": "B1",
+    "example": "The final review found that laboratory housekeeping verification was consistently documented.",
+    "example_zh_tw": "最終審查確認實驗室整理確認已有一致的文件紀錄。"
+  },
+  {
+    "english": "sample check-in issue analysis",
+    "zh_tw": "樣品收件問題分析",
+    "pronunciation": "en-US · sample check-in issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The test plan identifies how sample check-in issue analysis will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄樣品收件問題分析。"
+  },
+  {
+    "english": "equipment reservation issue analysis",
+    "zh_tw": "設備預約問題分析",
+    "pronunciation": "en-US · equipment reservation issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The project team discussed equipment reservation issue analysis during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了設備預約問題分析。"
+  },
+  {
+    "english": "setup handover issue analysis",
+    "zh_tw": "設定交接問題分析",
+    "pronunciation": "en-US · setup handover issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The assessor reviewed the traceable evidence supporting setup handover issue analysis.",
+    "example_zh_tw": "評鑑人員審查了支持設定交接問題分析的可追溯證據。"
+  },
+  {
+    "english": "shift log issue analysis",
+    "zh_tw": "輪班紀錄問題分析",
+    "pronunciation": "en-US · shift log issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The investigation separated observations about shift log issue analysis from working hypotheses.",
+    "example_zh_tw": "調查將輪班紀錄問題分析的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "calibration status issue analysis",
+    "zh_tw": "校正狀態問題分析",
+    "pronunciation": "en-US · calibration status issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The engineer explained why calibration status issue analysis was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了校正狀態問題分析與符合性判定的關聯。"
+  },
+  {
+    "english": "environmental condition issue analysis",
+    "zh_tw": "環境條件問題分析",
+    "pronunciation": "en-US · environmental condition issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The technician verified environmental condition issue analysis before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了環境條件問題分析。"
+  },
+  {
+    "english": "test interruption issue analysis",
+    "zh_tw": "測試中斷問題分析",
+    "pronunciation": "en-US · test interruption issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The team evaluated the technical risk related to test interruption issue analysis.",
+    "example_zh_tw": "團隊評估了與測試中斷問題分析相關的技術風險。"
+  },
+  {
+    "english": "witness testing issue analysis",
+    "zh_tw": "見證測試問題分析",
+    "pronunciation": "en-US · witness testing issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The team reviewed witness testing issue analysis before approving the Day 139 test configuration.",
+    "example_zh_tw": "團隊在核准第 139 天的測試配置前審查了見證測試問題分析。"
+  },
+  {
+    "english": "sample disposition issue analysis",
+    "zh_tw": "樣品處置問題分析",
+    "pronunciation": "en-US · sample disposition issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The reviewer checked sample disposition issue analysis against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認樣品處置問題分析。"
+  },
+  {
+    "english": "laboratory housekeeping issue analysis",
+    "zh_tw": "實驗室整理問題分析",
+    "pronunciation": "en-US · laboratory housekeeping issue analysis",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The test log records the condition associated with laboratory housekeeping issue analysis.",
+    "example_zh_tw": "測試日誌記錄了與實驗室整理問題分析相關的條件。"
+  },
+  {
+    "english": "sample check-in documentation",
+    "zh_tw": "樣品收件文件化",
+    "pronunciation": "en-US · sample check-in documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The engineer compared sample check-in documentation with the approved baseline.",
+    "example_zh_tw": "工程師將樣品收件文件化與核准基準進行比較。"
+  },
+  {
+    "english": "equipment reservation documentation",
+    "zh_tw": "設備預約文件化",
+    "pronunciation": "en-US · equipment reservation documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The final review found that equipment reservation documentation was consistently documented.",
+    "example_zh_tw": "最終審查確認設備預約文件化已有一致的文件紀錄。"
+  },
+  {
+    "english": "setup handover documentation",
+    "zh_tw": "設定交接文件化",
+    "pronunciation": "en-US · setup handover documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The technical record includes objective evidence for setup handover documentation.",
+    "example_zh_tw": "技術紀錄包含設定交接文件化的客觀證據。"
+  },
+  {
+    "english": "shift log documentation",
+    "zh_tw": "輪班紀錄文件化",
+    "pronunciation": "en-US · shift log documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The customer requested a clear explanation of shift log documentation.",
+    "example_zh_tw": "客戶要求清楚說明輪班紀錄文件化。"
+  },
+  {
+    "english": "calibration status documentation",
+    "zh_tw": "校正狀態文件化",
+    "pronunciation": "en-US · calibration status documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The procedure defines the acceptance criterion for calibration status documentation.",
+    "example_zh_tw": "程序定義了校正狀態文件化的接受準則。"
+  },
+  {
+    "english": "environmental condition documentation",
+    "zh_tw": "環境條件文件化",
+    "pronunciation": "en-US · environmental condition documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The test plan identifies how environmental condition documentation will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄環境條件文件化。"
+  },
+  {
+    "english": "test interruption documentation",
+    "zh_tw": "測試中斷文件化",
+    "pronunciation": "en-US · test interruption documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The project team discussed test interruption documentation during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了測試中斷文件化。"
+  },
+  {
+    "english": "witness testing documentation",
+    "zh_tw": "見證測試文件化",
+    "pronunciation": "en-US · witness testing documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The assessor reviewed the traceable evidence supporting witness testing documentation.",
+    "example_zh_tw": "評鑑人員審查了支持見證測試文件化的可追溯證據。"
+  },
+  {
+    "english": "sample disposition documentation",
+    "zh_tw": "樣品處置文件化",
+    "pronunciation": "en-US · sample disposition documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The investigation separated observations about sample disposition documentation from working hypotheses.",
+    "example_zh_tw": "調查將樣品處置文件化的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "laboratory housekeeping documentation",
+    "zh_tw": "實驗室整理文件化",
+    "pronunciation": "en-US · laboratory housekeeping documentation",
+    "category": "lab_equipment",
+    "difficulty": "B2",
+    "example": "The engineer explained why laboratory housekeeping documentation was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了實驗室整理文件化與符合性判定的關聯。"
+  }
+]
