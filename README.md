@@ -1,39 +1,27 @@
-# RF Academy Pro V1
+# RF Academy Pro V1.1 Complete
 
-180-day mobile English training PWA for RF / EMC / Safety / Certification / Interview practice.
+可直接上傳 GitHub Pages 的 RF / EMC / Safety / Certification / Interview 英文訓練 PWA。
 
-## Features
-- 180 daily lessons
-- 10 vocabulary items per day
-- RF, EMC, Safety, Certification, Lab Debug, Interview themes
-- Browser TTS pronunciation
-- Slow shadowing playback
-- Daily progress saved in localStorage
-- Notes per day
-- Export progress JSON
-- Mobile-first responsive UI
-- GitHub Pages / Netlify compatible
+## 功能
+- 180 天課程資料
+- 每天 10 個專業單字
+- 工程師例句、情境對話、Debug Case、面試題
+- 瀏覽器英文 TTS 發音與慢速播放
+- localStorage 進度保存
+- PWA 離線快取
+- 手機版 RWD UI
 
-## GitHub Pages Upload
-1. Unzip this package.
-2. Create a GitHub repository, for example `rf-academy-pro`.
-3. Upload all files in this folder.
-4. Go to Settings → Pages.
-5. Source: Deploy from branch.
-6. Branch: main, folder: /root.
-7. Save and open the generated GitHub Pages URL.
+## GitHub Pages 上傳
+1. 解壓縮 ZIP
+2. 進入資料夾內層，確認看到 index.html
+3. 將所有檔案拖到 GitHub Repository
+4. Settings → Pages → Deploy from branch → main → /root
 
-## Local Preview
+## 本機測試
+直接雙擊 index.html 可開啟。若要測試 PWA 快取，建議用：
+
 ```bash
-npm install
-npm run dev
+python -m http.server 8000
 ```
 
-## Build
-```bash
-npm install
-npm run build
-```
-
-For GitHub Pages with Vite, deploy the built `dist` folder or use GitHub Actions.
-For simplest static hosting, use Netlify and drag-drop the entire project folder.
+再開啟 http://localhost:8000
