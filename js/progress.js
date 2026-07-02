@@ -1,4 +1,6 @@
-export function completionPercent(state) { return Math.round((state.completedDays.length / 180) * 100); }
+import { LESSON_COUNT } from './config.js';
+
+export function completionPercent(state) { return Math.round((state.completedDays.length / LESSON_COUNT) * 100); }
 export function averageScore(state) {
   const scores = Object.values(state.quizScores).map(item => Number(item.score)).filter(Number.isFinite);
   return scores.length ? Math.round(scores.reduce((sum, score) => sum + score, 0) / scores.length) : 0;
@@ -18,10 +20,10 @@ export function renderProgress(state) {
         <article class="metric"><strong>${averageScore(state)}%</strong><span>平均測驗</span></article>
         <article class="metric"><strong>${state.streak}</strong><span>連續學習日</span></article>
       </div>
-      <div class="section-heading"><div><h2>180 天地圖</h2><p class="muted">整體完成 ${percent}%</p></div></div>
+      <div class="section-heading"><div><h2>${LESSON_COUNT} 天地圖</h2><p class="muted">整體完成 ${percent}%</p></div></div>
       <div class="panel">
         <div class="progress-track" style="--progress:${percent}%"><span></span></div>
-        <div class="calendar-grid" style="margin-top:16px">${Array.from({ length: 180 }, (_, index) => `<a class="calendar-day ${state.completedDays.includes(index + 1) ? 'completed' : ''}" href="#lesson/${index + 1}" aria-label="第 ${index + 1} 天${state.completedDays.includes(index + 1) ? '，已完成' : ''}">${index + 1}</a>`).join('')}</div>
+        <div class="calendar-grid" style="margin-top:16px">${Array.from({ length: LESSON_COUNT }, (_, index) => `<a class="calendar-day ${state.completedDays.includes(index + 1) ? 'completed' : ''}" href="#lesson/${index + 1}" aria-label="第 ${index + 1} 天${state.completedDays.includes(index + 1) ? '，已完成' : ''}">${index + 1}</a>`).join('')}</div>
       </div>
       <div class="section-heading"><div><h2>最近測驗</h2><p class="muted">保存每一天最近一次成績</p></div></div>
       <div class="panel score-list">${scores.length ? scores.map(([day, item]) => `<div class="score-row"><strong>Day ${escapeHtml(day)}</strong><div class="progress-track" style="--progress:${Number(item.score)}%"><span></span></div><span>${Number(item.score)}%</span></div>`).join('') : '<div class="empty-state">完成第一份測驗後，成績會顯示在這裡。</div>'}</div>

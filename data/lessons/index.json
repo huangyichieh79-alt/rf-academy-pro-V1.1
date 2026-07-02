@@ -1,0 +1,587 @@
+[
+  {
+    "day": 1,
+    "id": "day001",
+    "topic": "RF Basic",
+    "topic_zh_tw": "射頻基礎",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 2,
+    "id": "day002",
+    "topic": "RF Measurement",
+    "topic_zh_tw": "射頻量測",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 3,
+    "id": "day003",
+    "topic": "Antenna",
+    "topic_zh_tw": "天線工程",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 4,
+    "id": "day004",
+    "topic": "Conducted Power",
+    "topic_zh_tw": "傳導功率",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 5,
+    "id": "day005",
+    "topic": "Radiated Power",
+    "topic_zh_tw": "輻射功率",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 6,
+    "id": "day006",
+    "topic": "Wi-Fi",
+    "topic_zh_tw": "Wi-Fi 測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 7,
+    "id": "day007",
+    "topic": "Bluetooth",
+    "topic_zh_tw": "藍牙測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 8,
+    "id": "day008",
+    "topic": "Cellular",
+    "topic_zh_tw": "行動通訊測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 9,
+    "id": "day009",
+    "topic": "OTA",
+    "topic_zh_tw": "空中介面測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 10,
+    "id": "day010",
+    "topic": "EMC Basic",
+    "topic_zh_tw": "電磁相容基礎",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 11,
+    "id": "day011",
+    "topic": "Radiated Emission",
+    "topic_zh_tw": "輻射發射",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 12,
+    "id": "day012",
+    "topic": "Conducted Emission",
+    "topic_zh_tw": "傳導發射",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 13,
+    "id": "day013",
+    "topic": "Immunity",
+    "topic_zh_tw": "電磁耐受度",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 14,
+    "id": "day014",
+    "topic": "ESD",
+    "topic_zh_tw": "靜電放電",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 15,
+    "id": "day015",
+    "topic": "EFT",
+    "topic_zh_tw": "電性快速暫態",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 16,
+    "id": "day016",
+    "topic": "Surge",
+    "topic_zh_tw": "雷擊突波",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 17,
+    "id": "day017",
+    "topic": "Safety Basic",
+    "topic_zh_tw": "產品安全基礎",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 18,
+    "id": "day018",
+    "topic": "Hipot",
+    "topic_zh_tw": "耐電壓測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 19,
+    "id": "day019",
+    "topic": "Leakage Current",
+    "topic_zh_tw": "漏電流測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 20,
+    "id": "day020",
+    "topic": "Ground Bond",
+    "topic_zh_tw": "接地導通測試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 21,
+    "id": "day021",
+    "topic": "Creepage",
+    "topic_zh_tw": "沿面距離",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 22,
+    "id": "day022",
+    "topic": "Clearance",
+    "topic_zh_tw": "空間距離",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 23,
+    "id": "day023",
+    "topic": "Certification",
+    "topic_zh_tw": "產品驗證",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 24,
+    "id": "day024",
+    "topic": "FCC",
+    "topic_zh_tw": "FCC 美國驗證",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 25,
+    "id": "day025",
+    "topic": "CE",
+    "topic_zh_tw": "CE 歐盟符合性",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 26,
+    "id": "day026",
+    "topic": "NCC",
+    "topic_zh_tw": "NCC 台灣驗證",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 27,
+    "id": "day027",
+    "topic": "BSMI",
+    "topic_zh_tw": "BSMI 台灣商品檢驗",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 28,
+    "id": "day028",
+    "topic": "UL",
+    "topic_zh_tw": "UL 安全驗證",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 29,
+    "id": "day029",
+    "topic": "IEC",
+    "topic_zh_tw": "IEC 國際標準",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 30,
+    "id": "day030",
+    "topic": "EN",
+    "topic_zh_tw": "EN 歐洲標準",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 31,
+    "id": "day031",
+    "topic": "ISO/IEC 17025",
+    "topic_zh_tw": "ISO/IEC 17025 實驗室管理",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 32,
+    "id": "day032",
+    "topic": "Test Report",
+    "topic_zh_tw": "測試報告英文",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 33,
+    "id": "day033",
+    "topic": "Customer Meeting",
+    "topic_zh_tw": "客戶會議英文",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 34,
+    "id": "day034",
+    "topic": "Lab Communication",
+    "topic_zh_tw": "實驗室溝通英文",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 35,
+    "id": "day035",
+    "topic": "Job Interview",
+    "topic_zh_tw": "工程師英文面試",
+    "stage": "fundamentals",
+    "stage_zh_tw": "基礎理解",
+    "duration_minutes": 15
+  },
+  {
+    "day": 36,
+    "id": "day036",
+    "topic": "RF Basic",
+    "topic_zh_tw": "射頻基礎",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 37,
+    "id": "day037",
+    "topic": "RF Measurement",
+    "topic_zh_tw": "射頻量測",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 38,
+    "id": "day038",
+    "topic": "Antenna",
+    "topic_zh_tw": "天線工程",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 39,
+    "id": "day039",
+    "topic": "Conducted Power",
+    "topic_zh_tw": "傳導功率",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 40,
+    "id": "day040",
+    "topic": "Radiated Power",
+    "topic_zh_tw": "輻射功率",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 41,
+    "id": "day041",
+    "topic": "Wi-Fi",
+    "topic_zh_tw": "Wi-Fi 測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 42,
+    "id": "day042",
+    "topic": "Bluetooth",
+    "topic_zh_tw": "藍牙測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 43,
+    "id": "day043",
+    "topic": "Cellular",
+    "topic_zh_tw": "行動通訊測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 44,
+    "id": "day044",
+    "topic": "OTA",
+    "topic_zh_tw": "空中介面測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 45,
+    "id": "day045",
+    "topic": "EMC Basic",
+    "topic_zh_tw": "電磁相容基礎",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 46,
+    "id": "day046",
+    "topic": "Radiated Emission",
+    "topic_zh_tw": "輻射發射",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 47,
+    "id": "day047",
+    "topic": "Conducted Emission",
+    "topic_zh_tw": "傳導發射",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 48,
+    "id": "day048",
+    "topic": "Immunity",
+    "topic_zh_tw": "電磁耐受度",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 49,
+    "id": "day049",
+    "topic": "ESD",
+    "topic_zh_tw": "靜電放電",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 50,
+    "id": "day050",
+    "topic": "EFT",
+    "topic_zh_tw": "電性快速暫態",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 51,
+    "id": "day051",
+    "topic": "Surge",
+    "topic_zh_tw": "雷擊突波",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 52,
+    "id": "day052",
+    "topic": "Safety Basic",
+    "topic_zh_tw": "產品安全基礎",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 53,
+    "id": "day053",
+    "topic": "Hipot",
+    "topic_zh_tw": "耐電壓測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 54,
+    "id": "day054",
+    "topic": "Leakage Current",
+    "topic_zh_tw": "漏電流測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 55,
+    "id": "day055",
+    "topic": "Ground Bond",
+    "topic_zh_tw": "接地導通測試",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 56,
+    "id": "day056",
+    "topic": "Creepage",
+    "topic_zh_tw": "沿面距離",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 57,
+    "id": "day057",
+    "topic": "Clearance",
+    "topic_zh_tw": "空間距離",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 58,
+    "id": "day058",
+    "topic": "Certification",
+    "topic_zh_tw": "產品驗證",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 59,
+    "id": "day059",
+    "topic": "FCC",
+    "topic_zh_tw": "FCC 美國驗證",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 60,
+    "id": "day060",
+    "topic": "CE",
+    "topic_zh_tw": "CE 歐盟符合性",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 61,
+    "id": "day061",
+    "topic": "NCC",
+    "topic_zh_tw": "NCC 台灣驗證",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 62,
+    "id": "day062",
+    "topic": "BSMI",
+    "topic_zh_tw": "BSMI 台灣商品檢驗",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 63,
+    "id": "day063",
+    "topic": "UL",
+    "topic_zh_tw": "UL 安全驗證",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 64,
+    "id": "day064",
+    "topic": "IEC",
+    "topic_zh_tw": "IEC 國際標準",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  },
+  {
+    "day": 65,
+    "id": "day065",
+    "topic": "EN",
+    "topic_zh_tw": "EN 歐洲標準",
+    "stage": "measurement method",
+    "stage_zh_tw": "量測方法",
+    "duration_minutes": 15
+  }
+]

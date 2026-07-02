@@ -32,7 +32,7 @@ function dayDifference(from, to) {
 export function getState() {
   const state = {};
   for (const key of KEYS) state[key] = normalize(key, safeParse(localStorage.getItem(key), DEFAULTS[key]));
-  state.currentDay = Math.min(180, Math.max(1, Math.round(state.currentDay)));
+  state.currentDay = Math.min(LESSON_COUNT, Math.max(1, Math.round(state.currentDay)));
   state.themeMode = state.themeMode === 'light' ? 'light' : 'dark';
   return state;
 }
@@ -53,7 +53,7 @@ export function updateState(updater) {
 }
 
 export function setCurrentDay(day) {
-  return updateState(state => ({ ...state, currentDay: Math.min(180, Math.max(1, Number(day) || 1)) }));
+  return updateState(state => ({ ...state, currentDay: Math.min(LESSON_COUNT, Math.max(1, Number(day) || 1)) }));
 }
 
 export function markDayCompleted(day) {
@@ -65,7 +65,7 @@ export function markDayCompleted(day) {
       state.streak = state.lastStudyDate && dayDifference(state.lastStudyDate, now) === 1 ? state.streak + 1 : 1;
       state.lastStudyDate = now;
     }
-    state.currentDay = Math.min(180, Math.max(state.currentDay, day < 180 ? day + 1 : 180));
+    state.currentDay = Math.min(LESSON_COUNT, Math.max(state.currentDay, day < LESSON_COUNT ? day + 1 : LESSON_COUNT));
     return state;
   });
 }
@@ -89,3 +89,4 @@ export function storageSelfCheck() {
   try { localStorage.setItem(key, 'ok'); const ok = localStorage.getItem(key) === 'ok'; localStorage.removeItem(key); return ok; }
   catch { return false; }
 }
+import { LESSON_COUNT } from './config.js';

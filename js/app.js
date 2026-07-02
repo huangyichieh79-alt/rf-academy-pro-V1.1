@@ -4,6 +4,7 @@ import { mountQuiz } from './quiz.js';
 import { renderProgress, completionPercent, averageScore } from './progress.js';
 import { mountInterview } from './interview.js';
 import { mountDebug } from './debug.js';
+import { LESSON_COUNT } from './config.js';
 
 window.RFAcademyBoot?.started();
 
@@ -86,7 +87,7 @@ async function renderDashboard() {
           <a class="primary-button" href="#lesson/${lesson.day}">${completed ? '複習今日課程' : '開始今天的課程'} →</a>
         </article>
         <article class="panel">
-          <div class="eyebrow">Your momentum</div><h2>180 天進度</h2>
+          <div class="eyebrow">Your momentum</div><h2>${LESSON_COUNT} 天進度</h2>
           <div class="progress-track" style="--progress:${percent}%"><span></span></div>
           <div class="progress-label"><span>${state.completedDays.length} 天完成</span><strong>${percent}%</strong></div>
           <div class="metric-grid" style="margin-top:20px"><div class="metric"><strong>${state.streak}</strong><span>連續日</span></div><div class="metric"><strong>${averageScore(state)}%</strong><span>平均分</span></div><div class="metric"><strong>${state.weakWords.length}</strong><span>待複習</span></div></div>
@@ -122,15 +123,15 @@ function debugBlock(item) {
 
 async function renderLesson(dayParam) {
   const state = getState();
-  const day = Math.min(180, Math.max(1, Number(dayParam) || state.currentDay));
+  const day = Math.min(LESSON_COUNT, Math.max(1, Number(dayParam) || state.currentDay));
   if (state.currentDay !== day) setCurrentDay(day);
   const lesson = await loadLesson(day);
   const quizDone = Boolean(getState().quizScores[String(day)]);
   app.innerHTML = `
     <section class="view lesson-header">
-      <div class="day-switcher"><a class="icon-button" href="#lesson/${Math.max(1, day - 1)}" aria-label="前一天">←</a><select id="daySelect" aria-label="選擇課程天數">${Array.from({ length: 180 }, (_, index) => `<option value="${index + 1}" ${index + 1 === day ? 'selected' : ''}>Day ${padDay(index + 1)}</option>`).join('')}</select><a class="icon-button" href="#lesson/${Math.min(180, day + 1)}" aria-label="下一天">→</a></div>
+      <div class="day-switcher"><a class="icon-button" href="#lesson/${Math.max(1, day - 1)}" aria-label="前一天">←</a><select id="daySelect" aria-label="選擇課程天數">${Array.from({ length: LESSON_COUNT }, (_, index) => `<option value="${index + 1}" ${index + 1 === day ? 'selected' : ''}>Day ${padDay(index + 1)}</option>`).join('')}</select><a class="icon-button" href="#lesson/${Math.min(LESSON_COUNT, day + 1)}" aria-label="下一天">→</a></div>
       <div style="margin-top:22px"><span class="eyebrow">Day ${padDay(day)} · ${escapeHtml(lesson.stage)}</span><h1>${escapeHtml(lesson.topic)}</h1><p class="muted">${escapeHtml(lesson.topic_zh_tw)} · 今日約 ${lesson.duration_minutes} 分鐘</p></div>
-      <div class="progress-track" style="--progress:${(day / 180) * 100}%"><span></span></div>
+      <div class="progress-track" style="--progress:${(day / LESSON_COUNT) * 100}%"><span></span></div>
     </section>
     <section class="lesson-section"><div class="section-heading"><div><span class="eyebrow">Step 01</span><h2>今日主題</h2></div></div><article class="content-card"><h3>學習目標</h3><ul>${lesson.objectives.map(item => `<li>${escapeHtml(item)}</li>`).join('')}</ul></article></section>
     <section class="lesson-section"><div class="section-heading"><div><span class="eyebrow">Step 02</span><h2>今日 10 個單字</h2></div><span class="chip">${escapeHtml(lesson.topic_zh_tw)}</span></div><div class="word-grid">${lesson.vocabulary.map(wordCard).join('')}</div></section>

@@ -26,19 +26,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Ensure all 180 lessons exist
-        run: node scripts/ensure_lessons.js
-
-      - name: Validate application and curriculum
-        run: node scripts/validate.js
+      - name: Build and validate production bundle
+        run: npm run build
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload static site
+      - name: Upload production site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: dist
 
   deploy:
     environment:

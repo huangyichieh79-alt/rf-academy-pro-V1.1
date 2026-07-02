@@ -302,7 +302,7 @@ function main() {
   fs.mkdirSync(VOCAB_DIR, { recursive: true });
   const vocabulary = Object.fromEntries(['rf', 'emc', 'safety', 'certification', 'interview', 'lab_equipment', 'test_report', 'customer_communication'].map(key => [key, []]));
   const index = [];
-  for (let day = 1; day <= 180; day += 1) {
+  for (let day = 1; day <= 65; day += 1) {
     const lesson = generateLesson(day);
     fs.writeFileSync(path.join(LESSON_DIR, `${lesson.id}.json`), `${JSON.stringify(lesson, null, 2)}\n`, 'utf8');
     vocabulary[lesson.vocabulary[0].category].push(...lesson.vocabulary);
