@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 13,
+  "id": "day013",
+  "topic": "Immunity",
+  "topic_zh_tw": "電磁耐受度",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Immunity terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "performance criterion",
+      "zh_tw": "性能判據",
+      "pronunciation": "en-US · performance criterion",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The test plan identifies how performance criterion will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄性能判據。"
+    },
+    {
+      "english": "continuous disturbance",
+      "zh_tw": "連續干擾",
+      "pronunciation": "en-US · continuous disturbance",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The project team discussed continuous disturbance during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了連續干擾。"
+    },
+    {
+      "english": "transient disturbance",
+      "zh_tw": "暫態干擾",
+      "pronunciation": "en-US · transient disturbance",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting transient disturbance.",
+      "example_zh_tw": "評鑑人員審查了支持暫態干擾的可追溯證據。"
+    },
+    {
+      "english": "degradation of performance",
+      "zh_tw": "性能劣化",
+      "pronunciation": "en-US · degradation of performance",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about degradation of performance from working hypotheses.",
+      "example_zh_tw": "調查將性能劣化的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "functional recovery",
+      "zh_tw": "功能恢復",
+      "pronunciation": "en-US · functional recovery",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The engineer explained why functional recovery was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了功能恢復與符合性判定的關聯。"
+    },
+    {
+      "english": "test severity level",
+      "zh_tw": "測試嚴酷度",
+      "pronunciation": "en-US · test severity level",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The technician verified test severity level before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了測試嚴酷度。"
+    },
+    {
+      "english": "dwell time",
+      "zh_tw": "駐留時間",
+      "pronunciation": "en-US · dwell time",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to dwell time.",
+      "example_zh_tw": "團隊評估了與駐留時間相關的技術風險。"
+    },
+    {
+      "english": "frequency sweep",
+      "zh_tw": "頻率掃描",
+      "pronunciation": "en-US · frequency sweep",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team reviewed frequency sweep before approving the Day 013 test configuration.",
+      "example_zh_tw": "團隊在核准第 013 天的測試配置前審查了頻率掃描。"
+    },
+    {
+      "english": "modulation depth",
+      "zh_tw": "調變深度",
+      "pronunciation": "en-US · modulation depth",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The reviewer checked modulation depth against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認調變深度。"
+    },
+    {
+      "english": "field uniformity",
+      "zh_tw": "場均勻性",
+      "pronunciation": "en-US · field uniformity",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with field uniformity.",
+      "example_zh_tw": "測試日誌記錄了與場均勻性相關的條件。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat degradation of performance under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行性能劣化。"
+    },
+    {
+      "english": "The report clearly identifies the method used for functional recovery.",
+      "zh_tw": "報告已清楚標示功能恢復所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to test severity level.",
+      "zh_tw": "請納入與測試嚴酷度相關的不確定度。"
+    },
+    {
+      "english": "Please verify dwell time before we start the test.",
+      "zh_tw": "開始測試前，請確認駐留時間。"
+    },
+    {
+      "english": "We need traceable evidence for frequency sweep.",
+      "zh_tw": "我們需要可追溯的頻率掃描證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "Immunity pre-test review",
+    "context_zh_tw": "電磁耐受度測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified performance criterion and recorded the setup.",
+        "zh_tw": "我已確認性能判據並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for continuous disturbance?",
+        "zh_tw": "很好。有哪些證據支持對連續干擾的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Radiated emission fail — Immunity investigation",
+    "title_zh_tw": "輻射發射超標：電磁耐受度調查",
+    "problem": "A pre-compliance check on Day 013 shows a repeatable radiated emission fail condition.",
+    "background": "The Immunity configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "An unintended cable current is acting as an antenna.",
+      "The enclosure seam has insufficient shielding."
+    ],
+    "check_steps": [
+      "Rotate the turntable and change antenna height to locate the maximum.",
+      "Use a current probe to identify the dominant cable path."
+    ],
+    "corrective_actions": [
+      "Add common-mode suppression at the cable interface.",
+      "Improve seam bonding and repeat the final measurement."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Immunity design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "EMC Debug Experience",
+    "question": "Tell me about an EMC issue you debugged. Connect your answer to Immunity.",
+    "hint_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。 並連結到「電磁耐受度」。",
+    "sample_answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance. In Immunity, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「performance criterion」的正確繁體中文是什麼？",
+      "options": [
+        "性能判據",
+        "性能劣化",
+        "駐留時間",
+        "調變深度"
+      ],
+      "answer": "性能判據",
+      "explanation": "performance criterion 指的是「性能判據」。",
+      "term": "performance criterion"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「連續干擾」的正確工程英文是什麼？",
+      "options": [
+        "continuous disturbance",
+        "functional recovery",
+        "frequency sweep",
+        "field uniformity"
+      ],
+      "answer": "continuous disturbance",
+      "explanation": "工程文件中可使用 continuous disturbance。",
+      "term": "continuous disturbance"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The assessor reviewed the traceable evidence supporting ________.",
+      "prompt_zh_tw": "評鑑人員審查了支持暫態干擾的可追溯證據。",
+      "answer": "transient disturbance",
+      "accepted_answers": [
+        "transient disturbance"
+      ],
+      "explanation": "完整句子的關鍵詞是 transient disturbance。",
+      "term": "transient disturbance"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "degradation of performance",
+      "options": [
+        "degradation of performance",
+        "dwell time",
+        "field uniformity",
+        "continuous disturbance"
+      ],
+      "answer": "degradation of performance",
+      "explanation": "播放內容是 degradation of performance（性能劣化）。",
+      "term": "degradation of performance"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Tell me about an EMC issue you debugged. Connect your answer to Immunity.",
+      "prompt_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。 並連結到「電磁耐受度」。",
+      "answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance. In Immunity, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "functional",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "functional recovery"
+    }
+  ]
+}

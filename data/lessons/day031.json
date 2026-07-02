@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 31,
+  "id": "day031",
+  "topic": "ISO/IEC 17025",
+  "topic_zh_tw": "ISO/IEC 17025 實驗室管理",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten ISO/IEC 17025 terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "laboratory competence",
+      "zh_tw": "實驗室能力",
+      "pronunciation": "en-US · laboratory competence",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The test plan identifies how laboratory competence will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄實驗室能力。"
+    },
+    {
+      "english": "impartiality risk",
+      "zh_tw": "公正性風險",
+      "pronunciation": "en-US · impartiality risk",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The project team discussed impartiality risk during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了公正性風險。"
+    },
+    {
+      "english": "metrological traceability",
+      "zh_tw": "計量追溯性",
+      "pronunciation": "en-US · metrological traceability",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting metrological traceability.",
+      "example_zh_tw": "評鑑人員審查了支持計量追溯性的可追溯證據。"
+    },
+    {
+      "english": "decision rule",
+      "zh_tw": "判定規則",
+      "pronunciation": "en-US · decision rule",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about decision rule from working hypotheses.",
+      "example_zh_tw": "調查將判定規則的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "method validation",
+      "zh_tw": "方法確效",
+      "pronunciation": "en-US · method validation",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The engineer explained why method validation was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了方法確效與符合性判定的關聯。"
+    },
+    {
+      "english": "proficiency testing",
+      "zh_tw": "能力試驗",
+      "pronunciation": "en-US · proficiency testing",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The technician verified proficiency testing before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了能力試驗。"
+    },
+    {
+      "english": "measurement result",
+      "zh_tw": "量測結果",
+      "pronunciation": "en-US · measurement result",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to measurement result.",
+      "example_zh_tw": "團隊評估了與量測結果相關的技術風險。"
+    },
+    {
+      "english": "equipment intermediate check",
+      "zh_tw": "設備期間查核",
+      "pronunciation": "en-US · equipment intermediate check",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The team reviewed equipment intermediate check before approving the Day 031 test configuration.",
+      "example_zh_tw": "團隊在核准第 031 天的測試配置前審查了設備期間查核。"
+    },
+    {
+      "english": "nonconforming work",
+      "zh_tw": "不符合工作",
+      "pronunciation": "en-US · nonconforming work",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The reviewer checked nonconforming work against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認不符合工作。"
+    },
+    {
+      "english": "management review",
+      "zh_tw": "管理審查",
+      "pronunciation": "en-US · management review",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with management review.",
+      "example_zh_tw": "測試日誌記錄了與管理審查相關的條件。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Could you record impartiality risk in the test log?",
+      "zh_tw": "可以請你把公正性風險記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in metrological traceability.",
+      "zh_tw": "最新結果顯示計量追溯性有所變化。"
+    },
+    {
+      "english": "Please keep decision rule unchanged during the comparison.",
+      "zh_tw": "進行比較時，請保持判定規則不變。"
+    },
+    {
+      "english": "The team will repeat method validation under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行方法確效。"
+    },
+    {
+      "english": "The report clearly identifies the method used for proficiency testing.",
+      "zh_tw": "報告已清楚標示能力試驗所使用的方法。"
+    }
+  ],
+  "dialogue": {
+    "context": "ISO/IEC 17025 pre-test review",
+    "context_zh_tw": "ISO/IEC 17025 實驗室管理測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified laboratory competence and recorded the setup.",
+        "zh_tw": "我已確認實驗室能力並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for impartiality risk?",
+        "zh_tw": "很好。有哪些證據支持對公正性風險的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Leakage current fail — ISO/IEC 17025 investigation",
+    "title_zh_tw": "漏電流測試失敗：ISO/IEC 17025 實驗室管理調查",
+    "problem": "A pre-compliance check on Day 031 shows a repeatable leakage current fail condition.",
+    "background": "The ISO/IEC 17025 configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Y-capacitance is excessive for the product class.",
+      "A wiring error bypasses the intended insulation."
+    ],
+    "check_steps": [
+      "Verify the measuring network and supply polarity.",
+      "Measure each filter branch separately."
+    ],
+    "corrective_actions": [
+      "Rebalance filter capacitance within EMC and safety limits.",
+      "Correct wiring and repeat all required conditions."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the ISO/IEC 17025 design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Self Introduction",
+    "question": "Please introduce yourself as an RF compliance engineer. Connect your answer to ISO/IEC 17025.",
+    "hint_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。 並連結到「ISO/IEC 17025 實驗室管理」。",
+    "sample_answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams. In ISO/IEC 17025, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「laboratory competence」的正確繁體中文是什麼？",
+      "options": [
+        "實驗室能力",
+        "判定規則",
+        "量測結果",
+        "不符合工作"
+      ],
+      "answer": "實驗室能力",
+      "explanation": "laboratory competence 指的是「實驗室能力」。",
+      "term": "laboratory competence"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「公正性風險」的正確工程英文是什麼？",
+      "options": [
+        "impartiality risk",
+        "method validation",
+        "equipment intermediate check",
+        "management review"
+      ],
+      "answer": "impartiality risk",
+      "explanation": "工程文件中可使用 impartiality risk。",
+      "term": "impartiality risk"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The assessor reviewed the traceable evidence supporting ________.",
+      "prompt_zh_tw": "評鑑人員審查了支持計量追溯性的可追溯證據。",
+      "answer": "metrological traceability",
+      "accepted_answers": [
+        "metrological traceability"
+      ],
+      "explanation": "完整句子的關鍵詞是 metrological traceability。",
+      "term": "metrological traceability"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "decision rule",
+      "options": [
+        "decision rule",
+        "measurement result",
+        "management review",
+        "impartiality risk"
+      ],
+      "answer": "decision rule",
+      "explanation": "播放內容是 decision rule（判定規則）。",
+      "term": "decision rule"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Please introduce yourself as an RF compliance engineer. Connect your answer to ISO/IEC 17025.",
+      "prompt_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。 並連結到「ISO/IEC 17025 實驗室管理」。",
+      "answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams. In ISO/IEC 17025, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "method",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "method validation"
+    }
+  ]
+}

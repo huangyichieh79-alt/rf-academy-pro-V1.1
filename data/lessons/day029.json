@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 29,
+  "id": "day029",
+  "topic": "IEC",
+  "topic_zh_tw": "IEC 國際標準",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten IEC terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "International Electrotechnical Commission",
+      "zh_tw": "國際電工委員會",
+      "pronunciation": "en-US · International Electrotechnical Commission",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The reviewer checked International Electrotechnical Commission against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認國際電工委員會。"
+    },
+    {
+      "english": "international standard",
+      "zh_tw": "國際標準",
+      "pronunciation": "en-US · international standard",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with international standard.",
+      "example_zh_tw": "測試日誌記錄了與國際標準相關的條件。"
+    },
+    {
+      "english": "normative reference",
+      "zh_tw": "規範性引用文件",
+      "pronunciation": "en-US · normative reference",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "We confirmed normative reference before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了規範性引用文件。"
+    },
+    {
+      "english": "scope clause",
+      "zh_tw": "適用範圍條款",
+      "pronunciation": "en-US · scope clause",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates scope clause under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估適用範圍條款。"
+    },
+    {
+      "english": "test requirement",
+      "zh_tw": "測試要求",
+      "pronunciation": "en-US · test requirement",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The report links test requirement to the applicable requirement and result.",
+      "example_zh_tw": "報告將測試要求連結到適用要求與結果。"
+    },
+    {
+      "english": "compliance statement",
+      "zh_tw": "符合性陳述",
+      "pronunciation": "en-US · compliance statement",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The engineer compared compliance statement with the approved baseline.",
+      "example_zh_tw": "工程師將符合性陳述與核准基準進行比較。"
+    },
+    {
+      "english": "technical committee",
+      "zh_tw": "技術委員會",
+      "pronunciation": "en-US · technical committee",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The final review found that technical committee was consistently documented.",
+      "example_zh_tw": "最終審查確認技術委員會已有一致的文件紀錄。"
+    },
+    {
+      "english": "committee draft",
+      "zh_tw": "委員會草案",
+      "pronunciation": "en-US · committee draft",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for committee draft.",
+      "example_zh_tw": "技術紀錄包含委員會草案的客觀證據。"
+    },
+    {
+      "english": "edition transition",
+      "zh_tw": "版本轉換",
+      "pronunciation": "en-US · edition transition",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of edition transition.",
+      "example_zh_tw": "客戶要求清楚說明版本轉換。"
+    },
+    {
+      "english": "interpretation sheet",
+      "zh_tw": "解釋文件",
+      "pronunciation": "en-US · interpretation sheet",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for interpretation sheet.",
+      "example_zh_tw": "程序定義了解釋文件的接受準則。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "We isolated interpretation sheet as the dominant factor.",
+      "zh_tw": "我們已確認解釋文件是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on International Electrotechnical Commission.",
+      "zh_tw": "客戶要求提供國際電工委員會的精簡進度說明。"
+    },
+    {
+      "english": "The measured international standard remains within the specified limit.",
+      "zh_tw": "量測到的國際標準仍在規定限值內。"
+    },
+    {
+      "english": "Could you record normative reference in the test log?",
+      "zh_tw": "可以請你把規範性引用文件記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in scope clause.",
+      "zh_tw": "最新結果顯示適用範圍條款有所變化。"
+    }
+  ],
+  "dialogue": {
+    "context": "IEC pre-test review",
+    "context_zh_tw": "IEC 國際標準測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified International Electrotechnical Commission and recorded the setup.",
+        "zh_tw": "我已確認國際電工委員會並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for international standard?",
+        "zh_tw": "很好。有哪些證據支持對國際標準的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Surge fail — IEC investigation",
+    "title_zh_tw": "雷擊突波測試失敗：IEC 國際標準調查",
+    "problem": "A pre-compliance check on Day 029 shows a repeatable surge fail condition.",
+    "background": "The IEC configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The protection device clamping voltage is too high.",
+      "The surge return path has excessive inductance."
+    ],
+    "check_steps": [
+      "Verify coupling mode, polarity, and phase angle.",
+      "Measure residual voltage at the protected circuit."
+    ],
+    "corrective_actions": [
+      "Select a coordinated surge protection network.",
+      "Reduce loop area in the surge current path."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the IEC design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Explain a failed test case",
+    "question": "Explain a failed test case and its outcome. Connect your answer to IEC.",
+    "hint_zh_tw": "清楚交代標準、失敗數據、根因、修正及複測結果。 並連結到「IEC 國際標準」。",
+    "sample_answer": "The initial result exceeded the limit. I verified the setup, isolated the path, and tested one change at a time. The confirmed correction passed the repeated measurement with stable margin. In IEC, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「International Electrotechnical Commission」的正確繁體中文是什麼？",
+      "options": [
+        "國際電工委員會",
+        "適用範圍條款",
+        "技術委員會",
+        "版本轉換"
+      ],
+      "answer": "國際電工委員會",
+      "explanation": "International Electrotechnical Commission 指的是「國際電工委員會」。",
+      "term": "International Electrotechnical Commission"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「國際標準」的正確工程英文是什麼？",
+      "options": [
+        "international standard",
+        "test requirement",
+        "committee draft",
+        "interpretation sheet"
+      ],
+      "answer": "international standard",
+      "explanation": "工程文件中可使用 international standard。",
+      "term": "international standard"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "We confirmed ________ before releasing the measurement result.",
+      "prompt_zh_tw": "我們在發布量測結果前確認了規範性引用文件。",
+      "answer": "normative reference",
+      "accepted_answers": [
+        "normative reference"
+      ],
+      "explanation": "完整句子的關鍵詞是 normative reference。",
+      "term": "normative reference"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "scope clause",
+      "options": [
+        "scope clause",
+        "technical committee",
+        "interpretation sheet",
+        "international standard"
+      ],
+      "answer": "scope clause",
+      "explanation": "播放內容是 scope clause（適用範圍條款）。",
+      "term": "scope clause"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Explain a failed test case and its outcome. Connect your answer to IEC.",
+      "prompt_zh_tw": "清楚交代標準、失敗數據、根因、修正及複測結果。 並連結到「IEC 國際標準」。",
+      "answer": "The initial result exceeded the limit. I verified the setup, isolated the path, and tested one change at a time. The confirmed correction passed the repeated measurement with stable margin. In IEC, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "test",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "test requirement"
+    }
+  ]
+}

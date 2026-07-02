@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 16,
+  "id": "day016",
+  "topic": "Surge",
+  "topic_zh_tw": "雷擊突波",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Surge terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "combination wave generator",
+      "zh_tw": "組合波產生器",
+      "pronunciation": "en-US · combination wave generator",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for combination wave generator.",
+      "example_zh_tw": "技術紀錄包含組合波產生器的客觀證據。"
+    },
+    {
+      "english": "open-circuit voltage",
+      "zh_tw": "開路電壓",
+      "pronunciation": "en-US · open-circuit voltage",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of open-circuit voltage.",
+      "example_zh_tw": "客戶要求清楚說明開路電壓。"
+    },
+    {
+      "english": "short-circuit current",
+      "zh_tw": "短路電流",
+      "pronunciation": "en-US · short-circuit current",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for short-circuit current.",
+      "example_zh_tw": "程序定義了短路電流的接受準則。"
+    },
+    {
+      "english": "coupling decoupling network",
+      "zh_tw": "耦合去耦網路",
+      "pronunciation": "en-US · coupling decoupling network",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The test plan identifies how coupling decoupling network will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄耦合去耦網路。"
+    },
+    {
+      "english": "line-to-line coupling",
+      "zh_tw": "線對線耦合",
+      "pronunciation": "en-US · line-to-line coupling",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The project team discussed line-to-line coupling during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了線對線耦合。"
+    },
+    {
+      "english": "line-to-ground coupling",
+      "zh_tw": "線對地耦合",
+      "pronunciation": "en-US · line-to-ground coupling",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting line-to-ground coupling.",
+      "example_zh_tw": "評鑑人員審查了支持線對地耦合的可追溯證據。"
+    },
+    {
+      "english": "surge impulse",
+      "zh_tw": "突波脈衝",
+      "pronunciation": "en-US · surge impulse",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about surge impulse from working hypotheses.",
+      "example_zh_tw": "調查將突波脈衝的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "phase angle synchronization",
+      "zh_tw": "相位角同步",
+      "pronunciation": "en-US · phase angle synchronization",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The engineer explained why phase angle synchronization was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了相位角同步與符合性判定的關聯。"
+    },
+    {
+      "english": "generator verification",
+      "zh_tw": "產生器確認",
+      "pronunciation": "en-US · generator verification",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The technician verified generator verification before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了產生器確認。"
+    },
+    {
+      "english": "residual voltage",
+      "zh_tw": "殘餘電壓",
+      "pronunciation": "en-US · residual voltage",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to residual voltage.",
+      "example_zh_tw": "團隊評估了與殘餘電壓相關的技術風險。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Could you record surge impulse in the test log?",
+      "zh_tw": "可以請你把突波脈衝記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in phase angle synchronization.",
+      "zh_tw": "最新結果顯示相位角同步有所變化。"
+    },
+    {
+      "english": "Please keep generator verification unchanged during the comparison.",
+      "zh_tw": "進行比較時，請保持產生器確認不變。"
+    },
+    {
+      "english": "The team will repeat residual voltage under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行殘餘電壓。"
+    },
+    {
+      "english": "The report clearly identifies the method used for combination wave generator.",
+      "zh_tw": "報告已清楚標示組合波產生器所使用的方法。"
+    }
+  ],
+  "dialogue": {
+    "context": "Surge pre-test review",
+    "context_zh_tw": "雷擊突波測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified combination wave generator and recorded the setup.",
+        "zh_tw": "我已確認組合波產生器並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for open-circuit voltage?",
+        "zh_tw": "很好。有哪些證據支持對開路電壓的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "EFT fail — Surge investigation",
+    "title_zh_tw": "快速暫態脈衝群測試失敗：雷擊突波調查",
+    "problem": "A pre-compliance check on Day 016 shows a repeatable eft fail condition.",
+    "background": "The Surge configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Burst energy couples through the power input.",
+      "I/O filtering is located too far from the connector."
+    ],
+    "check_steps": [
+      "Confirm clamp position and coupling length.",
+      "Monitor supply rails and communication errors."
+    ],
+    "corrective_actions": [
+      "Move filtering to the entry point.",
+      "Improve decoupling and cable shielding termination."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Surge design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Customer Communication",
+    "question": "How do you explain a failed test to a customer? Connect your answer to Surge.",
+    "hint_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。 並連結到「雷擊突波」。",
+    "sample_answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time. In Surge, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「combination wave generator」的正確繁體中文是什麼？",
+      "options": [
+        "組合波產生器",
+        "耦合去耦網路",
+        "突波脈衝",
+        "產生器確認"
+      ],
+      "answer": "組合波產生器",
+      "explanation": "combination wave generator 指的是「組合波產生器」。",
+      "term": "combination wave generator"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「開路電壓」的正確工程英文是什麼？",
+      "options": [
+        "open-circuit voltage",
+        "line-to-line coupling",
+        "phase angle synchronization",
+        "residual voltage"
+      ],
+      "answer": "open-circuit voltage",
+      "explanation": "工程文件中可使用 open-circuit voltage。",
+      "term": "open-circuit voltage"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The procedure defines the acceptance criterion for ________.",
+      "prompt_zh_tw": "程序定義了短路電流的接受準則。",
+      "answer": "short-circuit current",
+      "accepted_answers": [
+        "short-circuit current"
+      ],
+      "explanation": "完整句子的關鍵詞是 short-circuit current。",
+      "term": "short-circuit current"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "coupling decoupling network",
+      "options": [
+        "coupling decoupling network",
+        "surge impulse",
+        "residual voltage",
+        "open-circuit voltage"
+      ],
+      "answer": "coupling decoupling network",
+      "explanation": "播放內容是 coupling decoupling network（耦合去耦網路）。",
+      "term": "coupling decoupling network"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you explain a failed test to a customer? Connect your answer to Surge.",
+      "prompt_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。 並連結到「雷擊突波」。",
+      "answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time. In Surge, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "line-to-line",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "line-to-line coupling"
+    }
+  ]
+}

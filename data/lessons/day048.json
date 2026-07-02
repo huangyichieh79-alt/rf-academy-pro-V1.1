@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 48,
+  "id": "day048",
+  "topic": "Immunity",
+  "topic_zh_tw": "電磁耐受度",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Immunity terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "performance criterion measurement",
+      "zh_tw": "性能判據量測",
+      "pronunciation": "en-US · performance criterion measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The engineer compared performance criterion measurement with the approved baseline.",
+      "example_zh_tw": "工程師將性能判據量測與核准基準進行比較。"
+    },
+    {
+      "english": "continuous disturbance measurement",
+      "zh_tw": "連續干擾量測",
+      "pronunciation": "en-US · continuous disturbance measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The final review found that continuous disturbance measurement was consistently documented.",
+      "example_zh_tw": "最終審查確認連續干擾量測已有一致的文件紀錄。"
+    },
+    {
+      "english": "transient disturbance measurement",
+      "zh_tw": "暫態干擾量測",
+      "pronunciation": "en-US · transient disturbance measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for transient disturbance measurement.",
+      "example_zh_tw": "技術紀錄包含暫態干擾量測的客觀證據。"
+    },
+    {
+      "english": "degradation of performance measurement",
+      "zh_tw": "性能劣化量測",
+      "pronunciation": "en-US · degradation of performance measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The customer requested a clear explanation of degradation of performance measurement.",
+      "example_zh_tw": "客戶要求清楚說明性能劣化量測。"
+    },
+    {
+      "english": "functional recovery measurement",
+      "zh_tw": "功能恢復量測",
+      "pronunciation": "en-US · functional recovery measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for functional recovery measurement.",
+      "example_zh_tw": "程序定義了功能恢復量測的接受準則。"
+    },
+    {
+      "english": "test severity level measurement",
+      "zh_tw": "測試嚴酷度量測",
+      "pronunciation": "en-US · test severity level measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The test plan identifies how test severity level measurement will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄測試嚴酷度量測。"
+    },
+    {
+      "english": "dwell time measurement",
+      "zh_tw": "駐留時間量測",
+      "pronunciation": "en-US · dwell time measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The project team discussed dwell time measurement during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了駐留時間量測。"
+    },
+    {
+      "english": "frequency sweep measurement",
+      "zh_tw": "頻率掃描量測",
+      "pronunciation": "en-US · frequency sweep measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The assessor reviewed the traceable evidence supporting frequency sweep measurement.",
+      "example_zh_tw": "評鑑人員審查了支持頻率掃描量測的可追溯證據。"
+    },
+    {
+      "english": "modulation depth measurement",
+      "zh_tw": "調變深度量測",
+      "pronunciation": "en-US · modulation depth measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about modulation depth measurement from working hypotheses.",
+      "example_zh_tw": "調查將調變深度量測的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "field uniformity measurement",
+      "zh_tw": "場均勻性量測",
+      "pronunciation": "en-US · field uniformity measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The engineer explained why field uniformity measurement was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了場均勻性量測與符合性判定的關聯。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat modulation depth measurement under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行調變深度量測。"
+    },
+    {
+      "english": "The report clearly identifies the method used for field uniformity measurement.",
+      "zh_tw": "報告已清楚標示場均勻性量測所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to performance criterion measurement.",
+      "zh_tw": "請納入與性能判據量測相關的不確定度。"
+    },
+    {
+      "english": "Please verify continuous disturbance measurement before we start the test.",
+      "zh_tw": "開始測試前，請確認連續干擾量測。"
+    },
+    {
+      "english": "We need traceable evidence for transient disturbance measurement.",
+      "zh_tw": "我們需要可追溯的暫態干擾量測證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "Immunity pre-test review",
+    "context_zh_tw": "電磁耐受度測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified performance criterion measurement and recorded the setup.",
+        "zh_tw": "我已確認性能判據量測並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for continuous disturbance measurement?",
+        "zh_tw": "很好。有哪些證據支持對連續干擾量測的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Incorrect sample configuration — Immunity investigation",
+    "title_zh_tw": "樣品配置錯誤：電磁耐受度調查",
+    "problem": "A pre-compliance check on Day 048 shows a repeatable incorrect sample configuration condition.",
+    "background": "The Immunity configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The wrong firmware or regional mode is installed.",
+      "The sample is not transmitting at the required worst case."
+    ],
+    "check_steps": [
+      "Record hardware, firmware, and regulatory domain.",
+      "Verify mode, channel, bandwidth, and power setting."
+    ],
+    "corrective_actions": [
+      "Load the controlled configuration.",
+      "Add configuration evidence to the test record."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Immunity design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Why should we hire you?",
+    "question": "Why should we hire you for this engineering role? Connect your answer to Immunity.",
+    "hint_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「電磁耐受度」。",
+    "sample_answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In Immunity, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「performance criterion measurement」的正確繁體中文是什麼？",
+      "options": [
+        "性能判據量測",
+        "性能劣化量測",
+        "駐留時間量測",
+        "調變深度量測"
+      ],
+      "answer": "性能判據量測",
+      "explanation": "performance criterion measurement 指的是「性能判據量測」。",
+      "term": "performance criterion measurement"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「連續干擾量測」的正確工程英文是什麼？",
+      "options": [
+        "continuous disturbance measurement",
+        "functional recovery measurement",
+        "frequency sweep measurement",
+        "field uniformity measurement"
+      ],
+      "answer": "continuous disturbance measurement",
+      "explanation": "工程文件中可使用 continuous disturbance measurement。",
+      "term": "continuous disturbance measurement"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The technical record includes objective evidence for ________.",
+      "prompt_zh_tw": "技術紀錄包含暫態干擾量測的客觀證據。",
+      "answer": "transient disturbance measurement",
+      "accepted_answers": [
+        "transient disturbance measurement"
+      ],
+      "explanation": "完整句子的關鍵詞是 transient disturbance measurement。",
+      "term": "transient disturbance measurement"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "degradation of performance measurement",
+      "options": [
+        "degradation of performance measurement",
+        "dwell time measurement",
+        "field uniformity measurement",
+        "continuous disturbance measurement"
+      ],
+      "answer": "degradation of performance measurement",
+      "explanation": "播放內容是 degradation of performance measurement（性能劣化量測）。",
+      "term": "degradation of performance measurement"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Why should we hire you for this engineering role? Connect your answer to Immunity.",
+      "prompt_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「電磁耐受度」。",
+      "answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In Immunity, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "functional",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "functional recovery measurement"
+    }
+  ]
+}

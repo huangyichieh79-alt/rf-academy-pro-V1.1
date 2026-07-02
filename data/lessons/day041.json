@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 41,
+  "id": "day041",
+  "topic": "Wi-Fi",
+  "topic_zh_tw": "Wi-Fi 測試",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Wi-Fi terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "channel bandwidth measurement",
+      "zh_tw": "通道頻寬量測",
+      "pronunciation": "en-US · channel bandwidth measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The final review found that channel bandwidth measurement was consistently documented.",
+      "example_zh_tw": "最終審查確認通道頻寬量測已有一致的文件紀錄。"
+    },
+    {
+      "english": "modulation coding scheme measurement",
+      "zh_tw": "調變編碼方案量測",
+      "pronunciation": "en-US · modulation coding scheme measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for modulation coding scheme measurement.",
+      "example_zh_tw": "技術紀錄包含調變編碼方案量測的客觀證據。"
+    },
+    {
+      "english": "occupied bandwidth measurement",
+      "zh_tw": "佔用頻寬量測",
+      "pronunciation": "en-US · occupied bandwidth measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The customer requested a clear explanation of occupied bandwidth measurement.",
+      "example_zh_tw": "客戶要求清楚說明佔用頻寬量測。"
+    },
+    {
+      "english": "spectral mask measurement",
+      "zh_tw": "頻譜遮罩量測",
+      "pronunciation": "en-US · spectral mask measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for spectral mask measurement.",
+      "example_zh_tw": "程序定義了頻譜遮罩量測的接受準則。"
+    },
+    {
+      "english": "error vector magnitude measurement",
+      "zh_tw": "誤差向量幅度量測",
+      "pronunciation": "en-US · error vector magnitude measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The test plan identifies how error vector magnitude measurement will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄誤差向量幅度量測。"
+    },
+    {
+      "english": "carrier frequency offset measurement",
+      "zh_tw": "載波頻率偏移量測",
+      "pronunciation": "en-US · carrier frequency offset measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The project team discussed carrier frequency offset measurement during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了載波頻率偏移量測。"
+    },
+    {
+      "english": "dynamic frequency selection measurement",
+      "zh_tw": "動態頻率選擇量測",
+      "pronunciation": "en-US · dynamic frequency selection measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The assessor reviewed the traceable evidence supporting dynamic frequency selection measurement.",
+      "example_zh_tw": "評鑑人員審查了支持動態頻率選擇量測的可追溯證據。"
+    },
+    {
+      "english": "transmit power control measurement",
+      "zh_tw": "發射功率控制量測",
+      "pronunciation": "en-US · transmit power control measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about transmit power control measurement from working hypotheses.",
+      "example_zh_tw": "調查將發射功率控制量測的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "guard interval measurement",
+      "zh_tw": "保護間隔量測",
+      "pronunciation": "en-US · guard interval measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The engineer explained why guard interval measurement was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了保護間隔量測與符合性判定的關聯。"
+    },
+    {
+      "english": "aggregate frame measurement",
+      "zh_tw": "聚合訊框量測",
+      "pronunciation": "en-US · aggregate frame measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The technician verified aggregate frame measurement before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了聚合訊框量測。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Could you record modulation coding scheme measurement in the test log?",
+      "zh_tw": "可以請你把調變編碼方案量測記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in occupied bandwidth measurement.",
+      "zh_tw": "最新結果顯示佔用頻寬量測有所變化。"
+    },
+    {
+      "english": "Please keep spectral mask measurement unchanged during the comparison.",
+      "zh_tw": "進行比較時，請保持頻譜遮罩量測不變。"
+    },
+    {
+      "english": "The team will repeat error vector magnitude measurement under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行誤差向量幅度量測。"
+    },
+    {
+      "english": "The report clearly identifies the method used for carrier frequency offset measurement.",
+      "zh_tw": "報告已清楚標示載波頻率偏移量測所使用的方法。"
+    }
+  ],
+  "dialogue": {
+    "context": "Wi-Fi pre-test review",
+    "context_zh_tw": "Wi-Fi 測試測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified channel bandwidth measurement and recorded the setup.",
+        "zh_tw": "我已確認通道頻寬量測並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for modulation coding scheme measurement?",
+        "zh_tw": "很好。有哪些證據支持對調變編碼方案量測的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Surge fail — Wi-Fi investigation",
+    "title_zh_tw": "雷擊突波測試失敗：Wi-Fi 測試調查",
+    "problem": "A pre-compliance check on Day 041 shows a repeatable surge fail condition.",
+    "background": "The Wi-Fi configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The protection device clamping voltage is too high.",
+      "The surge return path has excessive inductance."
+    ],
+    "check_steps": [
+      "Verify coupling mode, polarity, and phase angle.",
+      "Measure residual voltage at the protected circuit."
+    ],
+    "corrective_actions": [
+      "Select a coordinated surge protection network.",
+      "Reduce loop area in the surge current path."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Wi-Fi design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Self Introduction",
+    "question": "Please introduce yourself as an RF compliance engineer. Connect your answer to Wi-Fi.",
+    "hint_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。 並連結到「Wi-Fi 測試」。",
+    "sample_answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams. In Wi-Fi, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「channel bandwidth measurement」的正確繁體中文是什麼？",
+      "options": [
+        "通道頻寬量測",
+        "頻譜遮罩量測",
+        "動態頻率選擇量測",
+        "保護間隔量測"
+      ],
+      "answer": "通道頻寬量測",
+      "explanation": "channel bandwidth measurement 指的是「通道頻寬量測」。",
+      "term": "channel bandwidth measurement"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「調變編碼方案量測」的正確工程英文是什麼？",
+      "options": [
+        "modulation coding scheme measurement",
+        "error vector magnitude measurement",
+        "transmit power control measurement",
+        "aggregate frame measurement"
+      ],
+      "answer": "modulation coding scheme measurement",
+      "explanation": "工程文件中可使用 modulation coding scheme measurement。",
+      "term": "modulation coding scheme measurement"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The customer requested a clear explanation of ________.",
+      "prompt_zh_tw": "客戶要求清楚說明佔用頻寬量測。",
+      "answer": "occupied bandwidth measurement",
+      "accepted_answers": [
+        "occupied bandwidth measurement"
+      ],
+      "explanation": "完整句子的關鍵詞是 occupied bandwidth measurement。",
+      "term": "occupied bandwidth measurement"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "spectral mask measurement",
+      "options": [
+        "spectral mask measurement",
+        "dynamic frequency selection measurement",
+        "aggregate frame measurement",
+        "modulation coding scheme measurement"
+      ],
+      "answer": "spectral mask measurement",
+      "explanation": "播放內容是 spectral mask measurement（頻譜遮罩量測）。",
+      "term": "spectral mask measurement"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Please introduce yourself as an RF compliance engineer. Connect your answer to Wi-Fi.",
+      "prompt_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。 並連結到「Wi-Fi 測試」。",
+      "answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams. In Wi-Fi, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "error",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "error vector magnitude measurement"
+    }
+  ]
+}

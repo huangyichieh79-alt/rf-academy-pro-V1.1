@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 17,
+  "id": "day017",
+  "topic": "Safety Basic",
+  "topic_zh_tw": "產品安全基礎",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Safety Basic terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "electric shock hazard",
+      "zh_tw": "觸電危害",
+      "pronunciation": "en-US · electric shock hazard",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting electric shock hazard.",
+      "example_zh_tw": "評鑑人員審查了支持觸電危害的可追溯證據。"
+    },
+    {
+      "english": "energy hazard",
+      "zh_tw": "能量危害",
+      "pronunciation": "en-US · energy hazard",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about energy hazard from working hypotheses.",
+      "example_zh_tw": "調查將能量危害的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "fire enclosure",
+      "zh_tw": "防火外殼",
+      "pronunciation": "en-US · fire enclosure",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The engineer explained why fire enclosure was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了防火外殼與符合性判定的關聯。"
+    },
+    {
+      "english": "mechanical hazard",
+      "zh_tw": "機械危害",
+      "pronunciation": "en-US · mechanical hazard",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The technician verified mechanical hazard before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了機械危害。"
+    },
+    {
+      "english": "normal condition",
+      "zh_tw": "正常狀態",
+      "pronunciation": "en-US · normal condition",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to normal condition.",
+      "example_zh_tw": "團隊評估了與正常狀態相關的技術風險。"
+    },
+    {
+      "english": "single fault condition",
+      "zh_tw": "單一故障狀態",
+      "pronunciation": "en-US · single fault condition",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The team reviewed single fault condition before approving the Day 017 test configuration.",
+      "example_zh_tw": "團隊在核准第 017 天的測試配置前審查了單一故障狀態。"
+    },
+    {
+      "english": "safeguard",
+      "zh_tw": "防護措施",
+      "pronunciation": "en-US · safeguard",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The reviewer checked safeguard against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認防護措施。"
+    },
+    {
+      "english": "accessible part",
+      "zh_tw": "可觸及部件",
+      "pronunciation": "en-US · accessible part",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with accessible part.",
+      "example_zh_tw": "測試日誌記錄了與可觸及部件相關的條件。"
+    },
+    {
+      "english": "hazard-based safety engineering",
+      "zh_tw": "危害導向安全工程",
+      "pronunciation": "en-US · hazard-based safety engineering",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "We confirmed hazard-based safety engineering before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了危害導向安全工程。"
+    },
+    {
+      "english": "risk assessment",
+      "zh_tw": "風險評估",
+      "pronunciation": "en-US · risk assessment",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates risk assessment under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估風險評估。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how accessible part affects compliance.",
+      "zh_tw": "我會說明可觸及部件如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in hazard-based safety engineering.",
+      "zh_tw": "我們的審查未發現危害導向安全工程有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for risk assessment?",
+      "zh_tw": "你可以確認風險評估的接受準則嗎？"
+    },
+    {
+      "english": "We isolated electric shock hazard as the dominant factor.",
+      "zh_tw": "我們已確認觸電危害是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on energy hazard.",
+      "zh_tw": "客戶要求提供能量危害的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "Safety Basic pre-test review",
+    "context_zh_tw": "產品安全基礎測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified electric shock hazard and recorded the setup.",
+        "zh_tw": "我已確認觸電危害並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for energy hazard?",
+        "zh_tw": "很好。有哪些證據支持對能量危害的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Surge fail — Safety Basic investigation",
+    "title_zh_tw": "雷擊突波測試失敗：產品安全基礎調查",
+    "problem": "A pre-compliance check on Day 017 shows a repeatable surge fail condition.",
+    "background": "The Safety Basic configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The protection device clamping voltage is too high.",
+      "The surge return path has excessive inductance."
+    ],
+    "check_steps": [
+      "Verify coupling mode, polarity, and phase angle.",
+      "Measure residual voltage at the protected circuit."
+    ],
+    "corrective_actions": [
+      "Select a coordinated surge protection network.",
+      "Reduce loop area in the surge current path."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Safety Basic design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Weakness and Strength",
+    "question": "What are your professional strength and weakness? Connect your answer to Safety Basic.",
+    "hint_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「產品安全基礎」。",
+    "sample_answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Safety Basic, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「electric shock hazard」的正確繁體中文是什麼？",
+      "options": [
+        "觸電危害",
+        "機械危害",
+        "防護措施",
+        "危害導向安全工程"
+      ],
+      "answer": "觸電危害",
+      "explanation": "electric shock hazard 指的是「觸電危害」。",
+      "term": "electric shock hazard"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「能量危害」的正確工程英文是什麼？",
+      "options": [
+        "energy hazard",
+        "normal condition",
+        "accessible part",
+        "risk assessment"
+      ],
+      "answer": "energy hazard",
+      "explanation": "工程文件中可使用 energy hazard。",
+      "term": "energy hazard"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The engineer explained why ________ was relevant to the compliance decision.",
+      "prompt_zh_tw": "工程師說明了防火外殼與符合性判定的關聯。",
+      "answer": "fire enclosure",
+      "accepted_answers": [
+        "fire enclosure"
+      ],
+      "explanation": "完整句子的關鍵詞是 fire enclosure。",
+      "term": "fire enclosure"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "mechanical hazard",
+      "options": [
+        "mechanical hazard",
+        "safeguard",
+        "risk assessment",
+        "energy hazard"
+      ],
+      "answer": "mechanical hazard",
+      "explanation": "播放內容是 mechanical hazard（機械危害）。",
+      "term": "mechanical hazard"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "What are your professional strength and weakness? Connect your answer to Safety Basic.",
+      "prompt_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「產品安全基礎」。",
+      "answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Safety Basic, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "normal",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "normal condition"
+    }
+  ]
+}

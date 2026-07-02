@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 47,
+  "id": "day047",
+  "topic": "Conducted Emission",
+  "topic_zh_tw": "傳導發射",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Conducted Emission terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "line impedance stabilization network measurement",
+      "zh_tw": "線路阻抗穩定網路量測",
+      "pronunciation": "en-US · line impedance stabilization network measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The reviewer checked line impedance stabilization network measurement against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認線路阻抗穩定網路量測。"
+    },
+    {
+      "english": "artificial mains network measurement",
+      "zh_tw": "人工電源網路量測",
+      "pronunciation": "en-US · artificial mains network measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The test log records the condition associated with artificial mains network measurement.",
+      "example_zh_tw": "測試日誌記錄了與人工電源網路量測相關的條件。"
+    },
+    {
+      "english": "mains terminal disturbance measurement",
+      "zh_tw": "電源端干擾量測",
+      "pronunciation": "en-US · mains terminal disturbance measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "We confirmed mains terminal disturbance measurement before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了電源端干擾量測。"
+    },
+    {
+      "english": "average detector measurement",
+      "zh_tw": "平均值偵測器量測",
+      "pronunciation": "en-US · average detector measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The laboratory evaluates average detector measurement under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估平均值偵測器量測。"
+    },
+    {
+      "english": "measurement receiver measurement",
+      "zh_tw": "量測接收機量測",
+      "pronunciation": "en-US · measurement receiver measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The report links measurement receiver measurement to the applicable requirement and result.",
+      "example_zh_tw": "報告將量測接收機量測連結到適用要求與結果。"
+    },
+    {
+      "english": "transient limiter measurement",
+      "zh_tw": "暫態限制器量測",
+      "pronunciation": "en-US · transient limiter measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The engineer compared transient limiter measurement with the approved baseline.",
+      "example_zh_tw": "工程師將暫態限制器量測與核准基準進行比較。"
+    },
+    {
+      "english": "protective earth conductor measurement",
+      "zh_tw": "保護接地導體量測",
+      "pronunciation": "en-US · protective earth conductor measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The final review found that protective earth conductor measurement was consistently documented.",
+      "example_zh_tw": "最終審查確認保護接地導體量測已有一致的文件紀錄。"
+    },
+    {
+      "english": "power lead arrangement measurement",
+      "zh_tw": "電源線配置量測",
+      "pronunciation": "en-US · power lead arrangement measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for power lead arrangement measurement.",
+      "example_zh_tw": "技術紀錄包含電源線配置量測的客觀證據。"
+    },
+    {
+      "english": "common-mode choke measurement",
+      "zh_tw": "共模扼流圈量測",
+      "pronunciation": "en-US · common-mode choke measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The customer requested a clear explanation of common-mode choke measurement.",
+      "example_zh_tw": "客戶要求清楚說明共模扼流圈量測。"
+    },
+    {
+      "english": "conducted noise voltage measurement",
+      "zh_tw": "傳導雜訊電壓量測",
+      "pronunciation": "en-US · conducted noise voltage measurement",
+      "category": "emc",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for conducted noise voltage measurement.",
+      "example_zh_tw": "程序定義了傳導雜訊電壓量測的接受準則。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how power lead arrangement measurement affects compliance.",
+      "zh_tw": "我會說明電源線配置量測如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in common-mode choke measurement.",
+      "zh_tw": "我們的審查未發現共模扼流圈量測有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for conducted noise voltage measurement?",
+      "zh_tw": "你可以確認傳導雜訊電壓量測的接受準則嗎？"
+    },
+    {
+      "english": "We isolated line impedance stabilization network measurement as the dominant factor.",
+      "zh_tw": "我們已確認線路阻抗穩定網路量測是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on artificial mains network measurement.",
+      "zh_tw": "客戶要求提供人工電源網路量測的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "Conducted Emission pre-test review",
+    "context_zh_tw": "傳導發射測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified line impedance stabilization network measurement and recorded the setup.",
+        "zh_tw": "我已確認線路阻抗穩定網路量測並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for artificial mains network measurement?",
+        "zh_tw": "很好。有哪些證據支持對人工電源網路量測的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Wrong test setup — Conducted Emission investigation",
+    "title_zh_tw": "測試設定錯誤：傳導發射調查",
+    "problem": "A pre-compliance check on Day 047 shows a repeatable wrong test setup condition.",
+    "background": "The Conducted Emission configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The measurement distance is incorrect.",
+      "The required auxiliary mode was not activated."
+    ],
+    "check_steps": [
+      "Pause the test and compare setup against the method.",
+      "Photograph connections and verify instrument settings."
+    ],
+    "corrective_actions": [
+      "Rebuild the setup from the approved checklist.",
+      "Invalidate affected results and repeat the sequence."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Conducted Emission design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Weakness and Strength",
+    "question": "What are your professional strength and weakness? Connect your answer to Conducted Emission.",
+    "hint_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「傳導發射」。",
+    "sample_answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Conducted Emission, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「line impedance stabilization network measurement」的正確繁體中文是什麼？",
+      "options": [
+        "線路阻抗穩定網路量測",
+        "平均值偵測器量測",
+        "保護接地導體量測",
+        "共模扼流圈量測"
+      ],
+      "answer": "線路阻抗穩定網路量測",
+      "explanation": "line impedance stabilization network measurement 指的是「線路阻抗穩定網路量測」。",
+      "term": "line impedance stabilization network measurement"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「人工電源網路量測」的正確工程英文是什麼？",
+      "options": [
+        "artificial mains network measurement",
+        "measurement receiver measurement",
+        "power lead arrangement measurement",
+        "conducted noise voltage measurement"
+      ],
+      "answer": "artificial mains network measurement",
+      "explanation": "工程文件中可使用 artificial mains network measurement。",
+      "term": "artificial mains network measurement"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "We confirmed ________ before releasing the measurement result.",
+      "prompt_zh_tw": "我們在發布量測結果前確認了電源端干擾量測。",
+      "answer": "mains terminal disturbance measurement",
+      "accepted_answers": [
+        "mains terminal disturbance measurement"
+      ],
+      "explanation": "完整句子的關鍵詞是 mains terminal disturbance measurement。",
+      "term": "mains terminal disturbance measurement"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "average detector measurement",
+      "options": [
+        "average detector measurement",
+        "protective earth conductor measurement",
+        "conducted noise voltage measurement",
+        "artificial mains network measurement"
+      ],
+      "answer": "average detector measurement",
+      "explanation": "播放內容是 average detector measurement（平均值偵測器量測）。",
+      "term": "average detector measurement"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "What are your professional strength and weakness? Connect your answer to Conducted Emission.",
+      "prompt_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「傳導發射」。",
+      "answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Conducted Emission, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "measurement",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "measurement receiver measurement"
+    }
+  ]
+}

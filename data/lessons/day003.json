@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 3,
+  "id": "day003",
+  "topic": "Antenna",
+  "topic_zh_tw": "天線工程",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Antenna terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "antenna gain",
+      "zh_tw": "天線增益",
+      "pronunciation": "en-US · antenna gain",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The engineer explained why antenna gain was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了天線增益與符合性判定的關聯。"
+    },
+    {
+      "english": "radiation pattern",
+      "zh_tw": "輻射場型",
+      "pronunciation": "en-US · radiation pattern",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The technician verified radiation pattern before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了輻射場型。"
+    },
+    {
+      "english": "polarization mismatch",
+      "zh_tw": "極化失配",
+      "pronunciation": "en-US · polarization mismatch",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to polarization mismatch.",
+      "example_zh_tw": "團隊評估了與極化失配相關的技術風險。"
+    },
+    {
+      "english": "return loss",
+      "zh_tw": "回波損耗",
+      "pronunciation": "en-US · return loss",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team reviewed return loss before approving the Day 003 test configuration.",
+      "example_zh_tw": "團隊在核准第 003 天的測試配置前審查了回波損耗。"
+    },
+    {
+      "english": "voltage standing wave ratio",
+      "zh_tw": "電壓駐波比",
+      "pronunciation": "en-US · voltage standing wave ratio",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The reviewer checked voltage standing wave ratio against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認電壓駐波比。"
+    },
+    {
+      "english": "antenna efficiency",
+      "zh_tw": "天線效率",
+      "pronunciation": "en-US · antenna efficiency",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with antenna efficiency.",
+      "example_zh_tw": "測試日誌記錄了與天線效率相關的條件。"
+    },
+    {
+      "english": "beamwidth",
+      "zh_tw": "波束寬度",
+      "pronunciation": "en-US · beamwidth",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "We confirmed beamwidth before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了波束寬度。"
+    },
+    {
+      "english": "front-to-back ratio",
+      "zh_tw": "前後比",
+      "pronunciation": "en-US · front-to-back ratio",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates front-to-back ratio under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估前後比。"
+    },
+    {
+      "english": "isotropic radiator",
+      "zh_tw": "等向性輻射體",
+      "pronunciation": "en-US · isotropic radiator",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The report links isotropic radiator to the applicable requirement and result.",
+      "example_zh_tw": "報告將等向性輻射體連結到適用要求與結果。"
+    },
+    {
+      "english": "antenna connector",
+      "zh_tw": "天線連接器",
+      "pronunciation": "en-US · antenna connector",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The engineer compared antenna connector with the approved baseline.",
+      "example_zh_tw": "工程師將天線連接器與核准基準進行比較。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat return loss under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行回波損耗。"
+    },
+    {
+      "english": "The report clearly identifies the method used for voltage standing wave ratio.",
+      "zh_tw": "報告已清楚標示電壓駐波比所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to antenna efficiency.",
+      "zh_tw": "請納入與天線效率相關的不確定度。"
+    },
+    {
+      "english": "Please verify beamwidth before we start the test.",
+      "zh_tw": "開始測試前，請確認波束寬度。"
+    },
+    {
+      "english": "We need traceable evidence for front-to-back ratio.",
+      "zh_tw": "我們需要可追溯的前後比證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "Antenna pre-test review",
+    "context_zh_tw": "天線工程測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified antenna gain and recorded the setup.",
+        "zh_tw": "我已確認天線增益並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for radiation pattern?",
+        "zh_tw": "很好。有哪些證據支持對輻射場型的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "ESD fail — Antenna investigation",
+    "title_zh_tw": "靜電放電測試失敗：天線工程調查",
+    "problem": "A pre-compliance check on Day 003 shows a repeatable esd fail condition.",
+    "background": "The Antenna configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The discharge current reaches a sensitive reset line.",
+      "Chassis bonding impedance is too high."
+    ],
+    "check_steps": [
+      "Reproduce the failing point and polarity.",
+      "Monitor reset, power, and clock lines during discharge."
+    ],
+    "corrective_actions": [
+      "Add a low-inductance chassis path.",
+      "Improve transient protection and firmware recovery."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Antenna design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "EMC Debug Experience",
+    "question": "Tell me about an EMC issue you debugged. Connect your answer to Antenna.",
+    "hint_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。 並連結到「天線工程」。",
+    "sample_answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance. In Antenna, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「antenna gain」的正確繁體中文是什麼？",
+      "options": [
+        "天線增益",
+        "回波損耗",
+        "波束寬度",
+        "等向性輻射體"
+      ],
+      "answer": "天線增益",
+      "explanation": "antenna gain 指的是「天線增益」。",
+      "term": "antenna gain"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「輻射場型」的正確工程英文是什麼？",
+      "options": [
+        "radiation pattern",
+        "voltage standing wave ratio",
+        "front-to-back ratio",
+        "antenna connector"
+      ],
+      "answer": "radiation pattern",
+      "explanation": "工程文件中可使用 radiation pattern。",
+      "term": "radiation pattern"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The team evaluated the technical risk related to ________.",
+      "prompt_zh_tw": "團隊評估了與極化失配相關的技術風險。",
+      "answer": "polarization mismatch",
+      "accepted_answers": [
+        "polarization mismatch"
+      ],
+      "explanation": "完整句子的關鍵詞是 polarization mismatch。",
+      "term": "polarization mismatch"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "return loss",
+      "options": [
+        "return loss",
+        "beamwidth",
+        "antenna connector",
+        "radiation pattern"
+      ],
+      "answer": "return loss",
+      "explanation": "播放內容是 return loss（回波損耗）。",
+      "term": "return loss"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Tell me about an EMC issue you debugged. Connect your answer to Antenna.",
+      "prompt_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。 並連結到「天線工程」。",
+      "answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance. In Antenna, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "voltage",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "voltage standing wave ratio"
+    }
+  ]
+}

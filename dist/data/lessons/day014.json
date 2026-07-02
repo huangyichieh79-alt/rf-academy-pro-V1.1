@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 14,
+  "id": "day014",
+  "topic": "ESD",
+  "topic_zh_tw": "靜電放電",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten ESD terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "electrostatic discharge",
+      "zh_tw": "靜電放電",
+      "pronunciation": "en-US · electrostatic discharge",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The technician verified electrostatic discharge before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了靜電放電。"
+    },
+    {
+      "english": "contact discharge",
+      "zh_tw": "接觸放電",
+      "pronunciation": "en-US · contact discharge",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to contact discharge.",
+      "example_zh_tw": "團隊評估了與接觸放電相關的技術風險。"
+    },
+    {
+      "english": "air discharge",
+      "zh_tw": "空氣放電",
+      "pronunciation": "en-US · air discharge",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team reviewed air discharge before approving the Day 014 test configuration.",
+      "example_zh_tw": "團隊在核准第 014 天的測試配置前審查了空氣放電。"
+    },
+    {
+      "english": "indirect discharge",
+      "zh_tw": "間接放電",
+      "pronunciation": "en-US · indirect discharge",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The reviewer checked indirect discharge against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認間接放電。"
+    },
+    {
+      "english": "horizontal coupling plane",
+      "zh_tw": "水平耦合板",
+      "pronunciation": "en-US · horizontal coupling plane",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with horizontal coupling plane.",
+      "example_zh_tw": "測試日誌記錄了與水平耦合板相關的條件。"
+    },
+    {
+      "english": "vertical coupling plane",
+      "zh_tw": "垂直耦合板",
+      "pronunciation": "en-US · vertical coupling plane",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "We confirmed vertical coupling plane before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了垂直耦合板。"
+    },
+    {
+      "english": "discharge tip",
+      "zh_tw": "放電尖端",
+      "pronunciation": "en-US · discharge tip",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates discharge tip under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估放電尖端。"
+    },
+    {
+      "english": "discharge return cable",
+      "zh_tw": "放電回流線",
+      "pronunciation": "en-US · discharge return cable",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The report links discharge return cable to the applicable requirement and result.",
+      "example_zh_tw": "報告將放電回流線連結到適用要求與結果。"
+    },
+    {
+      "english": "polarity sequence",
+      "zh_tw": "極性順序",
+      "pronunciation": "en-US · polarity sequence",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The engineer compared polarity sequence with the approved baseline.",
+      "example_zh_tw": "工程師將極性順序與核准基準進行比較。"
+    },
+    {
+      "english": "repetition interval",
+      "zh_tw": "重複間隔",
+      "pronunciation": "en-US · repetition interval",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The final review found that repetition interval was consistently documented.",
+      "example_zh_tw": "最終審查確認重複間隔已有一致的文件紀錄。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "We isolated horizontal coupling plane as the dominant factor.",
+      "zh_tw": "我們已確認水平耦合板是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on vertical coupling plane.",
+      "zh_tw": "客戶要求提供垂直耦合板的精簡進度說明。"
+    },
+    {
+      "english": "The measured discharge tip remains within the specified limit.",
+      "zh_tw": "量測到的放電尖端仍在規定限值內。"
+    },
+    {
+      "english": "Could you record discharge return cable in the test log?",
+      "zh_tw": "可以請你把放電回流線記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in polarity sequence.",
+      "zh_tw": "最新結果顯示極性順序有所變化。"
+    }
+  ],
+  "dialogue": {
+    "context": "ESD pre-test review",
+    "context_zh_tw": "靜電放電測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified electrostatic discharge and recorded the setup.",
+        "zh_tw": "我已確認靜電放電並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for contact discharge?",
+        "zh_tw": "很好。有哪些證據支持對接觸放電的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Conducted emission fail — ESD investigation",
+    "title_zh_tw": "傳導發射超標：靜電放電調查",
+    "problem": "A pre-compliance check on Day 014 shows a repeatable conducted emission fail condition.",
+    "background": "The ESD configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The switching supply has inadequate input filtering.",
+      "A common-mode return path couples noise to the mains."
+    ],
+    "check_steps": [
+      "Compare line and neutral spectra with both detector modes.",
+      "Probe the input filter and switching node."
+    ],
+    "corrective_actions": [
+      "Optimize the common-mode choke and X/Y capacitors.",
+      "Shorten the high-current switching loop."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the ESD design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Safety Test Experience",
+    "question": "How do you prepare for a product safety test? Connect your answer to ESD.",
+    "hint_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「靜電放電」。",
+    "sample_answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In ESD, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「electrostatic discharge」的正確繁體中文是什麼？",
+      "options": [
+        "靜電放電",
+        "間接放電",
+        "放電尖端",
+        "極性順序"
+      ],
+      "answer": "靜電放電",
+      "explanation": "electrostatic discharge 指的是「靜電放電」。",
+      "term": "electrostatic discharge"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「接觸放電」的正確工程英文是什麼？",
+      "options": [
+        "contact discharge",
+        "horizontal coupling plane",
+        "discharge return cable",
+        "repetition interval"
+      ],
+      "answer": "contact discharge",
+      "explanation": "工程文件中可使用 contact discharge。",
+      "term": "contact discharge"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The team reviewed ________ before approving the Day 014 test configuration.",
+      "prompt_zh_tw": "團隊在核准第 014 天的測試配置前審查了空氣放電。",
+      "answer": "air discharge",
+      "accepted_answers": [
+        "air discharge"
+      ],
+      "explanation": "完整句子的關鍵詞是 air discharge。",
+      "term": "air discharge"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "indirect discharge",
+      "options": [
+        "indirect discharge",
+        "discharge tip",
+        "repetition interval",
+        "contact discharge"
+      ],
+      "answer": "indirect discharge",
+      "explanation": "播放內容是 indirect discharge（間接放電）。",
+      "term": "indirect discharge"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you prepare for a product safety test? Connect your answer to ESD.",
+      "prompt_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「靜電放電」。",
+      "answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In ESD, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "horizontal",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "horizontal coupling plane"
+    }
+  ]
+}

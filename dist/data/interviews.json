@@ -1,0 +1,82 @@
+[
+  {
+    "id": "interview-01",
+    "category": "Self Introduction",
+    "question": "Please introduce yourself as an RF compliance engineer.",
+    "hint_zh_tw": "請用專業經歷、核心能力與成果組成 60 秒自我介紹。",
+    "sample_answer": "I am an RF compliance engineer with hands-on experience in measurement, debugging, and certification. I communicate test evidence clearly and work across design, laboratory, and customer teams.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-02",
+    "category": "RF Test Experience",
+    "question": "Describe your RF test experience.",
+    "hint_zh_tw": "請說明儀器、標準、測試流程與一項可量化成果。",
+    "sample_answer": "I plan test configurations, verify instruments, capture traceable results, and investigate abnormal RF behavior. I also explain the technical impact to project teams.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-03",
+    "category": "EMC Debug Experience",
+    "question": "Tell me about an EMC issue you debugged.",
+    "hint_zh_tw": "使用情境、行動、結果架構，說明如何找到耦合路徑。",
+    "sample_answer": "I reproduced the failure, isolated the dominant coupling path, and compared controlled design changes. The final fix improved margin without affecting product performance.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-04",
+    "category": "Safety Test Experience",
+    "question": "How do you prepare for a product safety test?",
+    "hint_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。",
+    "sample_answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-05",
+    "category": "Certification Process",
+    "question": "Explain a certification process you managed.",
+    "hint_zh_tw": "涵蓋適用法規、送樣、報告、文件與證書追蹤。",
+    "sample_answer": "I confirm market requirements, coordinate testing, review the technical file, and track findings through closure. I keep model and document revisions aligned throughout submission.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-06",
+    "category": "Customer Communication",
+    "question": "How do you explain a failed test to a customer?",
+    "hint_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。",
+    "sample_answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-07",
+    "category": "Weakness and Strength",
+    "question": "What are your professional strength and weakness?",
+    "hint_zh_tw": "優點要有證據；弱點要說明改善方法與進展。",
+    "sample_answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-08",
+    "category": "Why should we hire you?",
+    "question": "Why should we hire you for this engineering role?",
+    "hint_zh_tw": "連結職務需求、你的證據與能創造的價值。",
+    "sample_answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-09",
+    "category": "Explain a failed test case",
+    "question": "Explain a failed test case and its outcome.",
+    "hint_zh_tw": "清楚交代標準、失敗數據、根因、修正及複測結果。",
+    "sample_answer": "The initial result exceeded the limit. I verified the setup, isolated the path, and tested one change at a time. The confirmed correction passed the repeated measurement with stable margin.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  },
+  {
+    "id": "interview-10",
+    "category": "Explain how you solved a problem",
+    "question": "How did you solve a difficult engineering problem?",
+    "hint_zh_tw": "以可重現問題、假設、實驗、證據與決策回答。",
+    "sample_answer": "I converted the issue into testable hypotheses, controlled the variables, and recorded each result. The evidence identified the root cause and supported a low-risk corrective action.",
+    "natural_rewrite": "Use a concise context, a specific action, objective evidence, and the resulting technical or business impact."
+  }
+]

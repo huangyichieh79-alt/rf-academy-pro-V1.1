@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 2,
+  "id": "day002",
+  "topic": "RF Measurement",
+  "topic_zh_tw": "射頻量測",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten RF Measurement terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "vector network analyzer",
+      "zh_tw": "向量網路分析儀",
+      "pronunciation": "en-US · vector network analyzer",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for vector network analyzer.",
+      "example_zh_tw": "程序定義了向量網路分析儀的接受準則。"
+    },
+    {
+      "english": "spectrum analyzer",
+      "zh_tw": "頻譜分析儀",
+      "pronunciation": "en-US · spectrum analyzer",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The test plan identifies how spectrum analyzer will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄頻譜分析儀。"
+    },
+    {
+      "english": "signal generator",
+      "zh_tw": "訊號產生器",
+      "pronunciation": "en-US · signal generator",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The project team discussed signal generator during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了訊號產生器。"
+    },
+    {
+      "english": "power meter",
+      "zh_tw": "功率計",
+      "pronunciation": "en-US · power meter",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting power meter.",
+      "example_zh_tw": "評鑑人員審查了支持功率計的可追溯證據。"
+    },
+    {
+      "english": "directional coupler",
+      "zh_tw": "方向耦合器",
+      "pronunciation": "en-US · directional coupler",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about directional coupler from working hypotheses.",
+      "example_zh_tw": "調查將方向耦合器的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "calibration plane",
+      "zh_tw": "校正平面",
+      "pronunciation": "en-US · calibration plane",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The engineer explained why calibration plane was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了校正平面與符合性判定的關聯。"
+    },
+    {
+      "english": "reference level",
+      "zh_tw": "參考位準",
+      "pronunciation": "en-US · reference level",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The technician verified reference level before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了參考位準。"
+    },
+    {
+      "english": "resolution bandwidth",
+      "zh_tw": "解析頻寬",
+      "pronunciation": "en-US · resolution bandwidth",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to resolution bandwidth.",
+      "example_zh_tw": "團隊評估了與解析頻寬相關的技術風險。"
+    },
+    {
+      "english": "video bandwidth",
+      "zh_tw": "視訊頻寬",
+      "pronunciation": "en-US · video bandwidth",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team reviewed video bandwidth before approving the Day 002 test configuration.",
+      "example_zh_tw": "團隊在核准第 002 天的測試配置前審查了視訊頻寬。"
+    },
+    {
+      "english": "measurement uncertainty",
+      "zh_tw": "量測不確定度",
+      "pronunciation": "en-US · measurement uncertainty",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The reviewer checked measurement uncertainty against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認量測不確定度。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how signal generator affects compliance.",
+      "zh_tw": "我會說明訊號產生器如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in power meter.",
+      "zh_tw": "我們的審查未發現功率計有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for directional coupler?",
+      "zh_tw": "你可以確認方向耦合器的接受準則嗎？"
+    },
+    {
+      "english": "We isolated calibration plane as the dominant factor.",
+      "zh_tw": "我們已確認校正平面是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on reference level.",
+      "zh_tw": "客戶要求提供參考位準的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "RF Measurement pre-test review",
+    "context_zh_tw": "射頻量測測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified vector network analyzer and recorded the setup.",
+        "zh_tw": "我已確認向量網路分析儀並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for spectrum analyzer?",
+        "zh_tw": "很好。有哪些證據支持對頻譜分析儀的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Conducted emission fail — RF Measurement investigation",
+    "title_zh_tw": "傳導發射超標：射頻量測調查",
+    "problem": "A pre-compliance check on Day 002 shows a repeatable conducted emission fail condition.",
+    "background": "The RF Measurement configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The switching supply has inadequate input filtering.",
+      "A common-mode return path couples noise to the mains."
+    ],
+    "check_steps": [
+      "Compare line and neutral spectra with both detector modes.",
+      "Probe the input filter and switching node."
+    ],
+    "corrective_actions": [
+      "Optimize the common-mode choke and X/Y capacitors.",
+      "Shorten the high-current switching loop."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the RF Measurement design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "RF Test Experience",
+    "question": "Describe your RF test experience. Connect your answer to RF Measurement.",
+    "hint_zh_tw": "請說明儀器、標準、測試流程與一項可量化成果。 並連結到「射頻量測」。",
+    "sample_answer": "I plan test configurations, verify instruments, capture traceable results, and investigate abnormal RF behavior. I also explain the technical impact to project teams. In RF Measurement, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「vector network analyzer」的正確繁體中文是什麼？",
+      "options": [
+        "向量網路分析儀",
+        "功率計",
+        "參考位準",
+        "視訊頻寬"
+      ],
+      "answer": "向量網路分析儀",
+      "explanation": "vector network analyzer 指的是「向量網路分析儀」。",
+      "term": "vector network analyzer"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「頻譜分析儀」的正確工程英文是什麼？",
+      "options": [
+        "spectrum analyzer",
+        "directional coupler",
+        "resolution bandwidth",
+        "measurement uncertainty"
+      ],
+      "answer": "spectrum analyzer",
+      "explanation": "工程文件中可使用 spectrum analyzer。",
+      "term": "spectrum analyzer"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The project team discussed ________ during the pre-test meeting.",
+      "prompt_zh_tw": "專案團隊在測試前會議中討論了訊號產生器。",
+      "answer": "signal generator",
+      "accepted_answers": [
+        "signal generator"
+      ],
+      "explanation": "完整句子的關鍵詞是 signal generator。",
+      "term": "signal generator"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "power meter",
+      "options": [
+        "power meter",
+        "reference level",
+        "measurement uncertainty",
+        "spectrum analyzer"
+      ],
+      "answer": "power meter",
+      "explanation": "播放內容是 power meter（功率計）。",
+      "term": "power meter"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Describe your RF test experience. Connect your answer to RF Measurement.",
+      "prompt_zh_tw": "請說明儀器、標準、測試流程與一項可量化成果。 並連結到「射頻量測」。",
+      "answer": "I plan test configurations, verify instruments, capture traceable results, and investigate abnormal RF behavior. I also explain the technical impact to project teams. In RF Measurement, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "directional",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "directional coupler"
+    }
+  ]
+}
