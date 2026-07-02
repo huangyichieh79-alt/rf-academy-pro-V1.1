@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 6,
+  "id": "day006",
+  "topic": "Wi-Fi",
+  "topic_zh_tw": "Wi-Fi 測試",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Wi-Fi terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "channel bandwidth",
+      "zh_tw": "通道頻寬",
+      "pronunciation": "en-US · channel bandwidth",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The project team discussed channel bandwidth during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了通道頻寬。"
+    },
+    {
+      "english": "modulation coding scheme",
+      "zh_tw": "調變編碼方案",
+      "pronunciation": "en-US · modulation coding scheme",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting modulation coding scheme.",
+      "example_zh_tw": "評鑑人員審查了支持調變編碼方案的可追溯證據。"
+    },
+    {
+      "english": "occupied bandwidth",
+      "zh_tw": "佔用頻寬",
+      "pronunciation": "en-US · occupied bandwidth",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about occupied bandwidth from working hypotheses.",
+      "example_zh_tw": "調查將佔用頻寬的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "spectral mask",
+      "zh_tw": "頻譜遮罩",
+      "pronunciation": "en-US · spectral mask",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The engineer explained why spectral mask was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了頻譜遮罩與符合性判定的關聯。"
+    },
+    {
+      "english": "error vector magnitude",
+      "zh_tw": "誤差向量幅度",
+      "pronunciation": "en-US · error vector magnitude",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The technician verified error vector magnitude before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了誤差向量幅度。"
+    },
+    {
+      "english": "carrier frequency offset",
+      "zh_tw": "載波頻率偏移",
+      "pronunciation": "en-US · carrier frequency offset",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to carrier frequency offset.",
+      "example_zh_tw": "團隊評估了與載波頻率偏移相關的技術風險。"
+    },
+    {
+      "english": "dynamic frequency selection",
+      "zh_tw": "動態頻率選擇",
+      "pronunciation": "en-US · dynamic frequency selection",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team reviewed dynamic frequency selection before approving the Day 006 test configuration.",
+      "example_zh_tw": "團隊在核准第 006 天的測試配置前審查了動態頻率選擇。"
+    },
+    {
+      "english": "transmit power control",
+      "zh_tw": "發射功率控制",
+      "pronunciation": "en-US · transmit power control",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The reviewer checked transmit power control against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認發射功率控制。"
+    },
+    {
+      "english": "guard interval",
+      "zh_tw": "保護間隔",
+      "pronunciation": "en-US · guard interval",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with guard interval.",
+      "example_zh_tw": "測試日誌記錄了與保護間隔相關的條件。"
+    },
+    {
+      "english": "aggregate frame",
+      "zh_tw": "聚合訊框",
+      "pronunciation": "en-US · aggregate frame",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "We confirmed aggregate frame before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了聚合訊框。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Could you record dynamic frequency selection in the test log?",
+      "zh_tw": "可以請你把動態頻率選擇記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in transmit power control.",
+      "zh_tw": "最新結果顯示發射功率控制有所變化。"
+    },
+    {
+      "english": "Please keep guard interval unchanged during the comparison.",
+      "zh_tw": "進行比較時，請保持保護間隔不變。"
+    },
+    {
+      "english": "The team will repeat aggregate frame under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行聚合訊框。"
+    },
+    {
+      "english": "The report clearly identifies the method used for channel bandwidth.",
+      "zh_tw": "報告已清楚標示通道頻寬所使用的方法。"
+    }
+  ],
+  "dialogue": {
+    "context": "Wi-Fi pre-test review",
+    "context_zh_tw": "Wi-Fi 測試測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified channel bandwidth and recorded the setup.",
+        "zh_tw": "我已確認通道頻寬並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for modulation coding scheme?",
+        "zh_tw": "很好。有哪些證據支持對調變編碼方案的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Safety hipot fail — Wi-Fi investigation",
+    "title_zh_tw": "耐電壓測試失敗：Wi-Fi 測試調查",
+    "problem": "A pre-compliance check on Day 006 shows a repeatable safety hipot fail condition.",
+    "background": "The Wi-Fi configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Insulation spacing is insufficient.",
+      "Moisture or flux residue lowers insulation resistance."
+    ],
+    "check_steps": [
+      "Inspect the failure location before retesting.",
+      "Separate components and wiring to isolate the path."
+    ],
+    "corrective_actions": [
+      "Correct spacing and insulation construction.",
+      "Control cleaning and humidity before the test."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Wi-Fi design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Customer Communication",
+    "question": "How do you explain a failed test to a customer? Connect your answer to Wi-Fi.",
+    "hint_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。 並連結到「Wi-Fi 測試」。",
+    "sample_answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time. In Wi-Fi, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「channel bandwidth」的正確繁體中文是什麼？",
+      "options": [
+        "通道頻寬",
+        "頻譜遮罩",
+        "動態頻率選擇",
+        "保護間隔"
+      ],
+      "answer": "通道頻寬",
+      "explanation": "channel bandwidth 指的是「通道頻寬」。",
+      "term": "channel bandwidth"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「調變編碼方案」的正確工程英文是什麼？",
+      "options": [
+        "modulation coding scheme",
+        "error vector magnitude",
+        "transmit power control",
+        "aggregate frame"
+      ],
+      "answer": "modulation coding scheme",
+      "explanation": "工程文件中可使用 modulation coding scheme。",
+      "term": "modulation coding scheme"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The investigation separated observations about ________ from working hypotheses.",
+      "prompt_zh_tw": "調查將佔用頻寬的觀察結果與待驗證假設分開記錄。",
+      "answer": "occupied bandwidth",
+      "accepted_answers": [
+        "occupied bandwidth"
+      ],
+      "explanation": "完整句子的關鍵詞是 occupied bandwidth。",
+      "term": "occupied bandwidth"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "spectral mask",
+      "options": [
+        "spectral mask",
+        "dynamic frequency selection",
+        "aggregate frame",
+        "modulation coding scheme"
+      ],
+      "answer": "spectral mask",
+      "explanation": "播放內容是 spectral mask（頻譜遮罩）。",
+      "term": "spectral mask"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you explain a failed test to a customer? Connect your answer to Wi-Fi.",
+      "prompt_zh_tw": "先講事實與影響，再講調查計畫和下一個決策點。 並連結到「Wi-Fi 測試」。",
+      "answer": "I state the measured result and limit first, then separate confirmed facts from working hypotheses. I provide an investigation plan, owners, and the next update time. In Wi-Fi, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "error",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "error vector magnitude"
+    }
+  ]
+}

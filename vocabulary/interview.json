@@ -1,0 +1,452 @@
+[
+  {
+    "english": "technical achievement",
+    "zh_tw": "技術成就",
+    "pronunciation": "en-US · technical achievement",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The assessor reviewed the traceable evidence supporting technical achievement.",
+    "example_zh_tw": "評鑑人員審查了支持技術成就的可追溯證據。"
+  },
+  {
+    "english": "troubleshooting approach",
+    "zh_tw": "除錯方法",
+    "pronunciation": "en-US · troubleshooting approach",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The investigation separated observations about troubleshooting approach from working hypotheses.",
+    "example_zh_tw": "調查將除錯方法的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "cross-functional teamwork",
+    "zh_tw": "跨部門合作",
+    "pronunciation": "en-US · cross-functional teamwork",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The engineer explained why cross-functional teamwork was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了跨部門合作與符合性判定的關聯。"
+  },
+  {
+    "english": "customer-facing experience",
+    "zh_tw": "客戶應對經驗",
+    "pronunciation": "en-US · customer-facing experience",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The technician verified customer-facing experience before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了客戶應對經驗。"
+  },
+  {
+    "english": "project ownership",
+    "zh_tw": "專案當責",
+    "pronunciation": "en-US · project ownership",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The team evaluated the technical risk related to project ownership.",
+    "example_zh_tw": "團隊評估了與專案當責相關的技術風險。"
+  },
+  {
+    "english": "learning agility",
+    "zh_tw": "學習敏捷度",
+    "pronunciation": "en-US · learning agility",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The team reviewed learning agility before approving the Day 035 test configuration.",
+    "example_zh_tw": "團隊在核准第 035 天的測試配置前審查了學習敏捷度。"
+  },
+  {
+    "english": "conflict resolution",
+    "zh_tw": "衝突解決",
+    "pronunciation": "en-US · conflict resolution",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The reviewer checked conflict resolution against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認衝突解決。"
+  },
+  {
+    "english": "quality mindset",
+    "zh_tw": "品質思維",
+    "pronunciation": "en-US · quality mindset",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The test log records the condition associated with quality mindset.",
+    "example_zh_tw": "測試日誌記錄了與品質思維相關的條件。"
+  },
+  {
+    "english": "career motivation",
+    "zh_tw": "職涯動機",
+    "pronunciation": "en-US · career motivation",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "We confirmed career motivation before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了職涯動機。"
+  },
+  {
+    "english": "professional strength",
+    "zh_tw": "專業優勢",
+    "pronunciation": "en-US · professional strength",
+    "category": "interview",
+    "difficulty": "A2",
+    "example": "The laboratory evaluates professional strength under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估專業優勢。"
+  },
+  {
+    "english": "technical achievement practice",
+    "zh_tw": "技術成就練習",
+    "pronunciation": "en-US · technical achievement practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The technical record includes objective evidence for technical achievement practice.",
+    "example_zh_tw": "技術紀錄包含技術成就練習的客觀證據。"
+  },
+  {
+    "english": "troubleshooting approach practice",
+    "zh_tw": "除錯方法練習",
+    "pronunciation": "en-US · troubleshooting approach practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The customer requested a clear explanation of troubleshooting approach practice.",
+    "example_zh_tw": "客戶要求清楚說明除錯方法練習。"
+  },
+  {
+    "english": "cross-functional teamwork practice",
+    "zh_tw": "跨部門合作練習",
+    "pronunciation": "en-US · cross-functional teamwork practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The procedure defines the acceptance criterion for cross-functional teamwork practice.",
+    "example_zh_tw": "程序定義了跨部門合作練習的接受準則。"
+  },
+  {
+    "english": "customer-facing experience practice",
+    "zh_tw": "客戶應對經驗練習",
+    "pronunciation": "en-US · customer-facing experience practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The test plan identifies how customer-facing experience practice will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄客戶應對經驗練習。"
+  },
+  {
+    "english": "project ownership practice",
+    "zh_tw": "專案當責練習",
+    "pronunciation": "en-US · project ownership practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The project team discussed project ownership practice during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了專案當責練習。"
+  },
+  {
+    "english": "learning agility practice",
+    "zh_tw": "學習敏捷度練習",
+    "pronunciation": "en-US · learning agility practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The assessor reviewed the traceable evidence supporting learning agility practice.",
+    "example_zh_tw": "評鑑人員審查了支持學習敏捷度練習的可追溯證據。"
+  },
+  {
+    "english": "conflict resolution practice",
+    "zh_tw": "衝突解決練習",
+    "pronunciation": "en-US · conflict resolution practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The investigation separated observations about conflict resolution practice from working hypotheses.",
+    "example_zh_tw": "調查將衝突解決練習的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "quality mindset practice",
+    "zh_tw": "品質思維練習",
+    "pronunciation": "en-US · quality mindset practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The engineer explained why quality mindset practice was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了品質思維練習與符合性判定的關聯。"
+  },
+  {
+    "english": "career motivation practice",
+    "zh_tw": "職涯動機練習",
+    "pronunciation": "en-US · career motivation practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The technician verified career motivation practice before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了職涯動機練習。"
+  },
+  {
+    "english": "professional strength practice",
+    "zh_tw": "專業優勢練習",
+    "pronunciation": "en-US · professional strength practice",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The team evaluated the technical risk related to professional strength practice.",
+    "example_zh_tw": "團隊評估了與專業優勢練習相關的技術風險。"
+  },
+  {
+    "english": "technical achievement verification",
+    "zh_tw": "技術成就確認",
+    "pronunciation": "en-US · technical achievement verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "We confirmed technical achievement verification before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了技術成就確認。"
+  },
+  {
+    "english": "troubleshooting approach verification",
+    "zh_tw": "除錯方法確認",
+    "pronunciation": "en-US · troubleshooting approach verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The laboratory evaluates troubleshooting approach verification under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估除錯方法確認。"
+  },
+  {
+    "english": "cross-functional teamwork verification",
+    "zh_tw": "跨部門合作確認",
+    "pronunciation": "en-US · cross-functional teamwork verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The report links cross-functional teamwork verification to the applicable requirement and result.",
+    "example_zh_tw": "報告將跨部門合作確認連結到適用要求與結果。"
+  },
+  {
+    "english": "customer-facing experience verification",
+    "zh_tw": "客戶應對經驗確認",
+    "pronunciation": "en-US · customer-facing experience verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The engineer compared customer-facing experience verification with the approved baseline.",
+    "example_zh_tw": "工程師將客戶應對經驗確認與核准基準進行比較。"
+  },
+  {
+    "english": "project ownership verification",
+    "zh_tw": "專案當責確認",
+    "pronunciation": "en-US · project ownership verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The final review found that project ownership verification was consistently documented.",
+    "example_zh_tw": "最終審查確認專案當責確認已有一致的文件紀錄。"
+  },
+  {
+    "english": "learning agility verification",
+    "zh_tw": "學習敏捷度確認",
+    "pronunciation": "en-US · learning agility verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The technical record includes objective evidence for learning agility verification.",
+    "example_zh_tw": "技術紀錄包含學習敏捷度確認的客觀證據。"
+  },
+  {
+    "english": "conflict resolution verification",
+    "zh_tw": "衝突解決確認",
+    "pronunciation": "en-US · conflict resolution verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The customer requested a clear explanation of conflict resolution verification.",
+    "example_zh_tw": "客戶要求清楚說明衝突解決確認。"
+  },
+  {
+    "english": "quality mindset verification",
+    "zh_tw": "品質思維確認",
+    "pronunciation": "en-US · quality mindset verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The procedure defines the acceptance criterion for quality mindset verification.",
+    "example_zh_tw": "程序定義了品質思維確認的接受準則。"
+  },
+  {
+    "english": "career motivation verification",
+    "zh_tw": "職涯動機確認",
+    "pronunciation": "en-US · career motivation verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The test plan identifies how career motivation verification will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄職涯動機確認。"
+  },
+  {
+    "english": "professional strength verification",
+    "zh_tw": "專業優勢確認",
+    "pronunciation": "en-US · professional strength verification",
+    "category": "interview",
+    "difficulty": "B1",
+    "example": "The project team discussed professional strength verification during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了專業優勢確認。"
+  },
+  {
+    "english": "technical achievement issue analysis",
+    "zh_tw": "技術成就問題分析",
+    "pronunciation": "en-US · technical achievement issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The technician verified technical achievement issue analysis before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了技術成就問題分析。"
+  },
+  {
+    "english": "troubleshooting approach issue analysis",
+    "zh_tw": "除錯方法問題分析",
+    "pronunciation": "en-US · troubleshooting approach issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The team evaluated the technical risk related to troubleshooting approach issue analysis.",
+    "example_zh_tw": "團隊評估了與除錯方法問題分析相關的技術風險。"
+  },
+  {
+    "english": "cross-functional teamwork issue analysis",
+    "zh_tw": "跨部門合作問題分析",
+    "pronunciation": "en-US · cross-functional teamwork issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The team reviewed cross-functional teamwork issue analysis before approving the Day 140 test configuration.",
+    "example_zh_tw": "團隊在核准第 140 天的測試配置前審查了跨部門合作問題分析。"
+  },
+  {
+    "english": "customer-facing experience issue analysis",
+    "zh_tw": "客戶應對經驗問題分析",
+    "pronunciation": "en-US · customer-facing experience issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The reviewer checked customer-facing experience issue analysis against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認客戶應對經驗問題分析。"
+  },
+  {
+    "english": "project ownership issue analysis",
+    "zh_tw": "專案當責問題分析",
+    "pronunciation": "en-US · project ownership issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The test log records the condition associated with project ownership issue analysis.",
+    "example_zh_tw": "測試日誌記錄了與專案當責問題分析相關的條件。"
+  },
+  {
+    "english": "learning agility issue analysis",
+    "zh_tw": "學習敏捷度問題分析",
+    "pronunciation": "en-US · learning agility issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "We confirmed learning agility issue analysis before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了學習敏捷度問題分析。"
+  },
+  {
+    "english": "conflict resolution issue analysis",
+    "zh_tw": "衝突解決問題分析",
+    "pronunciation": "en-US · conflict resolution issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The laboratory evaluates conflict resolution issue analysis under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估衝突解決問題分析。"
+  },
+  {
+    "english": "quality mindset issue analysis",
+    "zh_tw": "品質思維問題分析",
+    "pronunciation": "en-US · quality mindset issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The report links quality mindset issue analysis to the applicable requirement and result.",
+    "example_zh_tw": "報告將品質思維問題分析連結到適用要求與結果。"
+  },
+  {
+    "english": "career motivation issue analysis",
+    "zh_tw": "職涯動機問題分析",
+    "pronunciation": "en-US · career motivation issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The engineer compared career motivation issue analysis with the approved baseline.",
+    "example_zh_tw": "工程師將職涯動機問題分析與核准基準進行比較。"
+  },
+  {
+    "english": "professional strength issue analysis",
+    "zh_tw": "專業優勢問題分析",
+    "pronunciation": "en-US · professional strength issue analysis",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The final review found that professional strength issue analysis was consistently documented.",
+    "example_zh_tw": "最終審查確認專業優勢問題分析已有一致的文件紀錄。"
+  },
+  {
+    "english": "technical achievement documentation",
+    "zh_tw": "技術成就文件化",
+    "pronunciation": "en-US · technical achievement documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The test plan identifies how technical achievement documentation will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄技術成就文件化。"
+  },
+  {
+    "english": "troubleshooting approach documentation",
+    "zh_tw": "除錯方法文件化",
+    "pronunciation": "en-US · troubleshooting approach documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The project team discussed troubleshooting approach documentation during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了除錯方法文件化。"
+  },
+  {
+    "english": "cross-functional teamwork documentation",
+    "zh_tw": "跨部門合作文件化",
+    "pronunciation": "en-US · cross-functional teamwork documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The assessor reviewed the traceable evidence supporting cross-functional teamwork documentation.",
+    "example_zh_tw": "評鑑人員審查了支持跨部門合作文件化的可追溯證據。"
+  },
+  {
+    "english": "customer-facing experience documentation",
+    "zh_tw": "客戶應對經驗文件化",
+    "pronunciation": "en-US · customer-facing experience documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The investigation separated observations about customer-facing experience documentation from working hypotheses.",
+    "example_zh_tw": "調查將客戶應對經驗文件化的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "project ownership documentation",
+    "zh_tw": "專案當責文件化",
+    "pronunciation": "en-US · project ownership documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The engineer explained why project ownership documentation was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了專案當責文件化與符合性判定的關聯。"
+  },
+  {
+    "english": "learning agility documentation",
+    "zh_tw": "學習敏捷度文件化",
+    "pronunciation": "en-US · learning agility documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The technician verified learning agility documentation before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了學習敏捷度文件化。"
+  },
+  {
+    "english": "conflict resolution documentation",
+    "zh_tw": "衝突解決文件化",
+    "pronunciation": "en-US · conflict resolution documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The team evaluated the technical risk related to conflict resolution documentation.",
+    "example_zh_tw": "團隊評估了與衝突解決文件化相關的技術風險。"
+  },
+  {
+    "english": "quality mindset documentation",
+    "zh_tw": "品質思維文件化",
+    "pronunciation": "en-US · quality mindset documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The team reviewed quality mindset documentation before approving the Day 175 test configuration.",
+    "example_zh_tw": "團隊在核准第 175 天的測試配置前審查了品質思維文件化。"
+  },
+  {
+    "english": "career motivation documentation",
+    "zh_tw": "職涯動機文件化",
+    "pronunciation": "en-US · career motivation documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The reviewer checked career motivation documentation against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認職涯動機文件化。"
+  },
+  {
+    "english": "professional strength documentation",
+    "zh_tw": "專業優勢文件化",
+    "pronunciation": "en-US · professional strength documentation",
+    "category": "interview",
+    "difficulty": "B2",
+    "example": "The test log records the condition associated with professional strength documentation.",
+    "example_zh_tw": "測試日誌記錄了與專業優勢文件化相關的條件。"
+  }
+]

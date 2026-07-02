@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 38,
+  "id": "day038",
+  "topic": "Antenna",
+  "topic_zh_tw": "天線工程",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Antenna terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "antenna gain measurement",
+      "zh_tw": "天線增益量測",
+      "pronunciation": "en-US · antenna gain measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for antenna gain measurement.",
+      "example_zh_tw": "程序定義了天線增益量測的接受準則。"
+    },
+    {
+      "english": "radiation pattern measurement",
+      "zh_tw": "輻射場型量測",
+      "pronunciation": "en-US · radiation pattern measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The test plan identifies how radiation pattern measurement will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄輻射場型量測。"
+    },
+    {
+      "english": "polarization mismatch measurement",
+      "zh_tw": "極化失配量測",
+      "pronunciation": "en-US · polarization mismatch measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The project team discussed polarization mismatch measurement during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了極化失配量測。"
+    },
+    {
+      "english": "return loss measurement",
+      "zh_tw": "回波損耗量測",
+      "pronunciation": "en-US · return loss measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The assessor reviewed the traceable evidence supporting return loss measurement.",
+      "example_zh_tw": "評鑑人員審查了支持回波損耗量測的可追溯證據。"
+    },
+    {
+      "english": "voltage standing wave ratio measurement",
+      "zh_tw": "電壓駐波比量測",
+      "pronunciation": "en-US · voltage standing wave ratio measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about voltage standing wave ratio measurement from working hypotheses.",
+      "example_zh_tw": "調查將電壓駐波比量測的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "antenna efficiency measurement",
+      "zh_tw": "天線效率量測",
+      "pronunciation": "en-US · antenna efficiency measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The engineer explained why antenna efficiency measurement was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了天線效率量測與符合性判定的關聯。"
+    },
+    {
+      "english": "beamwidth measurement",
+      "zh_tw": "波束寬度量測",
+      "pronunciation": "en-US · beamwidth measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The technician verified beamwidth measurement before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了波束寬度量測。"
+    },
+    {
+      "english": "front-to-back ratio measurement",
+      "zh_tw": "前後比量測",
+      "pronunciation": "en-US · front-to-back ratio measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The team evaluated the technical risk related to front-to-back ratio measurement.",
+      "example_zh_tw": "團隊評估了與前後比量測相關的技術風險。"
+    },
+    {
+      "english": "isotropic radiator measurement",
+      "zh_tw": "等向性輻射體量測",
+      "pronunciation": "en-US · isotropic radiator measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The team reviewed isotropic radiator measurement before approving the Day 038 test configuration.",
+      "example_zh_tw": "團隊在核准第 038 天的測試配置前審查了等向性輻射體量測。"
+    },
+    {
+      "english": "antenna connector measurement",
+      "zh_tw": "天線連接器量測",
+      "pronunciation": "en-US · antenna connector measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The reviewer checked antenna connector measurement against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認天線連接器量測。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat isotropic radiator measurement under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行等向性輻射體量測。"
+    },
+    {
+      "english": "The report clearly identifies the method used for antenna connector measurement.",
+      "zh_tw": "報告已清楚標示天線連接器量測所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to antenna gain measurement.",
+      "zh_tw": "請納入與天線增益量測相關的不確定度。"
+    },
+    {
+      "english": "Please verify radiation pattern measurement before we start the test.",
+      "zh_tw": "開始測試前，請確認輻射場型量測。"
+    },
+    {
+      "english": "We need traceable evidence for polarization mismatch measurement.",
+      "zh_tw": "我們需要可追溯的極化失配量測證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "Antenna pre-test review",
+    "context_zh_tw": "天線工程測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified antenna gain measurement and recorded the setup.",
+        "zh_tw": "我已確認天線增益量測並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for radiation pattern measurement?",
+        "zh_tw": "很好。有哪些證據支持對輻射場型量測的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Conducted emission fail — Antenna investigation",
+    "title_zh_tw": "傳導發射超標：天線工程調查",
+    "problem": "A pre-compliance check on Day 038 shows a repeatable conducted emission fail condition.",
+    "background": "The Antenna configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The switching supply has inadequate input filtering.",
+      "A common-mode return path couples noise to the mains."
+    ],
+    "check_steps": [
+      "Compare line and neutral spectra with both detector modes.",
+      "Probe the input filter and switching node."
+    ],
+    "corrective_actions": [
+      "Optimize the common-mode choke and X/Y capacitors.",
+      "Shorten the high-current switching loop."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Antenna design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Why should we hire you?",
+    "question": "Why should we hire you for this engineering role? Connect your answer to Antenna.",
+    "hint_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「天線工程」。",
+    "sample_answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In Antenna, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「antenna gain measurement」的正確繁體中文是什麼？",
+      "options": [
+        "天線增益量測",
+        "回波損耗量測",
+        "波束寬度量測",
+        "等向性輻射體量測"
+      ],
+      "answer": "天線增益量測",
+      "explanation": "antenna gain measurement 指的是「天線增益量測」。",
+      "term": "antenna gain measurement"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「輻射場型量測」的正確工程英文是什麼？",
+      "options": [
+        "radiation pattern measurement",
+        "voltage standing wave ratio measurement",
+        "front-to-back ratio measurement",
+        "antenna connector measurement"
+      ],
+      "answer": "radiation pattern measurement",
+      "explanation": "工程文件中可使用 radiation pattern measurement。",
+      "term": "radiation pattern measurement"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The project team discussed ________ during the pre-test meeting.",
+      "prompt_zh_tw": "專案團隊在測試前會議中討論了極化失配量測。",
+      "answer": "polarization mismatch measurement",
+      "accepted_answers": [
+        "polarization mismatch measurement"
+      ],
+      "explanation": "完整句子的關鍵詞是 polarization mismatch measurement。",
+      "term": "polarization mismatch measurement"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "return loss measurement",
+      "options": [
+        "return loss measurement",
+        "beamwidth measurement",
+        "antenna connector measurement",
+        "radiation pattern measurement"
+      ],
+      "answer": "return loss measurement",
+      "explanation": "播放內容是 return loss measurement（回波損耗量測）。",
+      "term": "return loss measurement"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Why should we hire you for this engineering role? Connect your answer to Antenna.",
+      "prompt_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「天線工程」。",
+      "answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In Antenna, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "voltage",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "voltage standing wave ratio measurement"
+    }
+  ]
+}

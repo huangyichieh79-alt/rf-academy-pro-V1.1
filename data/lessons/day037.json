@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 37,
+  "id": "day037",
+  "topic": "RF Measurement",
+  "topic_zh_tw": "射頻量測",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten RF Measurement terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "vector network analyzer measurement",
+      "zh_tw": "向量網路分析儀量測",
+      "pronunciation": "en-US · vector network analyzer measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The report links vector network analyzer measurement to the applicable requirement and result.",
+      "example_zh_tw": "報告將向量網路分析儀量測連結到適用要求與結果。"
+    },
+    {
+      "english": "spectrum analyzer measurement",
+      "zh_tw": "頻譜分析儀量測",
+      "pronunciation": "en-US · spectrum analyzer measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The engineer compared spectrum analyzer measurement with the approved baseline.",
+      "example_zh_tw": "工程師將頻譜分析儀量測與核准基準進行比較。"
+    },
+    {
+      "english": "signal generator measurement",
+      "zh_tw": "訊號產生器量測",
+      "pronunciation": "en-US · signal generator measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The final review found that signal generator measurement was consistently documented.",
+      "example_zh_tw": "最終審查確認訊號產生器量測已有一致的文件紀錄。"
+    },
+    {
+      "english": "power meter measurement",
+      "zh_tw": "功率計量測",
+      "pronunciation": "en-US · power meter measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The technical record includes objective evidence for power meter measurement.",
+      "example_zh_tw": "技術紀錄包含功率計量測的客觀證據。"
+    },
+    {
+      "english": "directional coupler measurement",
+      "zh_tw": "方向耦合器量測",
+      "pronunciation": "en-US · directional coupler measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The customer requested a clear explanation of directional coupler measurement.",
+      "example_zh_tw": "客戶要求清楚說明方向耦合器量測。"
+    },
+    {
+      "english": "calibration plane measurement",
+      "zh_tw": "校正平面量測",
+      "pronunciation": "en-US · calibration plane measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The procedure defines the acceptance criterion for calibration plane measurement.",
+      "example_zh_tw": "程序定義了校正平面量測的接受準則。"
+    },
+    {
+      "english": "reference level measurement",
+      "zh_tw": "參考位準量測",
+      "pronunciation": "en-US · reference level measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The test plan identifies how reference level measurement will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄參考位準量測。"
+    },
+    {
+      "english": "resolution bandwidth measurement",
+      "zh_tw": "解析頻寬量測",
+      "pronunciation": "en-US · resolution bandwidth measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The project team discussed resolution bandwidth measurement during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了解析頻寬量測。"
+    },
+    {
+      "english": "video bandwidth measurement",
+      "zh_tw": "視訊頻寬量測",
+      "pronunciation": "en-US · video bandwidth measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The assessor reviewed the traceable evidence supporting video bandwidth measurement.",
+      "example_zh_tw": "評鑑人員審查了支持視訊頻寬量測的可追溯證據。"
+    },
+    {
+      "english": "measurement uncertainty measurement",
+      "zh_tw": "量測不確定度量測",
+      "pronunciation": "en-US · measurement uncertainty measurement",
+      "category": "rf",
+      "difficulty": "B1",
+      "example": "The investigation separated observations about measurement uncertainty measurement from working hypotheses.",
+      "example_zh_tw": "調查將量測不確定度量測的觀察結果與待驗證假設分開記錄。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how resolution bandwidth measurement affects compliance.",
+      "zh_tw": "我會說明解析頻寬量測如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in video bandwidth measurement.",
+      "zh_tw": "我們的審查未發現視訊頻寬量測有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for measurement uncertainty measurement?",
+      "zh_tw": "你可以確認量測不確定度量測的接受準則嗎？"
+    },
+    {
+      "english": "We isolated vector network analyzer measurement as the dominant factor.",
+      "zh_tw": "我們已確認向量網路分析儀量測是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on spectrum analyzer measurement.",
+      "zh_tw": "客戶要求提供頻譜分析儀量測的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "RF Measurement pre-test review",
+    "context_zh_tw": "射頻量測測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified vector network analyzer measurement and recorded the setup.",
+        "zh_tw": "我已確認向量網路分析儀量測並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for spectrum analyzer measurement?",
+        "zh_tw": "很好。有哪些證據支持對頻譜分析儀量測的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Radiated emission fail — RF Measurement investigation",
+    "title_zh_tw": "輻射發射超標：射頻量測調查",
+    "problem": "A pre-compliance check on Day 037 shows a repeatable radiated emission fail condition.",
+    "background": "The RF Measurement configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "An unintended cable current is acting as an antenna.",
+      "The enclosure seam has insufficient shielding."
+    ],
+    "check_steps": [
+      "Rotate the turntable and change antenna height to locate the maximum.",
+      "Use a current probe to identify the dominant cable path."
+    ],
+    "corrective_actions": [
+      "Add common-mode suppression at the cable interface.",
+      "Improve seam bonding and repeat the final measurement."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the RF Measurement design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Weakness and Strength",
+    "question": "What are your professional strength and weakness? Connect your answer to RF Measurement.",
+    "hint_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「射頻量測」。",
+    "sample_answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In RF Measurement, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「vector network analyzer measurement」的正確繁體中文是什麼？",
+      "options": [
+        "向量網路分析儀量測",
+        "功率計量測",
+        "參考位準量測",
+        "視訊頻寬量測"
+      ],
+      "answer": "向量網路分析儀量測",
+      "explanation": "vector network analyzer measurement 指的是「向量網路分析儀量測」。",
+      "term": "vector network analyzer measurement"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「頻譜分析儀量測」的正確工程英文是什麼？",
+      "options": [
+        "spectrum analyzer measurement",
+        "directional coupler measurement",
+        "resolution bandwidth measurement",
+        "measurement uncertainty measurement"
+      ],
+      "answer": "spectrum analyzer measurement",
+      "explanation": "工程文件中可使用 spectrum analyzer measurement。",
+      "term": "spectrum analyzer measurement"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The final review found that ________ was consistently documented.",
+      "prompt_zh_tw": "最終審查確認訊號產生器量測已有一致的文件紀錄。",
+      "answer": "signal generator measurement",
+      "accepted_answers": [
+        "signal generator measurement"
+      ],
+      "explanation": "完整句子的關鍵詞是 signal generator measurement。",
+      "term": "signal generator measurement"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "power meter measurement",
+      "options": [
+        "power meter measurement",
+        "reference level measurement",
+        "measurement uncertainty measurement",
+        "spectrum analyzer measurement"
+      ],
+      "answer": "power meter measurement",
+      "explanation": "播放內容是 power meter measurement（功率計量測）。",
+      "term": "power meter measurement"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "What are your professional strength and weakness? Connect your answer to RF Measurement.",
+      "prompt_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「射頻量測」。",
+      "answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In RF Measurement, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "directional",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "directional coupler measurement"
+    }
+  ]
+}

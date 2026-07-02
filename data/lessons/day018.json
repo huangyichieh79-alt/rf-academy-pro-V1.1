@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 18,
+  "id": "day018",
+  "topic": "Hipot",
+  "topic_zh_tw": "耐電壓測試",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Hipot terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "dielectric strength test",
+      "zh_tw": "電氣強度測試",
+      "pronunciation": "en-US · dielectric strength test",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The team reviewed dielectric strength test before approving the Day 018 test configuration.",
+      "example_zh_tw": "團隊在核准第 018 天的測試配置前審查了電氣強度測試。"
+    },
+    {
+      "english": "test voltage",
+      "zh_tw": "測試電壓",
+      "pronunciation": "en-US · test voltage",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The reviewer checked test voltage against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認測試電壓。"
+    },
+    {
+      "english": "ramp-up time",
+      "zh_tw": "升壓時間",
+      "pronunciation": "en-US · ramp-up time",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with ramp-up time.",
+      "example_zh_tw": "測試日誌記錄了與升壓時間相關的條件。"
+    },
+    {
+      "english": "trip current",
+      "zh_tw": "跳脫電流",
+      "pronunciation": "en-US · trip current",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "We confirmed trip current before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了跳脫電流。"
+    },
+    {
+      "english": "insulation breakdown",
+      "zh_tw": "絕緣崩潰",
+      "pronunciation": "en-US · insulation breakdown",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates insulation breakdown under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估絕緣崩潰。"
+    },
+    {
+      "english": "withstand duration",
+      "zh_tw": "耐壓時間",
+      "pronunciation": "en-US · withstand duration",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The report links withstand duration to the applicable requirement and result.",
+      "example_zh_tw": "報告將耐壓時間連結到適用要求與結果。"
+    },
+    {
+      "english": "primary circuit",
+      "zh_tw": "一次側電路",
+      "pronunciation": "en-US · primary circuit",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The engineer compared primary circuit with the approved baseline.",
+      "example_zh_tw": "工程師將一次側電路與核准基準進行比較。"
+    },
+    {
+      "english": "secondary circuit",
+      "zh_tw": "二次側電路",
+      "pronunciation": "en-US · secondary circuit",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The final review found that secondary circuit was consistently documented.",
+      "example_zh_tw": "最終審查確認二次側電路已有一致的文件紀錄。"
+    },
+    {
+      "english": "reinforced insulation",
+      "zh_tw": "加強絕緣",
+      "pronunciation": "en-US · reinforced insulation",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for reinforced insulation.",
+      "example_zh_tw": "技術紀錄包含加強絕緣的客觀證據。"
+    },
+    {
+      "english": "test probe clearance",
+      "zh_tw": "測試探棒間距",
+      "pronunciation": "en-US · test probe clearance",
+      "category": "safety",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of test probe clearance.",
+      "example_zh_tw": "客戶要求清楚說明測試探棒間距。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat reinforced insulation under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行加強絕緣。"
+    },
+    {
+      "english": "The report clearly identifies the method used for test probe clearance.",
+      "zh_tw": "報告已清楚標示測試探棒間距所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to dielectric strength test.",
+      "zh_tw": "請納入與電氣強度測試相關的不確定度。"
+    },
+    {
+      "english": "Please verify test voltage before we start the test.",
+      "zh_tw": "開始測試前，請確認測試電壓。"
+    },
+    {
+      "english": "We need traceable evidence for ramp-up time.",
+      "zh_tw": "我們需要可追溯的升壓時間證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "Hipot pre-test review",
+    "context_zh_tw": "耐電壓測試測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified dielectric strength test and recorded the setup.",
+        "zh_tw": "我已確認電氣強度測試並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for test voltage?",
+        "zh_tw": "很好。有哪些證據支持對測試電壓的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Safety hipot fail — Hipot investigation",
+    "title_zh_tw": "耐電壓測試失敗：耐電壓測試調查",
+    "problem": "A pre-compliance check on Day 018 shows a repeatable safety hipot fail condition.",
+    "background": "The Hipot configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Insulation spacing is insufficient.",
+      "Moisture or flux residue lowers insulation resistance."
+    ],
+    "check_steps": [
+      "Inspect the failure location before retesting.",
+      "Separate components and wiring to isolate the path."
+    ],
+    "corrective_actions": [
+      "Correct spacing and insulation construction.",
+      "Control cleaning and humidity before the test."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Hipot design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Why should we hire you?",
+    "question": "Why should we hire you for this engineering role? Connect your answer to Hipot.",
+    "hint_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「耐電壓測試」。",
+    "sample_answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In Hipot, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「dielectric strength test」的正確繁體中文是什麼？",
+      "options": [
+        "電氣強度測試",
+        "跳脫電流",
+        "一次側電路",
+        "加強絕緣"
+      ],
+      "answer": "電氣強度測試",
+      "explanation": "dielectric strength test 指的是「電氣強度測試」。",
+      "term": "dielectric strength test"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「測試電壓」的正確工程英文是什麼？",
+      "options": [
+        "test voltage",
+        "insulation breakdown",
+        "secondary circuit",
+        "test probe clearance"
+      ],
+      "answer": "test voltage",
+      "explanation": "工程文件中可使用 test voltage。",
+      "term": "test voltage"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The test log records the condition associated with ________.",
+      "prompt_zh_tw": "測試日誌記錄了與升壓時間相關的條件。",
+      "answer": "ramp-up time",
+      "accepted_answers": [
+        "ramp-up time"
+      ],
+      "explanation": "完整句子的關鍵詞是 ramp-up time。",
+      "term": "ramp-up time"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "trip current",
+      "options": [
+        "trip current",
+        "primary circuit",
+        "test probe clearance",
+        "test voltage"
+      ],
+      "answer": "trip current",
+      "explanation": "播放內容是 trip current（跳脫電流）。",
+      "term": "trip current"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Why should we hire you for this engineering role? Connect your answer to Hipot.",
+      "prompt_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「耐電壓測試」。",
+      "answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In Hipot, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "insulation",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "insulation breakdown"
+    }
+  ]
+}

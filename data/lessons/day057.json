@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 57,
+  "id": "day057",
+  "topic": "Clearance",
+  "topic_zh_tw": "空間距離",
+  "stage": "measurement method",
+  "stage_zh_tw": "量測方法",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Clearance terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "clearance distance evaluation",
+      "zh_tw": "空間距離評估",
+      "pronunciation": "en-US · clearance distance evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The engineer explained why clearance distance evaluation was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了空間距離評估與符合性判定的關聯。"
+    },
+    {
+      "english": "overvoltage category evaluation",
+      "zh_tw": "過電壓類別評估",
+      "pronunciation": "en-US · overvoltage category evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The technician verified overvoltage category evaluation before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了過電壓類別評估。"
+    },
+    {
+      "english": "transient overvoltage evaluation",
+      "zh_tw": "暫態過電壓評估",
+      "pronunciation": "en-US · transient overvoltage evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The team evaluated the technical risk related to transient overvoltage evaluation.",
+      "example_zh_tw": "團隊評估了與暫態過電壓評估相關的技術風險。"
+    },
+    {
+      "english": "peak working voltage evaluation",
+      "zh_tw": "峰值工作電壓評估",
+      "pronunciation": "en-US · peak working voltage evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The team reviewed peak working voltage evaluation before approving the Day 057 test configuration.",
+      "example_zh_tw": "團隊在核准第 057 天的測試配置前審查了峰值工作電壓評估。"
+    },
+    {
+      "english": "altitude correction evaluation",
+      "zh_tw": "海拔修正評估",
+      "pronunciation": "en-US · altitude correction evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The reviewer checked altitude correction evaluation against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認海拔修正評估。"
+    },
+    {
+      "english": "homogeneous field evaluation",
+      "zh_tw": "均勻電場評估",
+      "pronunciation": "en-US · homogeneous field evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The test log records the condition associated with homogeneous field evaluation.",
+      "example_zh_tw": "測試日誌記錄了與均勻電場評估相關的條件。"
+    },
+    {
+      "english": "inhomogeneous field evaluation",
+      "zh_tw": "非均勻電場評估",
+      "pronunciation": "en-US · inhomogeneous field evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "We confirmed inhomogeneous field evaluation before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了非均勻電場評估。"
+    },
+    {
+      "english": "air gap evaluation",
+      "zh_tw": "空氣間隙評估",
+      "pronunciation": "en-US · air gap evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The laboratory evaluates air gap evaluation under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估空氣間隙評估。"
+    },
+    {
+      "english": "basic insulation evaluation",
+      "zh_tw": "基本絕緣評估",
+      "pronunciation": "en-US · basic insulation evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The report links basic insulation evaluation to the applicable requirement and result.",
+      "example_zh_tw": "報告將基本絕緣評估連結到適用要求與結果。"
+    },
+    {
+      "english": "supplementary insulation evaluation",
+      "zh_tw": "附加絕緣評估",
+      "pronunciation": "en-US · supplementary insulation evaluation",
+      "category": "safety",
+      "difficulty": "B1",
+      "example": "The engineer compared supplementary insulation evaluation with the approved baseline.",
+      "example_zh_tw": "工程師將附加絕緣評估與核准基準進行比較。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how air gap evaluation affects compliance.",
+      "zh_tw": "我會說明空氣間隙評估如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in basic insulation evaluation.",
+      "zh_tw": "我們的審查未發現基本絕緣評估有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for supplementary insulation evaluation?",
+      "zh_tw": "你可以確認附加絕緣評估的接受準則嗎？"
+    },
+    {
+      "english": "We isolated clearance distance evaluation as the dominant factor.",
+      "zh_tw": "我們已確認空間距離評估是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on overvoltage category evaluation.",
+      "zh_tw": "客戶要求提供過電壓類別評估的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "Clearance pre-test review",
+    "context_zh_tw": "空間距離測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified clearance distance evaluation and recorded the setup.",
+        "zh_tw": "我已確認空間距離評估並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for overvoltage category evaluation?",
+        "zh_tw": "很好。有哪些證據支持對過電壓類別評估的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Certification document missing — Clearance investigation",
+    "title_zh_tw": "驗證文件缺漏：空間距離調查",
+    "problem": "A pre-compliance check on Day 057 shows a repeatable certification document missing condition.",
+    "background": "The Clearance configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The submitted model list does not match the report.",
+      "A critical component certificate has expired."
+    ],
+    "check_steps": [
+      "Compare the submission checklist with the technical file.",
+      "Verify certificate scope, model, and validity."
+    ],
+    "corrective_actions": [
+      "Update controlled documents and obtain approval.",
+      "Record the corrected revision in the submission index."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Clearance design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Weakness and Strength",
+    "question": "What are your professional strength and weakness? Connect your answer to Clearance.",
+    "hint_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「空間距離」。",
+    "sample_answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Clearance, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「clearance distance evaluation」的正確繁體中文是什麼？",
+      "options": [
+        "空間距離評估",
+        "峰值工作電壓評估",
+        "非均勻電場評估",
+        "基本絕緣評估"
+      ],
+      "answer": "空間距離評估",
+      "explanation": "clearance distance evaluation 指的是「空間距離評估」。",
+      "term": "clearance distance evaluation"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「過電壓類別評估」的正確工程英文是什麼？",
+      "options": [
+        "overvoltage category evaluation",
+        "altitude correction evaluation",
+        "air gap evaluation",
+        "supplementary insulation evaluation"
+      ],
+      "answer": "overvoltage category evaluation",
+      "explanation": "工程文件中可使用 overvoltage category evaluation。",
+      "term": "overvoltage category evaluation"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The team evaluated the technical risk related to ________.",
+      "prompt_zh_tw": "團隊評估了與暫態過電壓評估相關的技術風險。",
+      "answer": "transient overvoltage evaluation",
+      "accepted_answers": [
+        "transient overvoltage evaluation"
+      ],
+      "explanation": "完整句子的關鍵詞是 transient overvoltage evaluation。",
+      "term": "transient overvoltage evaluation"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "peak working voltage evaluation",
+      "options": [
+        "peak working voltage evaluation",
+        "inhomogeneous field evaluation",
+        "supplementary insulation evaluation",
+        "overvoltage category evaluation"
+      ],
+      "answer": "peak working voltage evaluation",
+      "explanation": "播放內容是 peak working voltage evaluation（峰值工作電壓評估）。",
+      "term": "peak working voltage evaluation"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "What are your professional strength and weakness? Connect your answer to Clearance.",
+      "prompt_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「空間距離」。",
+      "answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Clearance, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "altitude",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "altitude correction evaluation"
+    }
+  ]
+}

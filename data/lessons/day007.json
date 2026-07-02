@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 7,
+  "id": "day007",
+  "topic": "Bluetooth",
+  "topic_zh_tw": "藍牙測試",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Bluetooth terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "frequency hopping",
+      "zh_tw": "跳頻",
+      "pronunciation": "en-US · frequency hopping",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to frequency hopping.",
+      "example_zh_tw": "團隊評估了與跳頻相關的技術風險。"
+    },
+    {
+      "english": "advertising channel",
+      "zh_tw": "廣播通道",
+      "pronunciation": "en-US · advertising channel",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The team reviewed advertising channel before approving the Day 007 test configuration.",
+      "example_zh_tw": "團隊在核准第 007 天的測試配置前審查了廣播通道。"
+    },
+    {
+      "english": "data channel",
+      "zh_tw": "資料通道",
+      "pronunciation": "en-US · data channel",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The reviewer checked data channel against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認資料通道。"
+    },
+    {
+      "english": "access address",
+      "zh_tw": "存取位址",
+      "pronunciation": "en-US · access address",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with access address.",
+      "example_zh_tw": "測試日誌記錄了與存取位址相關的條件。"
+    },
+    {
+      "english": "packet error rate",
+      "zh_tw": "封包錯誤率",
+      "pronunciation": "en-US · packet error rate",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "We confirmed packet error rate before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了封包錯誤率。"
+    },
+    {
+      "english": "adaptive frequency hopping",
+      "zh_tw": "適應性跳頻",
+      "pronunciation": "en-US · adaptive frequency hopping",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates adaptive frequency hopping under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估適應性跳頻。"
+    },
+    {
+      "english": "basic rate",
+      "zh_tw": "基本速率",
+      "pronunciation": "en-US · basic rate",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The report links basic rate to the applicable requirement and result.",
+      "example_zh_tw": "報告將基本速率連結到適用要求與結果。"
+    },
+    {
+      "english": "enhanced data rate",
+      "zh_tw": "增強資料速率",
+      "pronunciation": "en-US · enhanced data rate",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The engineer compared enhanced data rate with the approved baseline.",
+      "example_zh_tw": "工程師將增強資料速率與核准基準進行比較。"
+    },
+    {
+      "english": "low energy mode",
+      "zh_tw": "低功耗模式",
+      "pronunciation": "en-US · low energy mode",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The final review found that low energy mode was consistently documented.",
+      "example_zh_tw": "最終審查確認低功耗模式已有一致的文件紀錄。"
+    },
+    {
+      "english": "receiver sensitivity",
+      "zh_tw": "接收靈敏度",
+      "pronunciation": "en-US · receiver sensitivity",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for receiver sensitivity.",
+      "example_zh_tw": "技術紀錄包含接收靈敏度的客觀證據。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how enhanced data rate affects compliance.",
+      "zh_tw": "我會說明增強資料速率如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in low energy mode.",
+      "zh_tw": "我們的審查未發現低功耗模式有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for receiver sensitivity?",
+      "zh_tw": "你可以確認接收靈敏度的接受準則嗎？"
+    },
+    {
+      "english": "We isolated frequency hopping as the dominant factor.",
+      "zh_tw": "我們已確認跳頻是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on advertising channel.",
+      "zh_tw": "客戶要求提供廣播通道的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "Bluetooth pre-test review",
+    "context_zh_tw": "藍牙測試測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified frequency hopping and recorded the setup.",
+        "zh_tw": "我已確認跳頻並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for advertising channel?",
+        "zh_tw": "很好。有哪些證據支持對廣播通道的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Leakage current fail — Bluetooth investigation",
+    "title_zh_tw": "漏電流測試失敗：藍牙測試調查",
+    "problem": "A pre-compliance check on Day 007 shows a repeatable leakage current fail condition.",
+    "background": "The Bluetooth configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Y-capacitance is excessive for the product class.",
+      "A wiring error bypasses the intended insulation."
+    ],
+    "check_steps": [
+      "Verify the measuring network and supply polarity.",
+      "Measure each filter branch separately."
+    ],
+    "corrective_actions": [
+      "Rebalance filter capacitance within EMC and safety limits.",
+      "Correct wiring and repeat all required conditions."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Bluetooth design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Weakness and Strength",
+    "question": "What are your professional strength and weakness? Connect your answer to Bluetooth.",
+    "hint_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「藍牙測試」。",
+    "sample_answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Bluetooth, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「frequency hopping」的正確繁體中文是什麼？",
+      "options": [
+        "跳頻",
+        "存取位址",
+        "基本速率",
+        "低功耗模式"
+      ],
+      "answer": "跳頻",
+      "explanation": "frequency hopping 指的是「跳頻」。",
+      "term": "frequency hopping"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「廣播通道」的正確工程英文是什麼？",
+      "options": [
+        "advertising channel",
+        "packet error rate",
+        "enhanced data rate",
+        "receiver sensitivity"
+      ],
+      "answer": "advertising channel",
+      "explanation": "工程文件中可使用 advertising channel。",
+      "term": "advertising channel"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The reviewer checked ________ against the controlled procedure.",
+      "prompt_zh_tw": "審查人員依受控程序確認資料通道。",
+      "answer": "data channel",
+      "accepted_answers": [
+        "data channel"
+      ],
+      "explanation": "完整句子的關鍵詞是 data channel。",
+      "term": "data channel"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "access address",
+      "options": [
+        "access address",
+        "basic rate",
+        "receiver sensitivity",
+        "advertising channel"
+      ],
+      "answer": "access address",
+      "explanation": "播放內容是 access address（存取位址）。",
+      "term": "access address"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "What are your professional strength and weakness? Connect your answer to Bluetooth.",
+      "prompt_zh_tw": "優點要有證據；弱點要說明改善方法與進展。 並連結到「藍牙測試」。",
+      "answer": "My strength is structured troubleshooting supported by evidence. I used to spend too long refining reports, so I now align the decision question first and time-box each review. In Bluetooth, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "packet",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "packet error rate"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "english": "project kickoff",
+    "zh_tw": "專案啟動",
+    "pronunciation": "en-US · project kickoff",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "We confirmed project kickoff before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了專案啟動。"
+  },
+  {
+    "english": "scope confirmation",
+    "zh_tw": "範圍確認",
+    "pronunciation": "en-US · scope confirmation",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The laboratory evaluates scope confirmation under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估範圍確認。"
+  },
+  {
+    "english": "schedule alignment",
+    "zh_tw": "時程對齊",
+    "pronunciation": "en-US · schedule alignment",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The report links schedule alignment to the applicable requirement and result.",
+    "example_zh_tw": "報告將時程對齊連結到適用要求與結果。"
+  },
+  {
+    "english": "technical clarification",
+    "zh_tw": "技術澄清",
+    "pronunciation": "en-US · technical clarification",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The engineer compared technical clarification with the approved baseline.",
+    "example_zh_tw": "工程師將技術澄清與核准基準進行比較。"
+  },
+  {
+    "english": "failure notification",
+    "zh_tw": "失敗通知",
+    "pronunciation": "en-US · failure notification",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The final review found that failure notification was consistently documented.",
+    "example_zh_tw": "最終審查確認失敗通知已有一致的文件紀錄。"
+  },
+  {
+    "english": "root cause update",
+    "zh_tw": "根因更新",
+    "pronunciation": "en-US · root cause update",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The technical record includes objective evidence for root cause update.",
+    "example_zh_tw": "技術紀錄包含根因更新的客觀證據。"
+  },
+  {
+    "english": "corrective action plan",
+    "zh_tw": "矯正措施計畫",
+    "pronunciation": "en-US · corrective action plan",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The customer requested a clear explanation of corrective action plan.",
+    "example_zh_tw": "客戶要求清楚說明矯正措施計畫。"
+  },
+  {
+    "english": "sample readiness",
+    "zh_tw": "樣品就緒狀態",
+    "pronunciation": "en-US · sample readiness",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The procedure defines the acceptance criterion for sample readiness.",
+    "example_zh_tw": "程序定義了樣品就緒狀態的接受準則。"
+  },
+  {
+    "english": "delivery milestone",
+    "zh_tw": "交付里程碑",
+    "pronunciation": "en-US · delivery milestone",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The test plan identifies how delivery milestone will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄交付里程碑。"
+  },
+  {
+    "english": "meeting minutes",
+    "zh_tw": "會議紀錄",
+    "pronunciation": "en-US · meeting minutes",
+    "category": "customer_communication",
+    "difficulty": "A2",
+    "example": "The project team discussed meeting minutes during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了會議紀錄。"
+  },
+  {
+    "english": "project kickoff discussion",
+    "zh_tw": "專案啟動討論",
+    "pronunciation": "en-US · project kickoff discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The technician verified project kickoff discussion before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了專案啟動討論。"
+  },
+  {
+    "english": "scope confirmation discussion",
+    "zh_tw": "範圍確認討論",
+    "pronunciation": "en-US · scope confirmation discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The team evaluated the technical risk related to scope confirmation discussion.",
+    "example_zh_tw": "團隊評估了與範圍確認討論相關的技術風險。"
+  },
+  {
+    "english": "schedule alignment discussion",
+    "zh_tw": "時程對齊討論",
+    "pronunciation": "en-US · schedule alignment discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The team reviewed schedule alignment discussion before approving the Day 068 test configuration.",
+    "example_zh_tw": "團隊在核准第 068 天的測試配置前審查了時程對齊討論。"
+  },
+  {
+    "english": "technical clarification discussion",
+    "zh_tw": "技術澄清討論",
+    "pronunciation": "en-US · technical clarification discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The reviewer checked technical clarification discussion against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認技術澄清討論。"
+  },
+  {
+    "english": "failure notification discussion",
+    "zh_tw": "失敗通知討論",
+    "pronunciation": "en-US · failure notification discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The test log records the condition associated with failure notification discussion.",
+    "example_zh_tw": "測試日誌記錄了與失敗通知討論相關的條件。"
+  },
+  {
+    "english": "root cause update discussion",
+    "zh_tw": "根因更新討論",
+    "pronunciation": "en-US · root cause update discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "We confirmed root cause update discussion before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了根因更新討論。"
+  },
+  {
+    "english": "corrective action plan discussion",
+    "zh_tw": "矯正措施計畫討論",
+    "pronunciation": "en-US · corrective action plan discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The laboratory evaluates corrective action plan discussion under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估矯正措施計畫討論。"
+  },
+  {
+    "english": "sample readiness discussion",
+    "zh_tw": "樣品就緒狀態討論",
+    "pronunciation": "en-US · sample readiness discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The report links sample readiness discussion to the applicable requirement and result.",
+    "example_zh_tw": "報告將樣品就緒狀態討論連結到適用要求與結果。"
+  },
+  {
+    "english": "delivery milestone discussion",
+    "zh_tw": "交付里程碑討論",
+    "pronunciation": "en-US · delivery milestone discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The engineer compared delivery milestone discussion with the approved baseline.",
+    "example_zh_tw": "工程師將交付里程碑討論與核准基準進行比較。"
+  },
+  {
+    "english": "meeting minutes discussion",
+    "zh_tw": "會議紀錄討論",
+    "pronunciation": "en-US · meeting minutes discussion",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The final review found that meeting minutes discussion was consistently documented.",
+    "example_zh_tw": "最終審查確認會議紀錄討論已有一致的文件紀錄。"
+  },
+  {
+    "english": "project kickoff verification",
+    "zh_tw": "專案啟動確認",
+    "pronunciation": "en-US · project kickoff verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The test plan identifies how project kickoff verification will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄專案啟動確認。"
+  },
+  {
+    "english": "scope confirmation verification",
+    "zh_tw": "範圍確認確認",
+    "pronunciation": "en-US · scope confirmation verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The project team discussed scope confirmation verification during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了範圍確認確認。"
+  },
+  {
+    "english": "schedule alignment verification",
+    "zh_tw": "時程對齊確認",
+    "pronunciation": "en-US · schedule alignment verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The assessor reviewed the traceable evidence supporting schedule alignment verification.",
+    "example_zh_tw": "評鑑人員審查了支持時程對齊確認的可追溯證據。"
+  },
+  {
+    "english": "technical clarification verification",
+    "zh_tw": "技術澄清確認",
+    "pronunciation": "en-US · technical clarification verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The investigation separated observations about technical clarification verification from working hypotheses.",
+    "example_zh_tw": "調查將技術澄清確認的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "failure notification verification",
+    "zh_tw": "失敗通知確認",
+    "pronunciation": "en-US · failure notification verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The engineer explained why failure notification verification was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了失敗通知確認與符合性判定的關聯。"
+  },
+  {
+    "english": "root cause update verification",
+    "zh_tw": "根因更新確認",
+    "pronunciation": "en-US · root cause update verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The technician verified root cause update verification before connecting the sample.",
+    "example_zh_tw": "技術員在連接樣品前確認了根因更新確認。"
+  },
+  {
+    "english": "corrective action plan verification",
+    "zh_tw": "矯正措施計畫確認",
+    "pronunciation": "en-US · corrective action plan verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The team evaluated the technical risk related to corrective action plan verification.",
+    "example_zh_tw": "團隊評估了與矯正措施計畫確認相關的技術風險。"
+  },
+  {
+    "english": "sample readiness verification",
+    "zh_tw": "樣品就緒狀態確認",
+    "pronunciation": "en-US · sample readiness verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The team reviewed sample readiness verification before approving the Day 103 test configuration.",
+    "example_zh_tw": "團隊在核准第 103 天的測試配置前審查了樣品就緒狀態確認。"
+  },
+  {
+    "english": "delivery milestone verification",
+    "zh_tw": "交付里程碑確認",
+    "pronunciation": "en-US · delivery milestone verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The reviewer checked delivery milestone verification against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認交付里程碑確認。"
+  },
+  {
+    "english": "meeting minutes verification",
+    "zh_tw": "會議紀錄確認",
+    "pronunciation": "en-US · meeting minutes verification",
+    "category": "customer_communication",
+    "difficulty": "B1",
+    "example": "The test log records the condition associated with meeting minutes verification.",
+    "example_zh_tw": "測試日誌記錄了與會議紀錄確認相關的條件。"
+  },
+  {
+    "english": "project kickoff issue analysis",
+    "zh_tw": "專案啟動問題分析",
+    "pronunciation": "en-US · project kickoff issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The engineer compared project kickoff issue analysis with the approved baseline.",
+    "example_zh_tw": "工程師將專案啟動問題分析與核准基準進行比較。"
+  },
+  {
+    "english": "scope confirmation issue analysis",
+    "zh_tw": "範圍確認問題分析",
+    "pronunciation": "en-US · scope confirmation issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The final review found that scope confirmation issue analysis was consistently documented.",
+    "example_zh_tw": "最終審查確認範圍確認問題分析已有一致的文件紀錄。"
+  },
+  {
+    "english": "schedule alignment issue analysis",
+    "zh_tw": "時程對齊問題分析",
+    "pronunciation": "en-US · schedule alignment issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The technical record includes objective evidence for schedule alignment issue analysis.",
+    "example_zh_tw": "技術紀錄包含時程對齊問題分析的客觀證據。"
+  },
+  {
+    "english": "technical clarification issue analysis",
+    "zh_tw": "技術澄清問題分析",
+    "pronunciation": "en-US · technical clarification issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The customer requested a clear explanation of technical clarification issue analysis.",
+    "example_zh_tw": "客戶要求清楚說明技術澄清問題分析。"
+  },
+  {
+    "english": "failure notification issue analysis",
+    "zh_tw": "失敗通知問題分析",
+    "pronunciation": "en-US · failure notification issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The procedure defines the acceptance criterion for failure notification issue analysis.",
+    "example_zh_tw": "程序定義了失敗通知問題分析的接受準則。"
+  },
+  {
+    "english": "root cause update issue analysis",
+    "zh_tw": "根因更新問題分析",
+    "pronunciation": "en-US · root cause update issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The test plan identifies how root cause update issue analysis will be controlled and recorded.",
+    "example_zh_tw": "測試計畫說明如何控制並記錄根因更新問題分析。"
+  },
+  {
+    "english": "corrective action plan issue analysis",
+    "zh_tw": "矯正措施計畫問題分析",
+    "pronunciation": "en-US · corrective action plan issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The project team discussed corrective action plan issue analysis during the pre-test meeting.",
+    "example_zh_tw": "專案團隊在測試前會議中討論了矯正措施計畫問題分析。"
+  },
+  {
+    "english": "sample readiness issue analysis",
+    "zh_tw": "樣品就緒狀態問題分析",
+    "pronunciation": "en-US · sample readiness issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The assessor reviewed the traceable evidence supporting sample readiness issue analysis.",
+    "example_zh_tw": "評鑑人員審查了支持樣品就緒狀態問題分析的可追溯證據。"
+  },
+  {
+    "english": "delivery milestone issue analysis",
+    "zh_tw": "交付里程碑問題分析",
+    "pronunciation": "en-US · delivery milestone issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The investigation separated observations about delivery milestone issue analysis from working hypotheses.",
+    "example_zh_tw": "調查將交付里程碑問題分析的觀察結果與待驗證假設分開記錄。"
+  },
+  {
+    "english": "meeting minutes issue analysis",
+    "zh_tw": "會議紀錄問題分析",
+    "pronunciation": "en-US · meeting minutes issue analysis",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The engineer explained why meeting minutes issue analysis was relevant to the compliance decision.",
+    "example_zh_tw": "工程師說明了會議紀錄問題分析與符合性判定的關聯。"
+  },
+  {
+    "english": "project kickoff documentation",
+    "zh_tw": "專案啟動文件化",
+    "pronunciation": "en-US · project kickoff documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The reviewer checked project kickoff documentation against the controlled procedure.",
+    "example_zh_tw": "審查人員依受控程序確認專案啟動文件化。"
+  },
+  {
+    "english": "scope confirmation documentation",
+    "zh_tw": "範圍確認文件化",
+    "pronunciation": "en-US · scope confirmation documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The test log records the condition associated with scope confirmation documentation.",
+    "example_zh_tw": "測試日誌記錄了與範圍確認文件化相關的條件。"
+  },
+  {
+    "english": "schedule alignment documentation",
+    "zh_tw": "時程對齊文件化",
+    "pronunciation": "en-US · schedule alignment documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "We confirmed schedule alignment documentation before releasing the measurement result.",
+    "example_zh_tw": "我們在發布量測結果前確認了時程對齊文件化。"
+  },
+  {
+    "english": "technical clarification documentation",
+    "zh_tw": "技術澄清文件化",
+    "pronunciation": "en-US · technical clarification documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The laboratory evaluates technical clarification documentation under documented environmental conditions.",
+    "example_zh_tw": "實驗室在有紀錄的環境條件下評估技術澄清文件化。"
+  },
+  {
+    "english": "failure notification documentation",
+    "zh_tw": "失敗通知文件化",
+    "pronunciation": "en-US · failure notification documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The report links failure notification documentation to the applicable requirement and result.",
+    "example_zh_tw": "報告將失敗通知文件化連結到適用要求與結果。"
+  },
+  {
+    "english": "root cause update documentation",
+    "zh_tw": "根因更新文件化",
+    "pronunciation": "en-US · root cause update documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The engineer compared root cause update documentation with the approved baseline.",
+    "example_zh_tw": "工程師將根因更新文件化與核准基準進行比較。"
+  },
+  {
+    "english": "corrective action plan documentation",
+    "zh_tw": "矯正措施計畫文件化",
+    "pronunciation": "en-US · corrective action plan documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The final review found that corrective action plan documentation was consistently documented.",
+    "example_zh_tw": "最終審查確認矯正措施計畫文件化已有一致的文件紀錄。"
+  },
+  {
+    "english": "sample readiness documentation",
+    "zh_tw": "樣品就緒狀態文件化",
+    "pronunciation": "en-US · sample readiness documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The technical record includes objective evidence for sample readiness documentation.",
+    "example_zh_tw": "技術紀錄包含樣品就緒狀態文件化的客觀證據。"
+  },
+  {
+    "english": "delivery milestone documentation",
+    "zh_tw": "交付里程碑文件化",
+    "pronunciation": "en-US · delivery milestone documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The customer requested a clear explanation of delivery milestone documentation.",
+    "example_zh_tw": "客戶要求清楚說明交付里程碑文件化。"
+  },
+  {
+    "english": "meeting minutes documentation",
+    "zh_tw": "會議紀錄文件化",
+    "pronunciation": "en-US · meeting minutes documentation",
+    "category": "customer_communication",
+    "difficulty": "B2",
+    "example": "The procedure defines the acceptance criterion for meeting minutes documentation.",
+    "example_zh_tw": "程序定義了會議紀錄文件化的接受準則。"
+  }
+]

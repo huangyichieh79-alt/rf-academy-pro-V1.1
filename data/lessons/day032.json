@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 32,
+  "id": "day032",
+  "topic": "Test Report",
+  "topic_zh_tw": "測試報告英文",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Test Report terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "report identifier",
+      "zh_tw": "報告識別碼",
+      "pronunciation": "en-US · report identifier",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The technician verified report identifier before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了報告識別碼。"
+    },
+    {
+      "english": "test item description",
+      "zh_tw": "受測品描述",
+      "pronunciation": "en-US · test item description",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to test item description.",
+      "example_zh_tw": "團隊評估了與受測品描述相關的技術風險。"
+    },
+    {
+      "english": "measurement condition",
+      "zh_tw": "量測條件",
+      "pronunciation": "en-US · measurement condition",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The team reviewed measurement condition before approving the Day 032 test configuration.",
+      "example_zh_tw": "團隊在核准第 032 天的測試配置前審查了量測條件。"
+    },
+    {
+      "english": "test setup photograph",
+      "zh_tw": "測試配置照片",
+      "pronunciation": "en-US · test setup photograph",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The reviewer checked test setup photograph against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認測試配置照片。"
+    },
+    {
+      "english": "result summary",
+      "zh_tw": "結果摘要",
+      "pronunciation": "en-US · result summary",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with result summary.",
+      "example_zh_tw": "測試日誌記錄了與結果摘要相關的條件。"
+    },
+    {
+      "english": "limit line",
+      "zh_tw": "限值線",
+      "pronunciation": "en-US · limit line",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "We confirmed limit line before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了限值線。"
+    },
+    {
+      "english": "deviation statement",
+      "zh_tw": "偏離聲明",
+      "pronunciation": "en-US · deviation statement",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates deviation statement under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估偏離聲明。"
+    },
+    {
+      "english": "authorized signatory",
+      "zh_tw": "授權簽署人",
+      "pronunciation": "en-US · authorized signatory",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The report links authorized signatory to the applicable requirement and result.",
+      "example_zh_tw": "報告將授權簽署人連結到適用要求與結果。"
+    },
+    {
+      "english": "revision history",
+      "zh_tw": "修訂紀錄",
+      "pronunciation": "en-US · revision history",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The engineer compared revision history with the approved baseline.",
+      "example_zh_tw": "工程師將修訂紀錄與核准基準進行比較。"
+    },
+    {
+      "english": "page numbering",
+      "zh_tw": "頁碼編排",
+      "pronunciation": "en-US · page numbering",
+      "category": "test_report",
+      "difficulty": "A2",
+      "example": "The final review found that page numbering was consistently documented.",
+      "example_zh_tw": "最終審查確認頁碼編排已有一致的文件紀錄。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "I will explain how measurement condition affects compliance.",
+      "zh_tw": "我會說明量測條件如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in test setup photograph.",
+      "zh_tw": "我們的審查未發現測試配置照片有異常。"
+    },
+    {
+      "english": "Can you confirm the acceptance criterion for result summary?",
+      "zh_tw": "你可以確認結果摘要的接受準則嗎？"
+    },
+    {
+      "english": "We isolated limit line as the dominant factor.",
+      "zh_tw": "我們已確認限值線是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on deviation statement.",
+      "zh_tw": "客戶要求提供偏離聲明的精簡進度說明。"
+    }
+  ],
+  "dialogue": {
+    "context": "Test Report pre-test review",
+    "context_zh_tw": "測試報告英文測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified report identifier and recorded the setup.",
+        "zh_tw": "我已確認報告識別碼並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for test item description?",
+        "zh_tw": "很好。有哪些證據支持對受測品描述的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Ground bond fail — Test Report investigation",
+    "title_zh_tw": "接地導通測試失敗：測試報告英文調查",
+    "problem": "A pre-compliance check on Day 032 shows a repeatable ground bond fail condition.",
+    "background": "The Test Report configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "A painted surface increases contact resistance.",
+      "The protective bonding conductor is undersized."
+    ],
+    "check_steps": [
+      "Use a four-wire check across each bond.",
+      "Inspect fastener torque and surface preparation."
+    ],
+    "corrective_actions": [
+      "Remove insulating coating at the bond point.",
+      "Use a compliant conductor and locking hardware."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Test Report design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "RF Test Experience",
+    "question": "Describe your RF test experience. Connect your answer to Test Report.",
+    "hint_zh_tw": "請說明儀器、標準、測試流程與一項可量化成果。 並連結到「測試報告英文」。",
+    "sample_answer": "I plan test configurations, verify instruments, capture traceable results, and investigate abnormal RF behavior. I also explain the technical impact to project teams. In Test Report, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「report identifier」的正確繁體中文是什麼？",
+      "options": [
+        "報告識別碼",
+        "測試配置照片",
+        "偏離聲明",
+        "修訂紀錄"
+      ],
+      "answer": "報告識別碼",
+      "explanation": "report identifier 指的是「報告識別碼」。",
+      "term": "report identifier"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「受測品描述」的正確工程英文是什麼？",
+      "options": [
+        "test item description",
+        "result summary",
+        "authorized signatory",
+        "page numbering"
+      ],
+      "answer": "test item description",
+      "explanation": "工程文件中可使用 test item description。",
+      "term": "test item description"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The team reviewed ________ before approving the Day 032 test configuration.",
+      "prompt_zh_tw": "團隊在核准第 032 天的測試配置前審查了量測條件。",
+      "answer": "measurement condition",
+      "accepted_answers": [
+        "measurement condition"
+      ],
+      "explanation": "完整句子的關鍵詞是 measurement condition。",
+      "term": "measurement condition"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "test setup photograph",
+      "options": [
+        "test setup photograph",
+        "deviation statement",
+        "page numbering",
+        "test item description"
+      ],
+      "answer": "test setup photograph",
+      "explanation": "播放內容是 test setup photograph（測試配置照片）。",
+      "term": "test setup photograph"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Describe your RF test experience. Connect your answer to Test Report.",
+      "prompt_zh_tw": "請說明儀器、標準、測試流程與一項可量化成果。 並連結到「測試報告英文」。",
+      "answer": "I plan test configurations, verify instruments, capture traceable results, and investigate abnormal RF behavior. I also explain the technical impact to project teams. In Test Report, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "result",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "result summary"
+    }
+  ]
+}

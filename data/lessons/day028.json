@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 28,
+  "id": "day028",
+  "topic": "UL",
+  "topic_zh_tw": "UL 安全驗證",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten UL terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "UL listing",
+      "zh_tw": "UL 列名",
+      "pronunciation": "en-US · U-L listing",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about UL listing from working hypotheses.",
+      "example_zh_tw": "調查將UL 列名的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "recognized component",
+      "zh_tw": "認可零組件",
+      "pronunciation": "en-US · recognized component",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The engineer explained why recognized component was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了認可零組件與符合性判定的關聯。"
+    },
+    {
+      "english": "follow-up service",
+      "zh_tw": "後續追蹤服務",
+      "pronunciation": "en-US · follow-up service",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The technician verified follow-up service before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了後續追蹤服務。"
+    },
+    {
+      "english": "construction review",
+      "zh_tw": "結構審查",
+      "pronunciation": "en-US · construction review",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to construction review.",
+      "example_zh_tw": "團隊評估了與結構審查相關的技術風險。"
+    },
+    {
+      "english": "critical component",
+      "zh_tw": "關鍵零組件",
+      "pronunciation": "en-US · critical component",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The team reviewed critical component before approving the Day 028 test configuration.",
+      "example_zh_tw": "團隊在核准第 028 天的測試配置前審查了關鍵零組件。"
+    },
+    {
+      "english": "condition of acceptability",
+      "zh_tw": "接受條件",
+      "pronunciation": "en-US · condition of acceptability",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The reviewer checked condition of acceptability against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認接受條件。"
+    },
+    {
+      "english": "variation notice",
+      "zh_tw": "差異通知",
+      "pronunciation": "en-US · variation notice",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with variation notice.",
+      "example_zh_tw": "測試日誌記錄了與差異通知相關的條件。"
+    },
+    {
+      "english": "factory inspection",
+      "zh_tw": "工廠檢查",
+      "pronunciation": "en-US · factory inspection",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "We confirmed factory inspection before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了工廠檢查。"
+    },
+    {
+      "english": "listing mark",
+      "zh_tw": "列名標誌",
+      "pronunciation": "en-US · listing mark",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates listing mark under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估列名標誌。"
+    },
+    {
+      "english": "certification requirement decision",
+      "zh_tw": "驗證要求決定",
+      "pronunciation": "en-US · certification requirement decision",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The report links certification requirement decision to the applicable requirement and result.",
+      "example_zh_tw": "報告將驗證要求決定連結到適用要求與結果。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "The team will repeat listing mark under the worst-case condition.",
+      "zh_tw": "團隊會在最嚴苛條件下重新執行列名標誌。"
+    },
+    {
+      "english": "The report clearly identifies the method used for certification requirement decision.",
+      "zh_tw": "報告已清楚標示驗證要求決定所使用的方法。"
+    },
+    {
+      "english": "Please include the uncertainty related to UL listing.",
+      "zh_tw": "請納入與UL 列名相關的不確定度。"
+    },
+    {
+      "english": "Please verify recognized component before we start the test.",
+      "zh_tw": "開始測試前，請確認認可零組件。"
+    },
+    {
+      "english": "We need traceable evidence for follow-up service.",
+      "zh_tw": "我們需要可追溯的後續追蹤服務證據。"
+    }
+  ],
+  "dialogue": {
+    "context": "UL pre-test review",
+    "context_zh_tw": "UL 安全驗證測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified UL listing and recorded the setup.",
+        "zh_tw": "我已確認UL 列名並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for recognized component?",
+        "zh_tw": "很好。有哪些證據支持對認可零組件的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "EFT fail — UL investigation",
+    "title_zh_tw": "快速暫態脈衝群測試失敗：UL 安全驗證調查",
+    "problem": "A pre-compliance check on Day 028 shows a repeatable eft fail condition.",
+    "background": "The UL configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Burst energy couples through the power input.",
+      "I/O filtering is located too far from the connector."
+    ],
+    "check_steps": [
+      "Confirm clamp position and coupling length.",
+      "Monitor supply rails and communication errors."
+    ],
+    "corrective_actions": [
+      "Move filtering to the entry point.",
+      "Improve decoupling and cable shielding termination."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the UL design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Why should we hire you?",
+    "question": "Why should we hire you for this engineering role? Connect your answer to UL.",
+    "hint_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「UL 安全驗證」。",
+    "sample_answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In UL, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「UL listing」的正確繁體中文是什麼？",
+      "options": [
+        "UL 列名",
+        "結構審查",
+        "差異通知",
+        "列名標誌"
+      ],
+      "answer": "UL 列名",
+      "explanation": "UL listing 指的是「UL 列名」。",
+      "term": "UL listing"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「認可零組件」的正確工程英文是什麼？",
+      "options": [
+        "recognized component",
+        "critical component",
+        "factory inspection",
+        "certification requirement decision"
+      ],
+      "answer": "recognized component",
+      "explanation": "工程文件中可使用 recognized component。",
+      "term": "recognized component"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The technician verified ________ before connecting the sample.",
+      "prompt_zh_tw": "技術員在連接樣品前確認了後續追蹤服務。",
+      "answer": "follow-up service",
+      "accepted_answers": [
+        "follow-up service"
+      ],
+      "explanation": "完整句子的關鍵詞是 follow-up service。",
+      "term": "follow-up service"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "construction review",
+      "options": [
+        "construction review",
+        "variation notice",
+        "certification requirement decision",
+        "recognized component"
+      ],
+      "answer": "construction review",
+      "explanation": "播放內容是 construction review（結構審查）。",
+      "term": "construction review"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "Why should we hire you for this engineering role? Connect your answer to UL.",
+      "prompt_zh_tw": "連結職務需求、你的證據與能創造的價值。 並連結到「UL 安全驗證」。",
+      "answer": "I combine laboratory discipline, practical debugging, and clear English communication. That helps teams reach compliant designs faster and make decisions from reliable evidence. In UL, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "critical",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "critical component"
+    }
+  ]
+}

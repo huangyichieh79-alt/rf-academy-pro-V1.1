@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 4,
+  "id": "day004",
+  "topic": "Conducted Power",
+  "topic_zh_tw": "傳導功率",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten Conducted Power terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "conducted output power",
+      "zh_tw": "傳導輸出功率",
+      "pronunciation": "en-US · conducted output power",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with conducted output power.",
+      "example_zh_tw": "測試日誌記錄了與傳導輸出功率相關的條件。"
+    },
+    {
+      "english": "average power",
+      "zh_tw": "平均功率",
+      "pronunciation": "en-US · average power",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "We confirmed average power before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了平均功率。"
+    },
+    {
+      "english": "peak power",
+      "zh_tw": "峰值功率",
+      "pronunciation": "en-US · peak power",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates peak power under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估峰值功率。"
+    },
+    {
+      "english": "power tolerance",
+      "zh_tw": "功率容差",
+      "pronunciation": "en-US · power tolerance",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The report links power tolerance to the applicable requirement and result.",
+      "example_zh_tw": "報告將功率容差連結到適用要求與結果。"
+    },
+    {
+      "english": "cable loss",
+      "zh_tw": "纜線損耗",
+      "pronunciation": "en-US · cable loss",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The engineer compared cable loss with the approved baseline.",
+      "example_zh_tw": "工程師將纜線損耗與核准基準進行比較。"
+    },
+    {
+      "english": "attenuator pad",
+      "zh_tw": "衰減器",
+      "pronunciation": "en-US · attenuator pad",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The final review found that attenuator pad was consistently documented.",
+      "example_zh_tw": "最終審查確認衰減器已有一致的文件紀錄。"
+    },
+    {
+      "english": "power sensor",
+      "zh_tw": "功率感測器",
+      "pronunciation": "en-US · power sensor",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for power sensor.",
+      "example_zh_tw": "技術紀錄包含功率感測器的客觀證據。"
+    },
+    {
+      "english": "transmit chain",
+      "zh_tw": "發射鏈路",
+      "pronunciation": "en-US · transmit chain",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of transmit chain.",
+      "example_zh_tw": "客戶要求清楚說明發射鏈路。"
+    },
+    {
+      "english": "output backoff",
+      "zh_tw": "輸出回退",
+      "pronunciation": "en-US · output backoff",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for output backoff.",
+      "example_zh_tw": "程序定義了輸出回退的接受準則。"
+    },
+    {
+      "english": "maximum power setting",
+      "zh_tw": "最大功率設定",
+      "pronunciation": "en-US · maximum power setting",
+      "category": "rf",
+      "difficulty": "A2",
+      "example": "The test plan identifies how maximum power setting will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄最大功率設定。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "We isolated cable loss as the dominant factor.",
+      "zh_tw": "我們已確認纜線損耗是主要影響因素。"
+    },
+    {
+      "english": "The customer requested a concise update on attenuator pad.",
+      "zh_tw": "客戶要求提供衰減器的精簡進度說明。"
+    },
+    {
+      "english": "The measured power sensor remains within the specified limit.",
+      "zh_tw": "量測到的功率感測器仍在規定限值內。"
+    },
+    {
+      "english": "Could you record transmit chain in the test log?",
+      "zh_tw": "可以請你把發射鏈路記錄在測試日誌嗎？"
+    },
+    {
+      "english": "The latest result indicates a change in output backoff.",
+      "zh_tw": "最新結果顯示輸出回退有所變化。"
+    }
+  ],
+  "dialogue": {
+    "context": "Conducted Power pre-test review",
+    "context_zh_tw": "傳導功率測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified conducted output power and recorded the setup.",
+        "zh_tw": "我已確認傳導輸出功率並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for average power?",
+        "zh_tw": "很好。有哪些證據支持對平均功率的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "EFT fail — Conducted Power investigation",
+    "title_zh_tw": "快速暫態脈衝群測試失敗：傳導功率調查",
+    "problem": "A pre-compliance check on Day 004 shows a repeatable eft fail condition.",
+    "background": "The Conducted Power configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Burst energy couples through the power input.",
+      "I/O filtering is located too far from the connector."
+    ],
+    "check_steps": [
+      "Confirm clamp position and coupling length.",
+      "Monitor supply rails and communication errors."
+    ],
+    "corrective_actions": [
+      "Move filtering to the entry point.",
+      "Improve decoupling and cable shielding termination."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the Conducted Power design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Safety Test Experience",
+    "question": "How do you prepare for a product safety test? Connect your answer to Conducted Power.",
+    "hint_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「傳導功率」。",
+    "sample_answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In Conducted Power, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「conducted output power」的正確繁體中文是什麼？",
+      "options": [
+        "傳導輸出功率",
+        "功率容差",
+        "功率感測器",
+        "輸出回退"
+      ],
+      "answer": "傳導輸出功率",
+      "explanation": "conducted output power 指的是「傳導輸出功率」。",
+      "term": "conducted output power"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「平均功率」的正確工程英文是什麼？",
+      "options": [
+        "average power",
+        "cable loss",
+        "transmit chain",
+        "maximum power setting"
+      ],
+      "answer": "average power",
+      "explanation": "工程文件中可使用 average power。",
+      "term": "average power"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The laboratory evaluates ________ under documented environmental conditions.",
+      "prompt_zh_tw": "實驗室在有紀錄的環境條件下評估峰值功率。",
+      "answer": "peak power",
+      "accepted_answers": [
+        "peak power"
+      ],
+      "explanation": "完整句子的關鍵詞是 peak power。",
+      "term": "peak power"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "power tolerance",
+      "options": [
+        "power tolerance",
+        "power sensor",
+        "maximum power setting",
+        "average power"
+      ],
+      "answer": "power tolerance",
+      "explanation": "播放內容是 power tolerance（功率容差）。",
+      "term": "power tolerance"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How do you prepare for a product safety test? Connect your answer to Conducted Power.",
+      "prompt_zh_tw": "從關鍵零組件、絕緣、接地與異常條件回答。 並連結到「傳導功率」。",
+      "answer": "I review the construction, critical components, insulation system, and fault conditions before testing. I document every configuration so the evidence remains traceable. In Conducted Power, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "cable",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "cable loss"
+    }
+  ]
+}

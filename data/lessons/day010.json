@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 10,
+  "id": "day010",
+  "topic": "EMC Basic",
+  "topic_zh_tw": "電磁相容基礎",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten EMC Basic terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "electromagnetic compatibility",
+      "zh_tw": "電磁相容",
+      "pronunciation": "en-US · electromagnetic compatibility",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about electromagnetic compatibility from working hypotheses.",
+      "example_zh_tw": "調查將電磁相容的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "emission limit",
+      "zh_tw": "發射限值",
+      "pronunciation": "en-US · emission limit",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The engineer explained why emission limit was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了發射限值與符合性判定的關聯。"
+    },
+    {
+      "english": "immunity level",
+      "zh_tw": "耐受度等級",
+      "pronunciation": "en-US · immunity level",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The technician verified immunity level before connecting the sample.",
+      "example_zh_tw": "技術員在連接樣品前確認了耐受度等級。"
+    },
+    {
+      "english": "equipment under test",
+      "zh_tw": "受測設備",
+      "pronunciation": "en-US · equipment under test",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team evaluated the technical risk related to equipment under test.",
+      "example_zh_tw": "團隊評估了與受測設備相關的技術風險。"
+    },
+    {
+      "english": "auxiliary equipment",
+      "zh_tw": "輔助設備",
+      "pronunciation": "en-US · auxiliary equipment",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The team reviewed auxiliary equipment before approving the Day 010 test configuration.",
+      "example_zh_tw": "團隊在核准第 010 天的測試配置前審查了輔助設備。"
+    },
+    {
+      "english": "test configuration",
+      "zh_tw": "測試配置",
+      "pronunciation": "en-US · test configuration",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The reviewer checked test configuration against the controlled procedure.",
+      "example_zh_tw": "審查人員依受控程序確認測試配置。"
+    },
+    {
+      "english": "ground reference plane",
+      "zh_tw": "接地參考平面",
+      "pronunciation": "en-US · ground reference plane",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The test log records the condition associated with ground reference plane.",
+      "example_zh_tw": "測試日誌記錄了與接地參考平面相關的條件。"
+    },
+    {
+      "english": "coupling path",
+      "zh_tw": "耦合路徑",
+      "pronunciation": "en-US · coupling path",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "We confirmed coupling path before releasing the measurement result.",
+      "example_zh_tw": "我們在發布量測結果前確認了耦合路徑。"
+    },
+    {
+      "english": "common-mode current",
+      "zh_tw": "共模電流",
+      "pronunciation": "en-US · common-mode current",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The laboratory evaluates common-mode current under documented environmental conditions.",
+      "example_zh_tw": "實驗室在有紀錄的環境條件下評估共模電流。"
+    },
+    {
+      "english": "differential-mode current",
+      "zh_tw": "差模電流",
+      "pronunciation": "en-US · differential-mode current",
+      "category": "emc",
+      "difficulty": "A2",
+      "example": "The report links differential-mode current to the applicable requirement and result.",
+      "example_zh_tw": "報告將差模電流連結到適用要求與結果。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Please verify electromagnetic compatibility before we start the test.",
+      "zh_tw": "開始測試前，請確認電磁相容。"
+    },
+    {
+      "english": "We need traceable evidence for emission limit.",
+      "zh_tw": "我們需要可追溯的發射限值證據。"
+    },
+    {
+      "english": "Let us compare immunity level with the approved configuration.",
+      "zh_tw": "讓我們把耐受度等級與核准配置進行比對。"
+    },
+    {
+      "english": "I will explain how equipment under test affects compliance.",
+      "zh_tw": "我會說明受測設備如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in auxiliary equipment.",
+      "zh_tw": "我們的審查未發現輔助設備有異常。"
+    }
+  ],
+  "dialogue": {
+    "context": "EMC Basic pre-test review",
+    "context_zh_tw": "電磁相容基礎測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified electromagnetic compatibility and recorded the setup.",
+        "zh_tw": "我已確認電磁相容並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for emission limit?",
+        "zh_tw": "很好。有哪些證據支持對發射限值的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Antenna gain mismatch — EMC Basic investigation",
+    "title_zh_tw": "天線增益不一致：電磁相容基礎調查",
+    "problem": "A pre-compliance check on Day 010 shows a repeatable antenna gain mismatch condition.",
+    "background": "The EMC Basic configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "The production antenna differs from the approved sample.",
+      "Cable loss was omitted from the gain calculation."
+    ],
+    "check_steps": [
+      "Confirm antenna part number and revision.",
+      "Recalculate gain using calibrated path loss."
+    ],
+    "corrective_actions": [
+      "Restore the approved antenna configuration.",
+      "Update the technical file when an authorized change applies."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the EMC Basic design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Explain how you solved a problem",
+    "question": "How did you solve a difficult engineering problem? Connect your answer to EMC Basic.",
+    "hint_zh_tw": "以可重現問題、假設、實驗、證據與決策回答。 並連結到「電磁相容基礎」。",
+    "sample_answer": "I converted the issue into testable hypotheses, controlled the variables, and recorded each result. The evidence identified the root cause and supported a low-risk corrective action. In EMC Basic, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「electromagnetic compatibility」的正確繁體中文是什麼？",
+      "options": [
+        "電磁相容",
+        "受測設備",
+        "接地參考平面",
+        "共模電流"
+      ],
+      "answer": "電磁相容",
+      "explanation": "electromagnetic compatibility 指的是「電磁相容」。",
+      "term": "electromagnetic compatibility"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「發射限值」的正確工程英文是什麼？",
+      "options": [
+        "emission limit",
+        "auxiliary equipment",
+        "coupling path",
+        "differential-mode current"
+      ],
+      "answer": "emission limit",
+      "explanation": "工程文件中可使用 emission limit。",
+      "term": "emission limit"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The technician verified ________ before connecting the sample.",
+      "prompt_zh_tw": "技術員在連接樣品前確認了耐受度等級。",
+      "answer": "immunity level",
+      "accepted_answers": [
+        "immunity level"
+      ],
+      "explanation": "完整句子的關鍵詞是 immunity level。",
+      "term": "immunity level"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "equipment under test",
+      "options": [
+        "equipment under test",
+        "ground reference plane",
+        "differential-mode current",
+        "emission limit"
+      ],
+      "answer": "equipment under test",
+      "explanation": "播放內容是 equipment under test（受測設備）。",
+      "term": "equipment under test"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How did you solve a difficult engineering problem? Connect your answer to EMC Basic.",
+      "prompt_zh_tw": "以可重現問題、假設、實驗、證據與決策回答。 並連結到「電磁相容基礎」。",
+      "answer": "I converted the issue into testable hypotheses, controlled the variables, and recorded each result. The evidence identified the root cause and supported a low-risk corrective action. In EMC Basic, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "auxiliary",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "auxiliary equipment"
+    }
+  ]
+}

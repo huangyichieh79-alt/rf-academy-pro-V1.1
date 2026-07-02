@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "day": 30,
+  "id": "day030",
+  "topic": "EN",
+  "topic_zh_tw": "EN 歐洲標準",
+  "stage": "fundamentals",
+  "stage_zh_tw": "基礎理解",
+  "duration_minutes": 15,
+  "objectives": [
+    "Use ten EN terms accurately.",
+    "Explain one evidence-based engineering decision.",
+    "Complete a five-question mixed-format quiz."
+  ],
+  "vocabulary": [
+    {
+      "english": "European standard",
+      "zh_tw": "歐洲標準",
+      "pronunciation": "en-US · European standard",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The engineer compared European standard with the approved baseline.",
+      "example_zh_tw": "工程師將歐洲標準與核准基準進行比較。"
+    },
+    {
+      "english": "national adoption",
+      "zh_tw": "國家採用",
+      "pronunciation": "en-US · national adoption",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The final review found that national adoption was consistently documented.",
+      "example_zh_tw": "最終審查確認國家採用已有一致的文件紀錄。"
+    },
+    {
+      "english": "withdrawal date",
+      "zh_tw": "撤銷日期",
+      "pronunciation": "en-US · withdrawal date",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The technical record includes objective evidence for withdrawal date.",
+      "example_zh_tw": "技術紀錄包含撤銷日期的客觀證據。"
+    },
+    {
+      "english": "presumption of conformity",
+      "zh_tw": "推定符合",
+      "pronunciation": "en-US · presumption of conformity",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The customer requested a clear explanation of presumption of conformity.",
+      "example_zh_tw": "客戶要求清楚說明推定符合。"
+    },
+    {
+      "english": "common modification",
+      "zh_tw": "共同修改",
+      "pronunciation": "en-US · common modification",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The procedure defines the acceptance criterion for common modification.",
+      "example_zh_tw": "程序定義了共同修改的接受準則。"
+    },
+    {
+      "english": "European committee",
+      "zh_tw": "歐洲標準委員會",
+      "pronunciation": "en-US · European committee",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The test plan identifies how European committee will be controlled and recorded.",
+      "example_zh_tw": "測試計畫說明如何控制並記錄歐洲標準委員會。"
+    },
+    {
+      "english": "dated reference",
+      "zh_tw": "註明日期引用",
+      "pronunciation": "en-US · dated reference",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The project team discussed dated reference during the pre-test meeting.",
+      "example_zh_tw": "專案團隊在測試前會議中討論了註明日期引用。"
+    },
+    {
+      "english": "undated reference",
+      "zh_tw": "未註明日期引用",
+      "pronunciation": "en-US · undated reference",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The assessor reviewed the traceable evidence supporting undated reference.",
+      "example_zh_tw": "評鑑人員審查了支持未註明日期引用的可追溯證據。"
+    },
+    {
+      "english": "annex ZA",
+      "zh_tw": "附錄 ZA",
+      "pronunciation": "en-US · annex ZA",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The investigation separated observations about annex ZA from working hypotheses.",
+      "example_zh_tw": "調查將附錄 ZA的觀察結果與待驗證假設分開記錄。"
+    },
+    {
+      "english": "standard amendment",
+      "zh_tw": "標準修訂",
+      "pronunciation": "en-US · standard amendment",
+      "category": "certification",
+      "difficulty": "A2",
+      "example": "The engineer explained why standard amendment was relevant to the compliance decision.",
+      "example_zh_tw": "工程師說明了標準修訂與符合性判定的關聯。"
+    }
+  ],
+  "common_sentences": [
+    {
+      "english": "Please verify European standard before we start the test.",
+      "zh_tw": "開始測試前，請確認歐洲標準。"
+    },
+    {
+      "english": "We need traceable evidence for national adoption.",
+      "zh_tw": "我們需要可追溯的國家採用證據。"
+    },
+    {
+      "english": "Let us compare withdrawal date with the approved configuration.",
+      "zh_tw": "讓我們把撤銷日期與核准配置進行比對。"
+    },
+    {
+      "english": "I will explain how presumption of conformity affects compliance.",
+      "zh_tw": "我會說明推定符合如何影響符合性。"
+    },
+    {
+      "english": "Our review found no abnormality in common modification.",
+      "zh_tw": "我們的審查未發現共同修改有異常。"
+    }
+  ],
+  "dialogue": {
+    "context": "EN pre-test review",
+    "context_zh_tw": "EN 歐洲標準測試前審查",
+    "lines": [
+      {
+        "speaker": "Engineer",
+        "english": "I have verified European standard and recorded the setup.",
+        "zh_tw": "我已確認歐洲標準並記錄測試設定。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Good. What evidence supports the decision for national adoption?",
+        "zh_tw": "很好。有哪些證據支持對國家採用的判定？"
+      },
+      {
+        "speaker": "Engineer",
+        "english": "The calibrated result, uncertainty record, and setup photographs are linked in the test log.",
+        "zh_tw": "校正後的結果、不確定度紀錄與測試設定照片都已連結於測試日誌。"
+      },
+      {
+        "speaker": "Reviewer",
+        "english": "Please confirm the acceptance criterion before releasing the report.",
+        "zh_tw": "發布報告前，請確認接受準則。"
+      }
+    ]
+  },
+  "debug_case": {
+    "title": "Safety hipot fail — EN investigation",
+    "title_zh_tw": "耐電壓測試失敗：EN 歐洲標準調查",
+    "problem": "A pre-compliance check on Day 030 shows a repeatable safety hipot fail condition.",
+    "background": "The EN configuration was documented before the result was compared with the applicable criterion. This is a realistic training scenario; learners must distinguish observations from hypotheses.",
+    "possible_causes": [
+      "Insulation spacing is insufficient.",
+      "Moisture or flux residue lowers insulation resistance."
+    ],
+    "check_steps": [
+      "Inspect the failure location before retesting.",
+      "Separate components and wiring to isolate the path."
+    ],
+    "corrective_actions": [
+      "Correct spacing and insulation construction.",
+      "Control cleaning and humidity before the test."
+    ],
+    "supervisor_question": "How would you prove the root cause before changing the EN design?",
+    "suggested_answer": "I would first verify the setup and reproduce the result. Then I would isolate one variable at a time, record objective evidence, and repeat the measurement after the corrective action."
+  },
+  "interview_question": {
+    "category": "Explain how you solved a problem",
+    "question": "How did you solve a difficult engineering problem? Connect your answer to EN.",
+    "hint_zh_tw": "以可重現問題、假設、實驗、證據與決策回答。 並連結到「EN 歐洲標準」。",
+    "sample_answer": "I converted the issue into testable hypotheses, controlled the variables, and recorded each result. The evidence identified the root cause and supported a low-risk corrective action. In EN, I make sure that conclusions are supported by controlled measurements.",
+    "natural_rewrite": "A natural engineering answer uses a clear context, your specific action, objective evidence, and the resulting technical or business impact."
+  },
+  "quiz": [
+    {
+      "id": "en-zh",
+      "type": "english_to_chinese",
+      "prompt": "「European standard」的正確繁體中文是什麼？",
+      "options": [
+        "歐洲標準",
+        "推定符合",
+        "註明日期引用",
+        "附錄 ZA"
+      ],
+      "answer": "歐洲標準",
+      "explanation": "European standard 指的是「歐洲標準」。",
+      "term": "European standard"
+    },
+    {
+      "id": "zh-en",
+      "type": "chinese_to_english",
+      "prompt": "「國家採用」的正確工程英文是什麼？",
+      "options": [
+        "national adoption",
+        "common modification",
+        "undated reference",
+        "standard amendment"
+      ],
+      "answer": "national adoption",
+      "explanation": "工程文件中可使用 national adoption。",
+      "term": "national adoption"
+    },
+    {
+      "id": "blank",
+      "type": "fill_in_the_blank",
+      "prompt": "The technical record includes objective evidence for ________.",
+      "prompt_zh_tw": "技術紀錄包含撤銷日期的客觀證據。",
+      "answer": "withdrawal date",
+      "accepted_answers": [
+        "withdrawal date"
+      ],
+      "explanation": "完整句子的關鍵詞是 withdrawal date。",
+      "term": "withdrawal date"
+    },
+    {
+      "id": "listen",
+      "type": "listening",
+      "prompt": "播放語音後，選出你聽到的專業詞彙。",
+      "speech": "presumption of conformity",
+      "options": [
+        "presumption of conformity",
+        "dated reference",
+        "standard amendment",
+        "national adoption"
+      ],
+      "answer": "presumption of conformity",
+      "explanation": "播放內容是 presumption of conformity（推定符合）。",
+      "term": "presumption of conformity"
+    },
+    {
+      "id": "interview",
+      "type": "interview_short_answer",
+      "prompt": "How did you solve a difficult engineering problem? Connect your answer to EN.",
+      "prompt_zh_tw": "以可重現問題、假設、實驗、證據與決策回答。 並連結到「EN 歐洲標準」。",
+      "answer": "I converted the issue into testable hypotheses, controlled the variables, and recorded each result. The evidence identified the root cause and supported a low-risk corrective action. In EN, I make sure that conclusions are supported by controlled measurements.",
+      "keywords": [
+        "common",
+        "evidence",
+        "result"
+      ],
+      "explanation": "回答應包含具體行動、工程證據與結果；系統採關鍵概念給分。",
+      "term": "common modification"
+    }
+  ]
+}

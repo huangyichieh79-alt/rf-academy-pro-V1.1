@@ -1,0 +1,254 @@
+[
+  {
+    "id": "debug-01",
+    "title": "Radiated emission fail",
+    "title_zh_tw": "輻射發射超標",
+    "problem": "A repeatable radiated emission fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "An unintended cable current is acting as an antenna.",
+      "The enclosure seam has insufficient shielding."
+    ],
+    "check_steps": [
+      "Rotate the turntable and change antenna height to locate the maximum.",
+      "Use a current probe to identify the dominant cable path."
+    ],
+    "corrective_actions": [
+      "Add common-mode suppression at the cable interface.",
+      "Improve seam bonding and repeat the final measurement."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-02",
+    "title": "Conducted emission fail",
+    "title_zh_tw": "傳導發射超標",
+    "problem": "A repeatable conducted emission fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The switching supply has inadequate input filtering.",
+      "A common-mode return path couples noise to the mains."
+    ],
+    "check_steps": [
+      "Compare line and neutral spectra with both detector modes.",
+      "Probe the input filter and switching node."
+    ],
+    "corrective_actions": [
+      "Optimize the common-mode choke and X/Y capacitors.",
+      "Shorten the high-current switching loop."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-03",
+    "title": "ESD fail",
+    "title_zh_tw": "靜電放電測試失敗",
+    "problem": "A repeatable esd fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The discharge current reaches a sensitive reset line.",
+      "Chassis bonding impedance is too high."
+    ],
+    "check_steps": [
+      "Reproduce the failing point and polarity.",
+      "Monitor reset, power, and clock lines during discharge."
+    ],
+    "corrective_actions": [
+      "Add a low-inductance chassis path.",
+      "Improve transient protection and firmware recovery."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-04",
+    "title": "EFT fail",
+    "title_zh_tw": "快速暫態脈衝群測試失敗",
+    "problem": "A repeatable eft fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "Burst energy couples through the power input.",
+      "I/O filtering is located too far from the connector."
+    ],
+    "check_steps": [
+      "Confirm clamp position and coupling length.",
+      "Monitor supply rails and communication errors."
+    ],
+    "corrective_actions": [
+      "Move filtering to the entry point.",
+      "Improve decoupling and cable shielding termination."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-05",
+    "title": "Surge fail",
+    "title_zh_tw": "雷擊突波測試失敗",
+    "problem": "A repeatable surge fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The protection device clamping voltage is too high.",
+      "The surge return path has excessive inductance."
+    ],
+    "check_steps": [
+      "Verify coupling mode, polarity, and phase angle.",
+      "Measure residual voltage at the protected circuit."
+    ],
+    "corrective_actions": [
+      "Select a coordinated surge protection network.",
+      "Reduce loop area in the surge current path."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-06",
+    "title": "Safety hipot fail",
+    "title_zh_tw": "耐電壓測試失敗",
+    "problem": "A repeatable safety hipot fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "Insulation spacing is insufficient.",
+      "Moisture or flux residue lowers insulation resistance."
+    ],
+    "check_steps": [
+      "Inspect the failure location before retesting.",
+      "Separate components and wiring to isolate the path."
+    ],
+    "corrective_actions": [
+      "Correct spacing and insulation construction.",
+      "Control cleaning and humidity before the test."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-07",
+    "title": "Leakage current fail",
+    "title_zh_tw": "漏電流測試失敗",
+    "problem": "A repeatable leakage current fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "Y-capacitance is excessive for the product class.",
+      "A wiring error bypasses the intended insulation."
+    ],
+    "check_steps": [
+      "Verify the measuring network and supply polarity.",
+      "Measure each filter branch separately."
+    ],
+    "corrective_actions": [
+      "Rebalance filter capacitance within EMC and safety limits.",
+      "Correct wiring and repeat all required conditions."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-08",
+    "title": "Ground bond fail",
+    "title_zh_tw": "接地導通測試失敗",
+    "problem": "A repeatable ground bond fail result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "A painted surface increases contact resistance.",
+      "The protective bonding conductor is undersized."
+    ],
+    "check_steps": [
+      "Use a four-wire check across each bond.",
+      "Inspect fastener torque and surface preparation."
+    ],
+    "corrective_actions": [
+      "Remove insulating coating at the bond point.",
+      "Use a compliant conductor and locking hardware."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-09",
+    "title": "Certification document missing",
+    "title_zh_tw": "驗證文件缺漏",
+    "problem": "A repeatable certification document missing result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The submitted model list does not match the report.",
+      "A critical component certificate has expired."
+    ],
+    "check_steps": [
+      "Compare the submission checklist with the technical file.",
+      "Verify certificate scope, model, and validity."
+    ],
+    "corrective_actions": [
+      "Update controlled documents and obtain approval.",
+      "Record the corrected revision in the submission index."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-10",
+    "title": "Antenna gain mismatch",
+    "title_zh_tw": "天線增益不一致",
+    "problem": "A repeatable antenna gain mismatch result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The production antenna differs from the approved sample.",
+      "Cable loss was omitted from the gain calculation."
+    ],
+    "check_steps": [
+      "Confirm antenna part number and revision.",
+      "Recalculate gain using calibrated path loss."
+    ],
+    "corrective_actions": [
+      "Restore the approved antenna configuration.",
+      "Update the technical file when an authorized change applies."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-11",
+    "title": "Wrong test setup",
+    "title_zh_tw": "測試設定錯誤",
+    "problem": "A repeatable wrong test setup result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The measurement distance is incorrect.",
+      "The required auxiliary mode was not activated."
+    ],
+    "check_steps": [
+      "Pause the test and compare setup against the method.",
+      "Photograph connections and verify instrument settings."
+    ],
+    "corrective_actions": [
+      "Rebuild the setup from the approved checklist.",
+      "Invalidate affected results and repeat the sequence."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  },
+  {
+    "id": "debug-12",
+    "title": "Incorrect sample configuration",
+    "title_zh_tw": "樣品配置錯誤",
+    "problem": "A repeatable incorrect sample configuration result is found during a controlled compliance evaluation.",
+    "background": "The setup and sample configuration are recorded. The engineer must verify the observation, isolate the coupling or failure path, and preserve traceable evidence.",
+    "possible_causes": [
+      "The wrong firmware or regional mode is installed.",
+      "The sample is not transmitting at the required worst case."
+    ],
+    "check_steps": [
+      "Record hardware, firmware, and regulatory domain.",
+      "Verify mode, channel, bandwidth, and power setting."
+    ],
+    "corrective_actions": [
+      "Load the controlled configuration.",
+      "Add configuration evidence to the test record."
+    ],
+    "supervisor_question": "How would you confirm the root cause and demonstrate that the correction is effective?",
+    "suggested_answer": "I would verify the setup, reproduce the result, and change one controlled variable at a time. After identifying the root cause, I would repeat the required test and document objective evidence."
+  }
+]
